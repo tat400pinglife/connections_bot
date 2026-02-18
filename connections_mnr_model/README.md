@@ -1,27 +1,55 @@
 ---
 tags:
 - sentence-transformers
-- cross-encoder
-- reranker
+- sentence-similarity
+- feature-extraction
+- dense
 - generated_from_trainer
-- dataset_size:9963
-- loss:FitMixinLoss
-base_model: sentence-transformers/all-mpnet-base-v2
-pipeline_tag: text-ranking
+- dataset_size:19753
+- loss:MultipleNegativesRankingLoss
+base_model: sentence-transformers/all-MiniLM-L6-v2
+widget:
+- source_sentence: LIMIT
+  sentences:
+  - NAIL
+  - CONTAIN
+  - GALAXY
+- source_sentence: EXCHANGE
+  sentences:
+  - DEALINGS
+  - DIRECT
+  - HATCH
+- source_sentence: DRESSING
+  sentences:
+  - BANDAGE
+  - KNOCK
+  - RED
+- source_sentence: STAKE
+  sentences:
+  - JON
+  - REEL
+  - CRUCIFIX
+- source_sentence: COTTAGE
+  sentences:
+  - EDELWEISS
+  - STRING
+  - AFFECT
+pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
 
-# CrossEncoder based on sentence-transformers/all-mpnet-base-v2
+# SentenceTransformer based on sentence-transformers/all-MiniLM-L6-v2
 
-This is a [Cross Encoder](https://www.sbert.net/docs/cross_encoder/usage/usage.html) model finetuned from [sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) using the [sentence-transformers](https://www.SBERT.net) library. It computes scores for pairs of texts, which can be used for text reranking and semantic search.
+This is a [sentence-transformers](https://www.SBERT.net) model finetuned from [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2). It maps sentences & paragraphs to a 384-dimensional dense vector space and can be used for semantic textual similarity, semantic search, paraphrase mining, text classification, clustering, and more.
 
 ## Model Details
 
 ### Model Description
-- **Model Type:** Cross Encoder
-- **Base model:** [sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2) <!-- at revision e8c3b32edf5434bc2275fc9bab85f82640a19130 -->
-- **Maximum Sequence Length:** 512 tokens
-- **Number of Output Labels:** 1 label
+- **Model Type:** Sentence Transformer
+- **Base model:** [sentence-transformers/all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) <!-- at revision c9745ed1d9f207416be6d2e6f8de32d1f16199bf -->
+- **Maximum Sequence Length:** 256 tokens
+- **Output Dimensionality:** 384 dimensions
+- **Similarity Function:** Cosine Similarity
 <!-- - **Training Dataset:** Unknown -->
 <!-- - **Language:** Unknown -->
 <!-- - **License:** Unknown -->
@@ -29,9 +57,18 @@ This is a [Cross Encoder](https://www.sbert.net/docs/cross_encoder/usage/usage.h
 ### Model Sources
 
 - **Documentation:** [Sentence Transformers Documentation](https://sbert.net)
-- **Documentation:** [Cross Encoder Documentation](https://www.sbert.net/docs/cross_encoder/usage/usage.html)
 - **Repository:** [Sentence Transformers on GitHub](https://github.com/huggingface/sentence-transformers)
-- **Hugging Face:** [Cross Encoders on Hugging Face](https://huggingface.co/models?library=sentence-transformers&other=cross-encoder)
+- **Hugging Face:** [Sentence Transformers on Hugging Face](https://huggingface.co/models?library=sentence-transformers)
+
+### Full Model Architecture
+
+```
+SentenceTransformer(
+  (0): Transformer({'max_seq_length': 256, 'do_lower_case': False, 'architecture': 'BertModel'})
+  (1): Pooling({'word_embedding_dimension': 384, 'pooling_mode_cls_token': False, 'pooling_mode_mean_tokens': True, 'pooling_mode_max_tokens': False, 'pooling_mode_mean_sqrt_len_tokens': False, 'pooling_mode_weightedmean_tokens': False, 'pooling_mode_lasttoken': False, 'include_prompt': True})
+  (2): Normalize()
+)
+```
 
 ## Usage
 
@@ -45,34 +82,26 @@ pip install -U sentence-transformers
 
 Then you can load this model and run inference.
 ```python
-from sentence_transformers import CrossEncoder
+from sentence_transformers import SentenceTransformer
 
 # Download from the 🤗 Hub
-model = CrossEncoder("cross_encoder_model_id")
-# Get scores for pairs of texts
-pairs = [
-    ['ADDER, BOA, MAMBA, MOCCASIN', ''],
-    ['FIELD, CONCENTRATION, FOCUS, LENS', ''],
-    ['POLE, ROD, STAFF, STICK', ''],
-    ['INSTRUMENT, PAWN, PUPPET, TOOL', ''],
-    ['MUSK, ROSE, VANILLA, HAZEL', ''],
+model = SentenceTransformer("sentence_transformers_model_id")
+# Run inference
+sentences = [
+    'COTTAGE',
+    'STRING',
+    'EDELWEISS',
 ]
-scores = model.predict(pairs)
-print(scores.shape)
-# (5,)
+embeddings = model.encode(sentences)
+print(embeddings.shape)
+# [3, 384]
 
-# Or rank different texts based on similarity to a single text
-ranks = model.rank(
-    'ADDER, BOA, MAMBA, MOCCASIN',
-    [
-        '',
-        '',
-        '',
-        '',
-        '',
-    ]
-)
-# [{'corpus_id': ..., 'score': ...}, {'corpus_id': ..., 'score': ...}, ...]
+# Get the similarity scores for the embeddings
+similarities = model.similarity(embeddings, embeddings)
+print(similarities)
+# tensor([[1.0000, 0.3762, 0.1855],
+#         [0.3762, 1.0000, 0.0896],
+#         [0.1855, 0.0896, 1.0000]])
 ```
 
 <!--
@@ -117,27 +146,35 @@ You can finetune this model on your own dataset.
 
 #### Unnamed Dataset
 
-* Size: 9,963 training samples
-* Columns: <code>sentence_0</code>, <code>sentence_1</code>, and <code>label</code>
+* Size: 19,753 training samples
+* Columns: <code>sentence_0</code> and <code>sentence_1</code>
 * Approximate statistics based on the first 1000 samples:
-  |         | sentence_0                                                                                     | sentence_1                                                                                 | label                                                          |
-  |:--------|:-----------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------|:---------------------------------------------------------------|
-  | type    | string                                                                                         | string                                                                                     | float                                                          |
-  | details | <ul><li>min: 10 characters</li><li>mean: 28.27 characters</li><li>max: 59 characters</li></ul> | <ul><li>min: 0 characters</li><li>mean: 0.0 characters</li><li>max: 0 characters</li></ul> | <ul><li>min: 0.0</li><li>mean: 0.36</li><li>max: 1.0</li></ul> |
+  |         | sentence_0                                                                     | sentence_1                                                                      |
+  |:--------|:-------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|
+  | type    | string                                                                         | string                                                                          |
+  | details | <ul><li>min: 3 tokens</li><li>mean: 3.2 tokens</li><li>max: 9 tokens</li></ul> | <ul><li>min: 3 tokens</li><li>mean: 3.31 tokens</li><li>max: 8 tokens</li></ul> |
 * Samples:
-  | sentence_0                                     | sentence_1    | label            |
-  |:-----------------------------------------------|:--------------|:-----------------|
-  | <code>ADDER, BOA, MAMBA, MOCCASIN</code>       | <code></code> | <code>1.0</code> |
-  | <code>FIELD, CONCENTRATION, FOCUS, LENS</code> | <code></code> | <code>0.0</code> |
-  | <code>POLE, ROD, STAFF, STICK</code>           | <code></code> | <code>1.0</code> |
-* Loss: [<code>FitMixinLoss</code>](https://sbert.net/docs/package_reference/cross_encoder/losses.html#fitmixinloss)
+  | sentence_0           | sentence_1          |
+  |:---------------------|:--------------------|
+  | <code>GROUP</code>   | <code>BUNCH</code>  |
+  | <code>OUTLET</code>  | <code>MARKET</code> |
+  | <code>STRETCH</code> | <code>REST</code>   |
+* Loss: [<code>MultipleNegativesRankingLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#multiplenegativesrankingloss) with these parameters:
+  ```json
+  {
+      "scale": 20.0,
+      "similarity_fct": "cos_sim",
+      "gather_across_devices": false
+  }
+  ```
 
 ### Training Hyperparameters
 #### Non-Default Hyperparameters
 
-- `per_device_train_batch_size`: 16
-- `per_device_eval_batch_size`: 16
-- `num_train_epochs`: 4
+- `per_device_train_batch_size`: 32
+- `per_device_eval_batch_size`: 32
+- `num_train_epochs`: 10
+- `multi_dataset_batch_sampler`: round_robin
 
 #### All Hyperparameters
 <details><summary>Click to expand</summary>
@@ -145,8 +182,8 @@ You can finetune this model on your own dataset.
 - `do_predict`: False
 - `eval_strategy`: no
 - `prediction_loss_only`: True
-- `per_device_train_batch_size`: 16
-- `per_device_eval_batch_size`: 16
+- `per_device_train_batch_size`: 32
+- `per_device_eval_batch_size`: 32
 - `gradient_accumulation_steps`: 1
 - `eval_accumulation_steps`: None
 - `torch_empty_cache_steps`: None
@@ -156,7 +193,7 @@ You can finetune this model on your own dataset.
 - `adam_beta2`: 0.999
 - `adam_epsilon`: 1e-08
 - `max_grad_norm`: 1
-- `num_train_epochs`: 4
+- `num_train_epochs`: 10
 - `max_steps`: -1
 - `lr_scheduler_type`: linear
 - `lr_scheduler_kwargs`: None
@@ -236,7 +273,7 @@ You can finetune this model on your own dataset.
 - `use_cache`: False
 - `prompts`: None
 - `batch_sampler`: batch_sampler
-- `multi_dataset_batch_sampler`: proportional
+- `multi_dataset_batch_sampler`: round_robin
 - `router_mapping`: {}
 - `learning_rate_mapping`: {}
 
@@ -245,10 +282,18 @@ You can finetune this model on your own dataset.
 ### Training Logs
 | Epoch  | Step | Training Loss |
 |:------:|:----:|:-------------:|
-| 0.8026 | 500  | 0.1993        |
-| 1.6051 | 1000 | 0.1488        |
-| 2.4077 | 1500 | 0.1206        |
-| 3.2103 | 2000 | 0.1018        |
+| 0.8091 | 500  | 3.0986        |
+| 1.6181 | 1000 | 2.8124        |
+| 2.4272 | 1500 | 2.6729        |
+| 3.2362 | 2000 | 2.5368        |
+| 4.0453 | 2500 | 2.4253        |
+| 4.8544 | 3000 | 2.3171        |
+| 5.6634 | 3500 | 2.2019        |
+| 6.4725 | 4000 | 2.1360        |
+| 7.2816 | 4500 | 2.0682        |
+| 8.0906 | 5000 | 2.0361        |
+| 8.8997 | 5500 | 1.9572        |
+| 9.7087 | 6000 | 1.9599        |
 
 
 ### Framework Versions
@@ -274,6 +319,18 @@ You can finetune this model on your own dataset.
     year = "2019",
     publisher = "Association for Computational Linguistics",
     url = "https://arxiv.org/abs/1908.10084",
+}
+```
+
+#### MultipleNegativesRankingLoss
+```bibtex
+@misc{henderson2017efficient,
+    title={Efficient Natural Language Response Suggestion for Smart Reply},
+    author={Matthew Henderson and Rami Al-Rfou and Brian Strope and Yun-hsuan Sung and Laszlo Lukacs and Ruiqi Guo and Sanjiv Kumar and Balint Miklos and Ray Kurzweil},
+    year={2017},
+    eprint={1705.00652},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
 }
 ```
 

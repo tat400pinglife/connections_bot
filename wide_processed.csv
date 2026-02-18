@@ -1,0 +1,3661 @@
+word1,word2,word3,word4,category,difficulty
+curses,fudge,blast,crud,"""aw, heck!""",medium
+choral,jazz,rap,americana,"""best ___ performance"" grammy award",very_hard
+lord,please,sheesh,brother,"""give me a break!""",easy
+heavens,gracious,mercy,dear,"""my goodness!""",easy
+piece of cake,no sweat,easy,child’s play,"""nothing to it!""",easy
+bumper,rubber,baby,buggy,"""rubber baby buggy bumper""",medium
+faster,go,move,hurry,"""step on it!""",medium
+of course,absolutely,okey-doke,sure thing,"""you bet""",easy
+shame,tut tut,tsk,bad,"""you should know better!""",easy
+macho,iron,piano,rocket,"""___ man"" songs from the '70s",very_hard
+abracadabra,centerfold,mickey,physical,#1 songs from 1982,very_hard
+byrd,beatle,monkee,beach boy,'60s band members,easy
+headband,mullet,spandex,neon,'80s fashion trends,easy
+psych,chill,radical,word,'80s slang,hard
+drummer,lady,ring,swan,12 days of christmas,hard
+sphere,cone,pyramid,cube,3-d shapes,medium
+certain,various,a few,some,a handful of,medium
+rat,creep,skunk,heel,a real jerk,medium
+ok,list,rod,plus,a-___,very_hard
+maroon,strand,dump,desert,abandon,medium
+midsection,trunk,torso,core,abdominal area,easy
+facility,gift,knack,flair,ability to do something well,hard
+utter,pure,sheer,total,absolute,medium
+spare,excuse,save,pardon,absolve,easy
+pull,wick,suck,draw,absorb using capillary action,easy
+handy,ready,nearby,available,accessible,medium
+tie,bracelet,belt,watch,accessories,easy
+lead,halter,collar,harness,accessories for dog walking,medium
+top hat,cane,spat,monocle,accessories for mr. peanut,very_hard
+pick,drumstick,bow,mallet,accessories for playing an instrument,medium
+pin,button,badge,brooch,accessory with a pointy fastener,easy
+room,chairs,capacity,seating,accommodation,medium
+log,ledger,register,record,account book,easy
+best,worst,beat,take,achieve victory over,medium
+goat,bogo,fomo,yolo,acronyms,hard
+laser,scuba,radar,spam,acronyms,very_hard
+ram,pin,mia,omg,acronyms/initialisms,hard
+martial arts,buddy,disaster,superhero,action film subgenres,hard
+bay,scott,carpenter,woo,action movie directors,very_hard
+play,discard,draw,pass,actions in card games,hard
+draft,trade,bench,start,actions in fantasy sports,hard
+poker,origami,laundry,baking,activities that involve folding,very_hard
+chevy chase,geoffrey rush,christoph waltz,tom cruise,actors whose last names are also verbs,medium
+west,ant,scott,driver,adams,very_hard
+fashion,tailor,shape,mold,adapt to fit one's needs,medium
+extra,bonus,frosting,gravy,additional benefit,hard
+extra,bonus,perk,icing,additional benefit,medium
+icing,extra,gravy,bonus,additional perk,easy
+plaster,stick,fix,paste,adhere,easy
+pretty,rather,real,awful,adjective intensifiers,hard
+cold,dark,musty,dank,adjectives for a basement,medium
+lit,scented,wicked,waxy,adjectives for a candle,very_hard
+dry,vast,sandy,hot,adjectives for a desert,medium
+sporty,compact,sleek,fast,adjectives for a sports car,medium
+toxic,frozen,fixed,liquid,adjectives for assets,medium
+fresh,dewy,glowing,smooth,adjectives for nice skin,easy
+direct,possessive,present,irregular,adjectives used in grammar,hard
+billboard,sign,poster,banner,advertising format,easy
+champion,support,back,endorse,advocate for,hard
+endorse,champion,support,back,advocate for,medium
+touch,move,sway,reach,affect,easy
+complex,hang-up,bugbear,demon,affliction,easy
+rich,flush,loaded,wealthy,affluent,easy
+voice,choice,say,vote,agency in decisionmaking,easy
+amount,number,quantity,volume,aggregate size,medium
+first,coach,premium,business,airline classes,medium
+spirit,united,virgin,frontier,airlines,easy
+frontier,spirit,southwest,alaska,airlines,medium
+arrival,destination,gate,flight,airport board info,medium
+carousel,food court,gate,lounge,airport features,medium
+snooze,time set,alarm,hour,alarm clock buttons,easy
+recess,hollow,nook,cavity,alcove,easy
+amber,porter,sour,stout,ale styles,hard
+flare,sos,alarm,signal,alert,easy
+power,root,exponent,radical,algebra terms,hard
+reason,out,defense,excuse,alibi,hard
+champ,goat,best,legend,all-time great,medium
+icon,great,hero,legend,all-timer,medium
+association,guild,league,union,alliance,easy
+stake,interest,share,percentage,allotment,hard
+reserved,cool,distant,remote,aloof,easy
+besides,to boot,as well,too,also,medium
+doctor,fudge,distort,twist,alter deceptively,hard
+cluster,concentrate,group,collect,amass,medium
+toucan,capybara,anaconda,jaguar,amazon animals,easy
+prime,kindle,rainforest,river,amazon ___,very_hard
+mood,quality,air,feeling,ambience,medium
+easy,open,flexible,receptive,amenable,easy
+punt,snap,sack,fumble,american football actions,hard
+end,center,safety,tackle,american football positions,hard
+pound,olds,frost,bishop,american poets,hard
+thatch,lock,tuft,shock,amounts of hair,medium
+tilt-a-whirl,merry-go-round,roller coaster,ferris wheel,amusement park rides,easy
+arts,nope,pone,rats,anagrams,hard
+staple,pleats,tsar,pastel,anagrams,hard
+peon,petals,star,open,anagrams,hard
+abel,sera,ares,ears,anagrams,medium
+bela,bale,live,veil,anagrams,medium
+evil,able,sear,vile,anagrams,medium
+tesla,stale,least,slate,anagrams,very_hard
+monte,dial,yoga,egads,anagrams of famous painters,very_hard
+groan,bulge,abut,voila,anagrams of musical instruments,very_hard
+noise,static,snow,fuzz,analog tv interference,hard
+clay,papyrus,wax,parchment,ancient writing surfaces,easy
+scales,down,shell,fur,animal coverings,hard
+pride,herd,flock,pod,animal group names,easy
+swarm,pack,colony,school,animal group names,easy
+pride,pack,swarm,school,animal group names,hard
+pride,school,herd,colony,animal groups,easy
+den,hive,lair,nest,animal homes,easy
+warren,lodge,den,burrow,animal homes,medium
+dear,mousse,new,bare,animal homophones,hard
+bore,towed,hoarse,links,animal homophones,very_hard
+dear,phish,wail,hair,animal homophones,very_hard
+bear,hawk,bull,dove,animal metaphors in economics,medium
+beak,muzzle,trunk,snout,animal noses,medium
+meow,oink,buzz,cluck,animal sounds,medium
+tang,reed,drib,flow,animals backward,very_hard
+wombat,geoduck,seahorse,titmouse,animals ending with animals,very_hard
+newt,frog,bat,dog,animals in the witches' brew in “macbeth”,hard
+anther,hark,easel,lama,animals minus starting letter,very_hard
+lynx,ibex,oryx,fox,animals that end with “x”,medium
+horsefly,bulldog,turtledove,catfish,animals whose names are two animals,easy
+elephant,hippo,warthog,narwhal,animals with tusks,hard
+trumpet,herald,broadcast,declare,announce,easy
+bah,grinch,coal,naughty,anti-spirit of christmas,hard
+garlic,mirror,crucifix,stake,anti-vampire,medium
+gov,chem,bio,stats,ap classes,hard
+height,top,peak,max,apex,medium
+shade,spirit,specter,wight,apparition,medium
+phantom,ghost,spirit,specter,apparitions,medium
+dress,manner,style,look,appearance,medium
+arm,wing,fin,flipper,appendages,medium
+popper,nacho,wing,fry,appetizer unit,easy
+brandy,sauce,cider,butter,apple products,hard
+crush,squash,press,mash,apply pressure to,medium
+duration,location,time,date,appointment specifications,medium
+thanks,credit,praise,recognition,appreciation,easy
+thumbs-up,clearance,green light,go-ahead,approval,medium
+rough,broad,ballpark,general,approximate,easy
+like,roughly,about,around,approximately,easy
+bent,gift,flair,flair,aptitude,easy
+nose,faculty,instinct,gift,aptitude,easy
+pump,rocks,tank,filter,aquarium purchases,hard
+mite,scorpion,spider,tick,arachnids,easy
+chair,judge,mediate,moderate,arbitrate,easy
+rainbow,flight path,eyebrow,banana,arc-shaped things,medium
+hawkeye,cupid,robin hood,sagittarius,archers,medium
+bow,target,arrow,quiver,archery equipment,easy
+ruler,stencil,t-square,compass,architectural drawing tools,hard
+get it,capisce,understand,see,are we clear?,hard
+specialty,field,concentration,focus,area of expertise,easy
+bank,mound,hill,dune,area of high ground,easy
+pass,ravine,gulch,canyon,areas between mountains and hills,easy
+concentration,major,degree,minor,areas of academic focus,medium
+hippodrome,coliseum,bowl,stadium,arena,medium
+subtract,add,multiply,divide,arithmetic operations,medium
+major,private,general,captain,army ranks,easy
+paint,charcoal,pastel,ink,art mediums,hard
+gothic,deco,dada,pop,art movements,medium
+manner,surreal,romantic,expression,"art movements, with -ism",very_hard
+mite,aphid,beetle,tick,arthropods,easy
+station,job,position,post,assignment,medium
+light,yang,masculine,expansive,associated principles in chinese philosophy,very_hard
+pencil,derek jeter,silver medal,deputy,associated with #2,very_hard
+taurus,rodeo,wall street,michael jordan,associated with bulls,hard
+bat,castle,cape,fang,associated with count dracula,medium
+rooster,sunrise,dew,worm,associated with early morning,hard
+slip,oedipus,dreams,id,associated with freud,medium
+ladybug,shamrock,horseshoe,penny,associated with good luck,easy
+steel,diamond,rock,nails,associated with hardness,hard
+pipe,forearm,spinach,anchor,associated with popeye,hard
+leprechaun,unicorn,pride,dorothy gale,associated with rainbows,hard
+fish,libra,solfege,justice,associated with scales,hard
+dysentery,ford,hunt,oxen,associated with the game the oregon trail,hard
+lamp,blue,wishes,earring,associated with the genie in “aladdin”,hard
+con game,hearts,halloween,magic show,associated with tricks,very_hard
+infant,swimming,ticker,pub,associated with “crawl”,very_hard
+chocolate,pigeon,peace,soap,associated with “dove”,hard
+cyclops,solitaire,unicycle,monologue,associated with “one”,very_hard
+cigarette,ticket,toe,pencil,associated with “stub”,hard
+bathrobe,bowling,rug,white russian,associated with “the dude” lebowski,very_hard
+cinch,lock,secure,ice,"assure, as a victory",medium
+lock,secure,clinch,guarantee,"assure, as a win",medium
+later,next,soon,eventually,at some future point,easy
+deposit,balance,transfer,withdrawal,atm options,hard
+deposit,withdrawal,checking,savings,atm options,medium
+stick,paste,stick,affix,attach with adhesive,easy
+adhere,glue,glue,adhere,attach with adhesive,easy
+earn,land,win,score,attain,easy
+absent,present,late,excused,attendance status,medium
+duds,getup,threads,fit,attire,easy
+hook,pull,grab,draw,attract,medium
+draw,charm,pull,appeal,attraction,hard
+liberty bell,tower of pisa,venus de milo,statue of liberty,attractions iconically different from their original forms,hard
+bare,unclad,nude,naked,au naturel,easy
+shazam,tidal,audible,pandora,audio apps,easy
+super,ultra,hyper,uber,augmentative prefixes,medium
+bare,spare,plain,simple,austere,medium
+crikey,bush,barbie,mate,australian terms,hard
+reverse,drive,neutral,low,automatic gear shifter positions,hard
+reverse,drive,neutral,park,automatic transmission settings,medium
+solo,free,stag,single,available,medium
+fifth,broadway,park,madison,avenues in n.y.c.,hard
+standard,mean,norm,par,average,easy
+skirt,duck,escape,dodge,avoid,easy
+medal,cup,trophy,ribbon,awards,medium
+fire,lit,sick,dope,awesome,easy
+movie,ball,school,vitamin,b-___,very_hard
+bacon,bread,lettuce,tomato,b.l.t. ingredients,easy
+kit,calf,cub,fawn,baby animals,hard
+kid,cub,calf,joey,baby animals,medium
+stroller,bib,bottle,monitor,baby gear,easy
+carrot,shower,boom,talk,baby ___,very_hard
+steps,blues,boomer,teeth,baby ___,very_hard
+lip,sass,attitude,cheek,back talk,medium
+aegis,protection,guard,shield,backing,easy
+booty,bum,rear,can,backside,medium
+mar,god,tab,flow,backwards animals,very_hard
+whiff,slice,shank,hook,bad golf shots,hard
+freeze,lag,drop,echo,bad things for a video call to do,easy
+quit,freeze,timeout,glitch,bad things for a website to do,hard
+sour,rank,foul,ripe,bad-smelling,easy
+heel,dog,jerk,snake,baddie,very_hard
+vex,stump,puzzle,perplex,baffle,easy
+onion,poppy,everything,plain,bagel flavors,hard
+danish,muffin,turnover,bun,baked goods,medium
+horsefeathers,hogwash,nonsense,crock,balderdash,easy
+bunk,bull,hogwash,rot,balderdash,easy
+trope,platitude,chestnut,cliché,banality,easy
+split,boat,bread,slug,banana ___,very_hard
+floyd,day,stripes,sabbath,band names minus colors,very_hard
+maroon,sum,u,blink,band names minus numbers,very_hard
+maroon,jackson,ben folds,mc,bands minus the number five,very_hard
+knock,butt,ram,bump,bang into,medium
+happy hour,trivia night,karaoke,live music,bar events,medium
+stool,keg,counter,tap,bar fixtures,medium
+exam,mitzvah,soap,chart,bar ___,very_hard
+spine,spur,thorn,sticker,barb,medium
+buy,value,deal,steal,bargain,medium
+tank,cylinder,cask,drum,barrel-shaped container,easy
+safe,ball,strike,out,baseball calls,easy
+foul,out,ball,fair,baseball calls,hard
+ball,bat,glove,base,baseball equipment,easy
+mantle,bonds,trout,young,baseball greats,very_hard
+run,walk,double,hit,baseball stats,hard
+diamond,stadium,park,field,baseball venues,hard
+up,left,right,down,basic directions,easy
+anger,surprise,fear,happiness,basic emotions,easy
+length,area,volume,perimeter,basic geometric calculations,easy
+line,point,ray,segment,basic geometric objects,medium
+sour,salty,bitter,sweet,basic tastes,easy
+triangle,square,circle,diamond,basic two-dimensional shapes,medium
+dribble,block,pass,shoot,basketball moves,hard
+layup,floater,three,dunk,basketball shots,easy
+finger roll,alley-oop,fadeaway,slam dunk,basketball shots,hard
+rib,wing,dog,link,bbq offering,hard
+chill,lounge,rest,loaf,be at leisure,easy
+rest,rely,depend,hinge,be contingent (on),easy
+lead,run,direct,head,be in charge of,easy
+work,function,operate,run,be in commission,medium
+waver,waffle,hesitate,yo-yo,be indecisive,easy
+surround,flank,bookend,bracket,be on both sides of,medium
+showboat,swagger,grandstand,posture,be ostentatious,easy
+shore,coast,strand,bank,beachy area,medium
+dip,sprout,counter,bag,bean ___,very_hard
+fava,lima,pinto,kidney,beans,easy
+include,consider,factor,count,bear in mind,easy
+hug,witness,claw,fruit,bear ___,very_hard
+learn,realize,discover,find,become aware of,medium
+mushroom,snowball,swell,balloon,become larger,hard
+throw,sheet,sham,blanket,bedding,medium
+murphy,canopy,bunk,trundle,beds,easy
+hive,wax,honey,comb,bee creations,medium
+batter,garden,pong,can,beer ___,very_hard
+stella,natty,bud,sierra,"beers, familiarly",hard
+genesis,birth,start,dawn,beginning,easy
+sundry,friar,monkey,wedding,beginning with day abbreviations,very_hard
+eerie,llama,aardvark,ooze,beginning with double letters,hard
+forehead,fievel,toucan,wonder,beginning with number homophones,very_hard
+buttermilk,bumper-to-bumper,rumpelstiltskin,tailgate,beginning with synonyms for rear end,very_hard
+sake,interest,advantage,benefit,behalf,medium
+whale,whopper,colossus,mammoth,behemoth,medium
+buff,tan,fawn,cream,beige shades,hard
+button,flop,dance,laugh,belly ___,very_hard
+close,tight,intimate,dear,"beloved, as a friend",medium
+give,bow,cave,buckle,bend under pressure,medium
+ray,milk,capote,lincoln,best actor-winning biopics,very_hard
+stone,madison,swank,foster,best actress oscar winners,hard
+berry,berry,stone,swank,best actress oscar winners,hard
+frozen,up,flow,brave,best animated feature oscar winners,very_hard
+bong,lee,stone,ford,best director oscar winners,very_hard
+apple,crow,turner,summer,best female rock performance grammy winners,very_hard
+gladiator,crash,moonlight,chicago,best picture winners since 2000,hard
+pinnacle,heyday,zenith,prime,best years,easy
+grant,vest,present,confer,bestow,medium
+napkin,cup,straw,lid,beverage self-service items,medium
+juice,punch,soda,milk,beverages,easy
+job,acts,mark,kings,bible books,medium
+splash,impact,footprint,mark,big impression,medium
+brake,chain,spoke,pedal,bike parts,medium
+gear,saddle,handlebar,wheel,bike parts,medium
+chalk,cue,rack,ball,billiards equipment,hard
+false,no,yes,true,binary question options,hard
+atom,molecule,protein,cell,biological building blocks,easy
+tundra,forest,desert,grassland,biomes,easy
+jobs,vice,milk,blonde,biopics,very_hard
+wing,feather,beak,talon,bird features,easy
+gobble,coo,hoot,honk,bird onomatopoeia,hard
+swank,crowd,gully,puffing,bird plus letter,very_hard
+tweet,chirp,caw,cluck,bird sounds,easy
+kite,swallow,jay,turkey,birds,hard
+crane,lark,swallow,jay,birds,hard
+swift,robin,swift,cardinal,birds,hard
+condo,loo,hero,rave,birds minus last letter,very_hard
+cran,flaming,haw,hero,birds minus last letter,very_hard
+duck,grouse,swallow,hawk,birds that are verbs,medium
+suggestion,tip,trick,pointer,bit of advice,easy
+puff,pebble,cheerio,flake,bit of breakfast cereal,hard
+wedge,zest,slice,twist,bit of citrus garnish,hard
+high,kick,rush,thrill,bit of excitement,easy
+tress,ringlet,curl,lock,bit of hair,easy
+report,article,story,feature,bit of journalism,medium
+parcel,patch,plot,bed,bit of land for growing,medium
+act,bill,resolution,measure,bit of legislation,easy
+glob,tear,bead,drop,bit of liquid,hard
+hex,charm,spell,curse,bit of magic,easy
+article,story,column,feature,bit of newspaper writing,easy
+garland,confetti,balloon,banner,bit of party decoration,hard
+drill,exercise,practice,routine,bit of repetitive training,medium
+dip,wing,chip,fry,bit of sports bar fare,medium
+presto,voila,behold,tada,bit of vocal fanfare,medium
+draft,breeze,puff,gust,bit of wind,medium
+dance,monologue,song,sketch,bits in a variety show,medium
+screw,nut,washer,nail,bits of hardware,easy
+kernel,tidbit,pearl,nugget,bits of wisdom,medium
+raven,inky,jet,pitch,black,medium
+balance sheet,roulette,checkers,licorice,black or red,very_hard
+gay,butler,hooks,walker,black women authors,very_hard
+panda,skunk,zebra,orca,black-and-white animals,easy
+oreo,zebra,tuxedo,yin-yang symbol,black-and-white things,easy
+domino,piano keys,crossword,panda,black-and-white things,easy
+orca,oreo,domino,crossword,black-and-white things,medium
+split,hit,bust,stand,blackjack terms,very_hard
+mar,ding,scratch,dent,blemish,easy
+puree,grind,pulse,chop,blender buttons,medium
+wink,heartbeat,second,flash,blink of an eye,medium
+seal,plug,stop,close,"block, as an opening",easy
+sensation,hit,success,smash,blockbuster,medium
+whale,moon,jay,jeans,blue ___,hard
+boo-boo,no-no,flub,gaffe,blunder,easy
+boo-boo,goof,gaffe,flub,blunder,easy
+sorry,chess,backgammon,go,board games,easy
+checkers,trouble,taboo,risk,board games,easy
+sorry,trouble,clue,risk,board games,medium
+bluster,show off,strut,crow,boast,easy
+ferry,junk,tug,yacht,boats,easy
+barge,scow,dory,sloop,boats,medium
+hope,dole,ross,marley,bobs,hard
+sound,strait,canal,channel,bodies of water,hard
+sound,bay,channel,strait,bodies of water,medium
+driver,finlet,flake,ebay,bodies of water plus starting letter,very_hard
+rankle,lear,ship,barm,body part plus a starting letter,very_hard
+arm,hip,eye,leg,body parts,easy
+toes,knees,shoulders,head,"body parts in “head, shoulders, knees and toes”",easy
+shiny,livery,army,colony,"body parts plus ""y""",very_hard
+hearth,shine,china,butte,body parts plus letter,very_hard
+squats,lunges,dips,planks,bodyweight exercises,easy
+nerve,gall,guts,stones,"boldness, figuratively",medium
+index,chapter,appendix,preface,book sections,medium
+part one,essays,a life,a novel,book subtitles,hard
+band,florist,officiant,caterer,booked for a wedding,medium
+humor,romance,travel,fiction,bookstore sections,hard
+travel,humor,poetry,fiction,bookstore sections,medium
+pod,shell,husk,hull,botanical coverings,medium
+evian,dasani,fiji,voss,bottled water brands,easy
+edge,border,extremity,limit,boundary,easy
+buffalo,goat,cow,sheep,bovids,easy
+pin,alley,ball,lane,bowling,medium
+strike,foul,spare,strike,bowling results,hard
+turkey,double,spare,split,bowling results,hard
+winner,smash,hit,success,box office victory,easy
+cross,hook,bob,weave,boxing maneuvers,hard
+jab,cross,hook,uppercut,boxing punches,hard
+round,bout,match,contest,boxing unit,medium
+hook,wire,strap,cup,bra parts,hard
+luxury,high-end,designer,haute,brand-name,easy
+q-tip,chapstick,xerox,jacuzzi,brands that have become generic terms,very_hard
+cheek,nerve,brass,sauce,brashness,very_hard
+mustard,brat,bun,sauerkraut,bratwurst go-withs,medium
+scope,extent,extent,range,breadth,easy
+range,reach,reach,scope,breadth,easy
+scale,extent,scope,range,breadth,medium
+butter,jam,hot sauce,syrup,breakfast condiments,hard
+waffle,pancake,cereal,omelet,breakfast foods,medium
+bacon,toast,grits,hash,breakfast sides,easy
+puff,heave,gasp,pant,breathe hard,easy
+huffs,gasps,puffs,pants,breathes heavily,easy
+ring,veil,bouquet,train,bridal accessories,easy
+wink,flash,second,jiffy,brief moment,easy
+jiff,wink,flash,heartbeat,brief moment,easy
+provoke,inspire,generate,prompt,bring about,easy
+devise,create,invent,coin,bring into being,easy
+nurse,rear,raise,foster,bring up,hard
+roast,scone,mash,trifle,british cuisine,hard
+pound,dram,stone,ounce,british imperial units of weight,hard
+telly,footy,chippy,butty,britishisms,very_hard
+blur,suede,oasis,pulp,britpop bands,very_hard
+air,show,screen,run,broadcast,medium
+run,stream,air,play,"broadcast, as online media",medium
+phantom,fiddler,sunset,merrily,"broadway musicals, familiarly",hard
+umbrella,sunscreen,towel,flip-flop,brought to the beach,easy
+wing,bill,nickel,soldier,buffalo ___,very_hard
+stick,pant,smite,blouse,bugs plus starting letter,very_hard
+wing,addition,extension,annex,building add-ons,medium
+brick,concrete,metal,stone,building materials,medium
+bank,supermarket,laundromat,post office,buildings around town,easy
+cluster,collection,group,constellation,bunch,easy
+foul,screw,muck,louse,"bungle, with “up”",very_hard
+mature,blossom,develop,progress,burgeon,medium
+boa,corset,garter,stockings,burlesque wear,easy
+fan,corset,gloves,boa,burlesque wear,medium
+jack,bub,bud,man,buster,medium
+buns,tail,bottom,seat,butt,easy
+business,trade,market,commerce,buying and selling,easy
+span,section,suite,clef,c-___,very_hard
+energy,state,justice,labor,cabinet departments,very_hard
+bet,discovery,nickelodeon,e,cable channels,medium
+usa,oxygen,hallmark,history,cable channels,medium
+pool,store,reserve,bank,cache,medium
+time,meter,rhythm,beat,cadence,medium
+equals,percent,times,minus,calculator buttons,easy
+fujifilm,polaroid,hasselblad,olympus,camera brands,medium
+shirt,sticker,button,hat,campaign swag,hard
+lantern,sleeping bag,tent,cooler,camping supplies,easy
+cut,axe,scrap,drop,"cancel, as a project",easy
+crunch,milky way,bounty,dove,candy bars,easy
+mars,heath,crunch,payday,candy bars,easy
+snicker,airhead,mar,mound,candy bars minus “s”,hard
+york,kinder,wonka,charms,candy names,hard
+whopper,kiss,runt,nerd,candy pieces,hard
+goober,kiss,dot,whopper,candy pieces,very_hard
+licorice,gum,lollipop,chocolate,candy store treats,medium
+apple,bar,corn,cane,candy ___,very_hard
+fur,tail,muzzle,paw,canine/feline features,medium
+neck,make out,french,kiss,canoodle,medium
+soul,roam,sophia,keto,capital city homophones,very_hard
+impulse,fancy,lark,whim,caprice,easy
+hook,america,nemo,morgan,captains,hard
+grab,occupy,rivet,entrance,captivate,easy
+hold,charm,rivet,engage,captivate,easy
+thrill,entrance,absorb,absorb,captivate,easy
+tape,record,film,shoot,capture on video,medium
+ford,ram,dodge,lincoln,car brands,easy
+mini,fiat,jaguar,ram,car brands,hard
+subaru,honda,jaguar,bmw,car companies,hard
+doge,aura,hoda,buck,car companies minus letter,very_hard
+volt,focus,beetle,civic,car models,very_hard
+beep beep,vroom,skrrt,purr,car onomatopoeia,medium
+rim,grille,mirror,bumper,car parts,medium
+enterprise,thrifty,national,budget,car rental companies,hard
+drive,cruise,spin,ride,car trip,medium
+whip,auto,ride,wheels,"car, informally",medium
+war,bridge,spoons,speed,card games,medium
+bridge,hearts,spit,gin,card games,medium
+joker,gummy,fridge,din,card games with first letter changed,very_hard
+turn,hole,river,flop,cards in texas hold ’em,hard
+pot,fertilize,water,prune,care for a plant,medium
+heave,reel,pitch,lurch,careen,easy
+saw,clamp,level,file,carpentry tools,hard
+scat,whistle,hum,sing,carry a tune,easy
+harbor,hold,maintain,bear,"carry, as a feeling",medium
+foghorn,woody,woodstock,scrooge,cartoon birds,hard
+garfield,sylvester,tom,felix,cartoon cats,medium
+goof,lad,snoop,droop,cartoon dogs minus “y”,very_hard
+jerry,speedy,pinky,itchy,cartoon mice,very_hard
+lose,shed,ditch,drop,cast off,medium
+russian blue,turkish angora,ragamuffin,sphynx,cat breeds,easy
+tortoiseshell,tuxedo,calico,tabby,cat coat patterns,medium
+bask,sun,tan,bake,catch some rays,medium
+blanket,general,umbrella,broad,catchall,medium
+bop,banger,jam,groove,catchy song,medium
+nap,walk,tail,fish,cat___,very_hard
+cradle,pajamas,eye,meow,cat’s ___,very_hard
+shower,birthday,anniversary,wedding,celebratory occasions,easy
+comet,planet,star,moon,celestial objects,easy
+asteroid,moon,planet,comet,celestial objects,medium
+silent,focus,vibrate,ring,cell phone modes,easy
+airplane,ring,do not disturb,vibrate,cellphone modes,easy
+midriff,torso,core,trunk,central section of the body,easy
+rooster,leprechaun,elves,count,cereal mascots,hard
+lucky,tony,pop,sam,cereal mascots,very_hard
+store,letter,reaction,mail,chain ___,very_hard
+pool,drawing,lottery,raffle,chance to win a prize,hard
+renege,flip-flop,backpedal,about-face,change one’s tune,medium
+condense,freeze,melt,vaporize,change states of matter,easy
+medium,platform,venue,outlet,channel,medium
+q,m,moneypenny,bond,characters in bond movies,hard
+solo,emperor,chewie,boba,"characters in “the empire strikes back,"" familiarly",hard
+hulk,grinch,elphaba,shrek,characters with green skin,medium
+charlie,wallace,dorothy,shaggy,characters with pet dogs,hard
+jaw,yak,yap,gab,"chat, informally",easy
+magazine,charging cable,chapstick,candy,checkout line impulse buys,medium
+bright,bouncy,sunny,merry,cheerful,easy
+american,blue,swiss,jack,"cheeses, familiarly",easy
+ball,puff,curl,doodle,cheesy corn snack unit,hard
+solution,bond,element,base,chemistry terms,medium
+relish,savor,value,treasure,cherish,easy
+gambit,mate,bishop,queen,chess terms,medium
+fire,spice,kick,heat,chili pepper quality,medium
+han,song,tang,ming,chinese dynasties,very_hard
+horse,tiger,dragon,rabbit,chinese zodiac animals,very_hard
+mounds,mars,crunch,chunky,chocolate bars,medium
+skort,dover,marsh,crunchy,chocolate bars plus a letter,very_hard
+pick,cream,top,best,choicest,hard
+stocking,snowman,reindeer,mistletoe,christmas-related,easy
+record,register,log,journal,chronicle,easy
+cherish,have,love,hold,church of england wedding vow verbs,hard
+mint,mango,tamarind,tomato,chutney varieties,hard
+gall,cheek,nerve,brass,chutzpah,easy
+hoop,circle,band,ring,circular shapes,medium
+lp,pupil,full moon,pizza pie,circular things,medium
+bath,reading,derby,sandwich,cities and towns in england,hard
+lincoln,lagos,luxor,limerick,cities beginning with “l”,medium
+sprite,starry,squirt,crush,citrus sodas,hard
+roam,soul,niece,deli,city homophones,very_hard
+medium,psychic,mystic,oracle,clairvoyant,easy
+heat,armageddon,speed,hard boiled,classic '90s action films,very_hard
+asteroids,pong,frogger,breakout,classic arcade games,easy
+centipede,asteroids,breakout,defender,classic atari games,hard
+clippers,cape,gel,brush,classic barbershop supplies,hard
+operation,mastermind,sorry,mouse trap,classic board games,hard
+sour,punch,sling,fizz,classic cocktail types,very_hard
+comic,record,stamp,coin,classic collection items,hard
+fido,rover,lucky,spot,classic dog names,easy
+fluffy,rover,rex,spot,classic dog names,hard
+feud,wheel,pyramid,millionaire,"classic game shows, familiarly",hard
+witch,clown,pirate,angel,classic halloween costumes,easy
+bar,chicken,light bulb,knock-knock,classic joke staples,very_hard
+flamingo,pinwheel,gnome,fountain,classic lawn ornaments,hard
+speaker,screen,projector,reel,classic movie theater equipment,easy
+compass,mermaid,swallow,anchor,classic nautical tattoos,hard
+fishbowl,charades,werewolf,categories,classic party games,hard
+rush,genesis,kansas,yes,classic rock bands,hard
+fruit,skull,pitcher,tablecloth,classic still life components,hard
+tights,mask,underwear,cape,classic superhero wear,hard
+dragon,heart,rose,anchor,classic tattoos,very_hard
+yo-yo,doll,top,blocks,classic toys,easy
+blocks,ball,jacks,train,classic toys,hard
+water,fire,air,earth,classical elements,hard
+photoshop,fix,airbrush,touch up,"clean up, as a photograph",medium
+mop,broom,rag,sponge,cleaning supplies,easy
+vacuum,sweep,mop,dust,cleaning verbs,hard
+mud,a bell,crystal,day,clear as ___,very_hard
+trap,corner,surround,tree,close in on,hard
+snug,sleek,clingy,slinky,close-fitting,medium
+sandwich,soda,med,music,club ___,very_hard
+mustard,scarlet,plum,green,clue characters,very_hard
+fingerprint,tire mark,hair,fiber,clues at a crime scene,hard
+flop,bust,dud,miss,clunker,easy
+cherry,olive,mint,twist,cocktail garnishes,hard
+muddle,garnish,stir,strain,cocktail-making verbs,hard
+sea breeze,greyhound,cosmopolitan,screwdriver,cocktails,medium
+screwdriver,cosmopolitan,manhattan,hurricane,cocktails,very_hard
+libre,sling,mule,mama,cocktails minus place names,very_hard
+lid,stirrer,straw,cup,coffee counter items,easy
+cappuccino,latte,americano,espresso,coffee drinks,easy
+associate,fellow,peer,partner,colleague,medium
+gather,reap,harvest,pick,"collect, as from an orchard",medium
+set,array,battery,series,collection,hard
+fund,pot,pool,kitty,collection of money,very_hard
+gaggle,parliament,murder,charm,collective nouns for birds,hard
+wolverine,sooner,volunteer,gator,college football team members,hard
+gate,core,pilled,mania,colloquial suffixes,very_hard
+lube,genre,dre,gary,color anagrams,very_hard
+blew,rows,choral,read,color homophones,very_hard
+pastel,grayscale,neutral,neon,color types,easy
+pink,violet,brown,turquoise,colors,medium
+yellow,green,blue,white,colors in brazil’s flag,hard
+lack,ink,old,range,colors minus their first letters,very_hard
+frown,mellow,preen,clue,colors with their first letters changed,very_hard
+titanic,great,giant,mammoth,colossal,easy
+blend,stir,fold,beat,"combine, as baking ingredients",medium
+sound,look,appear,seem,come across as,hard
+land,perch,settle,roost,come down to rest,medium
+routine,joke,bit,sketch,comedian’s output,medium
+routine,bit,act,set,comedian’s performance,hard
+gag,bit,sketch,act,comedic routine,hard
+loafer,croc,slipper,moccasin,comfy shoes,easy
+snap,ouch,burn,zing,comment after an insult,easy
+company,firm,enterprise,agency,commercial organization,easy
+write,author,compose,pen,commit to paper,easy
+dice,cards,board,pieces,common components of board games,medium
+ambergris,musk,vanilla,rose,common perfume ingredients,medium
+sub,auto,semi,post,common prefixes,very_hard
+tote,tote,tee,mug,common swag items,hard
+pen,hat,tee,water bottle,common swag items,hard
+power-up,boss,health,level,common video game features,hard
+text,correspond,write,message,communicate through writing,hard
+greyhound,caterpillar,dove,puma,companies named after animals,hard
+ink,harmony,trade,bay,companies with “e” removed,very_hard
+house,concern,outfit,firm,company,medium
+equity,shares,stocks,options,company ownership offers,medium
+minute,baby,compact,toy,comparatively small,hard
+shoot,ride,fence,swim,compete in a modern pentathlon,medium
+bellyache,crab,carp,grumble,complain,easy
+mown,wine,whale,grown,complaint homophones,very_hard
+lap,revolution,orbit,circuit,complete turn,easy
+elaborate,complex,involved,baroque,complicated,medium
+bouquet,veil,train,bustle,components of a bride’s ensemble,hard
+cylinder,spring,tumbler,pin,components of a lock,hard
+clue,detective,alibi,suspect,components of a mystery,medium
+cheese,sauce,crust,toppings,components of a pizza,medium
+protein,dressing,cheese,lettuce,components of a salad,easy
+insert,jacket,sleeve,record,components of an lp,hard
+rim,temple,bridge,lens,components of eyeglasses,very_hard
+genie,egg,toothpaste,bell,components of metaphors for things that can’t be undone,very_hard
+attendance,papers,final,homework,components of one’s grade,easy
+cross,hybrid,blend,compound,composite,easy
+speaker,monitor,mouse,keyboard,computer equipment,easy
+mouse,microphone,scanner,tablet,computer input devices,easy
+sting,racket,scheme,hustle,con game,easy
+ding,divot,dent,dimple,concavity,easy
+block,hide,mask,cover,conceal,easy
+block,cover,hide,obscure,conceal,medium
+shrinkage,regifting,yada yada,festivus,concepts from “seinfeld”,hard
+plaque,tartar,cavity,calculus,concerns for a dentist,hard
+cocktail,mixture,compound,solution,concoction,easy
+mayo,tartar,relish,ketchup,condiments,medium
+might,could,can,may,conditional words,medium
+good,fine,mint,fair,conditions for collectibles,medium
+drain,sewer,pipe,duct,conduits for water removal,easy
+lolly,sucker,sweet,candy,confection,hard
+accord,vest,award,grant,confer,hard
+followers,sheep,puppets,lemmings,conformists,easy
+join,link,join,couple,connect,easy
+link,unite,tie,bridge,connect,easy
+hitch,link,tie,couple,connect,hard
+couple,unite,wed,tie,connect,medium
+bond,link,relation,tie,connection,hard
+coffee,fricassee,bassoon,balloon,consecutive double letters,very_hard
+keep,save,preserve,store,conserve,easy
+smoking,language,action,nudity,considerations for movie ratings,hard
+knob,button,slider,switch,console inputs,medium
+gemini,orion,cygnus,pegasus,constellations,medium
+makeup,structure,composition,fabric,constitution,medium
+took in,ate,put away,had,consumed,easy
+demand,market,audience,appetite,"consumer desire, collectively",hard
+number,address,email,name,contact info,medium
+buzz,dial,ring,call,contact via phone,easy
+ring,dial,phone,call,contact via telephone,easy
+house,store,keep,hold,contain,easy
+cork,cap,tab,lid,container closures,easy
+chest,basket,hamper,bin,containers,easy
+muse,ponder,reflect,brood,contemplate,easy
+cage,eno,reich,glass,contemporary composers,very_hard
+whale,astronaut,pea,coffee,contents of a pod,hard
+consecutive,straight,nonstop,solid,continuous,medium
+warped,bent,twisted,gnarly,contorted,easy
+direct,write,act,produce,contribute to a movie,hard
+garnish,oversight,sanction,cleave,contronyms (words that can mean opposite things),very_hard
+accessible,close,handy,nearby,conveniently located,easy
+grill,char,brown,sear,cook in a pan,easy
+boil,blanch,steam,poach,cook with heat and water,easy
+triangle,star,circle,umbrella,cookie cutter shapes in “squid game”,very_hard
+batter,paste,dough,mixture,cooking concoctions,easy
+crock,casserole,pan,pot,cooking vessels,medium
+skillet,wok,pot,crock,cookwear,medium
+lit,tight,sick,fire,"cool, in slang",hard
+fly,fresh,rad,ill,"cool, in ’80s slang",medium
+bad,fly,rad,bad,"cool, in ’80s slang",medium
+ok,hunky-dory,fine,swell,copacetic,medium
+writer,cat,pasta,right,copy___,very_hard
+heart,substance,essence,crux,core,easy
+crunch,plank,boat,mountain climber,core exercises,hard
+syrup,maze,muffin,silk,corn-y things,very_hard
+crook,angle,elbow,bend,corners,medium
+sales,legal,it,finance,corporate departments,hard
+oeuvre,body,works,canon,corpus,easy
+suit,complement,match,fit,correspond well with,medium
+interaction,exchange,contact,dealings,correspondence,easy
+low,dirty,vile,base,corrupt,easy
+figure,amount,value,price,cost,easy
+referee,prisoner,mime,sailor,costumes with striped shirts,medium
+bogus,sham,fake,phony,counterfeit,medium
+jordan,togo,georgia,chad,countries,medium
+wanda,inland,olivia,ran,countries minus first letter,very_hard
+tong,chin,malt,cub,countries when “a” is added,very_hard
+poland,japan,turkey,tunisia,countries with red and white flags,hard
+action,suit,claim,case,court filing,medium
+smear,plaster,cake,coat,cover with a thick layer,easy
+cap,top,lid,cover,coverings,medium
+sour,cross,sore,prickly,crabby,medium
+pack,jam,stuff,ram,cram,easy
+wedge,jam,stuff,shoehorn,cram,hard
+shoehorn,sandwich,wedge,squeeze,cram,medium
+squeeze,stuff,jam,pack,cram into a tight space,medium
+pit,cavity,hollow,hole,crater,easy
+crimp,tease,feather,curl,create some volume/texture in hair,medium
+produce,bear,yield,generate,"create, as results",medium
+gnome,troll,ogre,goblin,creatures in folklore,easy
+badge,ticket,pass,invite,credentials for entry,easy
+number,expiration,name,zip,credit card info,medium
+moon,croissant,banana,sickle,crescent-shaped things,hard
+ring,syndicate,crew,family,crime organization,hard
+trash,knock,slam,blast,criticize,easy
+roast,knock,pan,slam,criticize,easy
+skewer,blast,flame,slam,criticize,medium
+bash,slam,knock,pan,criticize,medium
+flame,blast,roast,bash,criticize harshly,easy
+pepper,cucumber,corn,tomato,crops,easy
+crumple,ball,wad,scrunch,crush into a compact shape,easy
+ice,sugar,die,bouillon,cube-shaped,hard
+draw close,nuzzle,spoon,hold tight,cuddle,easy
+crank,grump,crab,grouch,curmudgeon,easy
+condition,state,form,shape,current situation,easy
+pox,jinx,hex,spell,curse,medium
+profanity,swearing,four-letter words,expletives,curses,easy
+chop,dice,mince,cube,cut into pieces,medium
+deck,cord,cheese,mustard,cut the ___,very_hard
+round,flank,shank,loin,cuts of beef,hard
+loin,chuck,round,flank,cuts of beef,medium
+shoulder,belly,chop,hock,cuts of pork,medium
+roll,scroll,bolt,reel,cylinder of material,hard
+roller,silo,spool,can,cylinder-shaped things,very_hard
+discog,promo,bally,raven,dance events plus a letter,very_hard
+macarena,mashed potato,dougie,twist,dance fads,medium
+cabbage patch,floss,moonwalk,robot,dance moves,hard
+floss,vogue,worm,robot,dance moves,hard
+modern,tap,jazz,swing,dance styles,easy
+hustle,swing,tango,salsa,dances,medium
+cha,can,go,nae,dances when doubled,very_hard
+smart,sharp,tidy,neat,dapper,hard
+matter,ages,chocolate,horse,dark ___,very_hard
+dear,boo,love,baby,darling,easy
+range,mode,median,mean,data set data,easy
+block,match,message,swipe,dating app actions,medium
+match,tinder,bumble,hinge,dating apps,medium
+thursday,sunday,saturday,friday,days of the week,easy
+lust,pride,envy,greed,deadly sins,medium
+field,handle,tackle,manage,deal with,easy
+address,field,answer,handle,deal with,medium
+bluff,front,act,charade,deceit,medium
+dupe,con,trick,fool,deceive,easy
+rout,romp,blowout,sweep,decisive victory,hard
+dip,ebb,fade,sink,decline,easy
+fall,drop,wane,flag,decline,easy
+drop,fall,sink,dip,decline,medium
+frill,fringe,trim,border,decorative edge,easy
+ebb,drop,decline,dwindle,decrease,medium
+judge,consider,regard,count,deem,medium
+samosa,katsu,falafel,schnitzel,deep-fried food,hard
+trash,rout,shellac,crush,defeat badly,hard
+cream,lick,smoke,paste,defeat soundly,medium
+delay,shelve,table,postpone,defer,easy
+sorry,blue,hangdog,down,dejected,easy
+roll,hero,wrap,bun,deli bread options,easy
+reflection,thought,scrutiny,consideration,deliberation,easy
+light,mild,faint,soft,delicate,easy
+send,mail,post,ship,"deliver, as a package",easy
+symbol,expression,token,gesture,"demonstration, as of appreciation",medium
+filling,veneer,crown,bridge,dental additions,easy
+crown,cavity,filling,plaque,dental terms,medium
+degree,axe,old spice,secret,deodorants,hard
+book,split,run,bounce,depart quickly,easy
+arm,wing,branch,chapter,department,medium
+clock,branch,ant,melting,depicted in dalí’s “the persistence of memory”,very_hard
+drain,sap,empty,exhaust,deplete,easy
+lay,place,put,set,"deposit, with “down”",hard
+tail,seat,backside,caboose,derriere,easy
+martini,desert,humor,teetotaler,described as dry,hard
+right,just,fair,due,deserved,medium
+drive,itch,impulse,urge,desire,easy
+abstain,cease,avoid,refrain,desist,easy
+mousse,cobbler,tiramisu,pie,desserts,easy
+flan,cake,tart,cheesecake,desserts,easy
+particular,elaborate,thorough,minute,detailed,medium
+drew,holmes,hardy,brown,detectives of kid-lit,hard
+all,era,tide,gain,detergents,hard
+brainstorm,workshop,spitball,ideate,"develop, as ideas",easy
+concoct,engineer,hatch,mastermind,devise,medium
+opposite,counter,reverse,polar,diametric,medium
+carat,clarity,cut,color,diamond qualities,hard
+pip,bucket,scrooge,twist,dickens characters,hard
+lock,wisp,strand,head,different amounts of hair,hard
+ding,chime,ping,ring,digital notification sounds,easy
+alarm,date,light,stopwatch,digital watch features,medium
+ranch,marinara,aioli,barbecue,dipping sauces,easy
+dozen,pool,martini,word,dirty ___,very_hard
+rice,laundry,joke,blonde,dirty ___,very_hard
+scrap,end,dissolve,sunset,discontinue,medium
+promotion,sale,deal,special,discount,easy
+normal,rinse,sanitize,quick,dishwasher cycles,very_hard
+scary,flounders,belled,abut,disney animated characters plus a letter,very_hard
+dale,daisy,dory,doc,disney characters,hard
+goofy,daisy,lady,happy,disney characters,medium
+scar,genie,stitch,beast,disney characters,very_hard
+scrooge,daisy,dewey,donald,disney ducks,hard
+ariel,aurora,merida,tiana,disney princesses,medium
+tomorrow,frontier,fantasy,adventure,disneyland lands,hard
+mess,pigpen,dump,sty,disorderly place,easy
+array,matrix,grid,table,display of rows and columns,easy
+tiff,clash,tangle,scrap,dispute,medium
+forget,discount,ignore,overlook,disregard,medium
+dive,dump,hole,joint,disreputable establishment,hard
+memory,trunk,ear,tusk,distinctive features of an elephant,hard
+shiva,venus de milo,octopus,slot machine,distinctive number of arms (or lack thereof),very_hard
+tattoo,scar,piercing,mole,distinguishing characteristics,easy
+song,number,air,strain,ditty,hard
+fork,branch,part,split,divide,medium
+arm,chapter,branch,wing,division,easy
+blab,dish,tell,spill,divulge,easy
+dish,talk,spill,tell,"divulge, as private information",easy
+slay,rock,eat,rule,do exceptionally well,hard
+shave,shower,dress,brush,do some grooming,medium
+push,pitch,promote,plug,do some marketing for,easy
+water,prune,plant,weed,do some tasks in the garden,medium
+stray,fall,sin,err,do wrong,medium
+no,who,octopus,pepper,doctors in pop culture,very_hard
+sleep,fresh air,exercise,diet,doctors’ orders,easy
+record,tape,film,shoot,document with video,medium
+deed,receipt,certificate,title,documents of ownership,easy
+poodle,dalmatian,boxer,husky,dog breeds,easy
+retrieve,point,box,set,dog breeds minus “er” sound,very_hard
+pit,golden,bully,lab,"dog breeds, informally",hard
+lab,pit,chow,golden,"dog breeds, informally",hard
+pom,boston,lab,peke,"dog breeds, informally",hard
+come,heel,stay,down,dog commands,easy
+down,sit,stay,come,dog commands,hard
+heel,down,shake,come,dog commands,medium
+sit,heel,speak,stay,dog commands,medium
+bark,whine,howl,growl,dog sounds,easy
+days,paddle,tired,tag,dog ___,very_hard
+blue,toto,astro,hooch,dogs of the screen,hard
+sap,clown,dweeb,turkey,doofus,hard
+yo-yo,dope,dodo,bozo,doofus,medium
+ringer,twin,clone,double,doppelgänger,medium
+dribble,agent,jeopardy,jeopardy,double ___,very_hard
+standard,dutch,space,date,double ___,very_hard
+grinch,turtle,pop,cat,dr. seuss title figures,very_hard
+pepper,j,no,evil,dr. ___,very_hard
+wrap,shawl,scarf,stole,draped accessories,easy
+rod,bracket,curtain,hook,drapery hanging items,medium
+minus,ding,strike,con,drawback,hard
+hobgoblin,bogeyman,phantom,bugbear,dread-inducing figures,easy
+conceive,picture,imagine,envision,dream up,easy
+put on,wear,sport,don,dress in,medium
+sword,cherry,umbrella,olive,drink garnishes,hard
+stein,tumbler,snifter,goblet,drink vessels,easy
+coffee,mate,cocoa,tea,drinks with caffeine,easy
+signal,turn,brake,park,driving instructor directives,hard
+evil,pepper,dre,seuss,drs,hard
+kick,snare,tom,cymbal,drum set components,hard
+curl,press,row,fly,dumbbell exercises,hard
+stretch,period,spell,time,duration,medium
+bowl,bunny,devil,jacket,dust ___,very_hard
+tulip,clog,windmill,canal,dutch symbols,hard
+pause,record,play,stop,dvr buttons,easy
+anvil,hammer,stirrup,cochlea,ear parts,hard
+rook,lobe,helix,conch,ear piercing sites,hard
+sketch,outline,draft,plan,early iteration,easy
+make,net,yield,gross,earn,medium
+wig,drum,mark,wax,ear___,very_hard
+bunny,sunday,island,egg,easter ___,very_hard
+street,chair,money,listening,easy ___,very_hard
+graze,peck,nibble,snack,eat a little,easy
+scarf,scarf,gulp,inhale,eat voraciously,easy
+wolf,gobble,down,wolf,eat voraciously,easy
+bolt,gobble,scarf,down,eat voraciously,hard
+gorge,scarf,gulp,wolf,eat voraciously,medium
+pope,bishop,prior,pastor,ecclesiastical titles,hard
+prior,pastor,cardinal,bishop,ecclesiastical titles,medium
+canyon,tunnel,zoom call,hallway,echoey places,hard
+akeem,foley,donkey,dolittle,eddie murphy roles,hard
+undo,copy,paste,cut,edit menu commands,medium
+froth,fizz,bubbles,foam,effervescence,easy
+smooth,graceful,fluid,natural,effortless,easy
+crook,scarab,eye,ankh,egyptian symbols,hard
+greco,capitan,dorado,paso,el ___,very_hard
+blanket,guitar,slide,eel,electric ___,very_hard
+microwave,radio,visible,x-ray,electromagnetic spectrum,hard
+trance,ambient,jungle,house,electronic dance music genres,hard
+ribbon,arrow,heart,mom,elements of a classic “mom” tattoo,medium
+salt,acid,fat,heat,"elements of cooking,  per samin nosrat",medium
+hubris,hero,chorus,tragedy,elements of greek drama,hard
+sentence,word,phrase,letter,elements of writing,medium
+banks,moss,taylor,warren,elizabeths (and one elisabeth),very_hard
+forward,compose,send,reply all,email actions,medium
+trash,sent,spam,drafts,email folders,medium
+regards,best,thanks,cheers,email sign-offs,medium
+spread,fan,branch,radiate,emanate,easy
+wedge,lodge,stick,plant,embed,medium
+seal,stamp,mark,label,emblem,easy
+example,model,symbol,ideal,embodiment,easy
+character,persona,figure,avatar,embodiment,medium
+beam,radiate,glow,shine,emit light,medium
+skull,heart,sparkles,fire,emoji,very_hard
+affect,move,touch,impact,emotionally sway,hard
+engage,contract,retain,sign,employ,easy
+copy,mirror,parrot,echo,emulate,easy
+goad,spur,egg,urge,"encourage, with ""on""",easy
+not quite,almost,close,warm,encouraging responses in a guessing game,medium
+ragout,rapport,parfait,bouquet,ending in a silent “t”,medium
+herring,kingpin,cootie,baywatch,ending in accessories,very_hard
+cameroon,unread,cockatiel,whistleblew,ending in color homophones,very_hard
+ultraviolet,marigold,stingray,infrared,ending in colors,very_hard
+compare,connecticut,parsnip,wallop,"ending in synonyms for ""clip""",very_hard
+commonplace,sunspot,parasite,needlepoint,"ending in synonyms for ""location""",very_hard
+rosebud,ketchum,primate,paypal,ending in synonyms for “friend”,very_hard
+hedwig and the angry inch,my left foot,the longest yard,the green mile,ending in units of measurement,hard
+funky chicken,jumbo shrimp,dark horse,sea monkey,ending with animals,very_hard
+contrabass,autoharp,rosebud,pepperoni,ending with beer brands,very_hard
+neuroplastic,kubrick,hourglass,hollywood,ending with building materials,very_hard
+latin,plead,jargon,environ,ending with chemical elements,very_hard
+marigold,evergreen,infrared,quicksilver,ending with colors,hard
+drum and bass,wu-tang,cape cod,camisole,ending with fish,very_hard
+feta,pepsi,biota,mochi,ending with greek letters,very_hard
+prussian,disney,decaf,crypto,ending with homophones of parts of the leg,very_hard
+icecaps,makeshift,cantab,cyberspace,ending with keyboard keys,very_hard
+snickerdoodle,shadowboxer,newshound,trendsetter,ending with kinds of dogs,very_hard
+rainbow,semblance,crossword,grimace,ending with medieval weapons,very_hard
+classics,create,guthrie,therefore,ending with number homophones,very_hard
+hawking,bojack,lovelace,mcqueen,ending with playing cards,very_hard
+rapport,debut,tarot,ballet,ending with silent “t”,medium
+golden fleece,comic con,american hustle,lucky stiff,"ending with synonyms for ""swindle""",very_hard
+skydive,waterfall,gatecrash,raindrop,ending with synonyms for “plunge”,very_hard
+dynasty,gimmick,engross,mildew,ending with synonyms for “yuck”,very_hard
+witherspoon,boilerplate,jackknife,buttercup,ending with tableware,very_hard
+bigfoot,compound,thermometer,instagram,ending with units of measure,very_hard
+support,back,champion,second,endorse,easy
+spirit,vigor,juice,steam,energy,medium
+battery,charge,power,juice,energy for an electronic device,hard
+wrestling,bowling,acupuncturing,sewing,engaging in an activity with pins or needles,hard
+salt,season,flavor,spice,enhance the taste of,easy
+appreciate,relish,love,savor,enjoy,easy
+dig,fancy,like,fancy,enjoy,easy
+feed,sup,feast,dine,enjoy a meal,medium
+big,giant,great,huge,enormous,easy
+giant,mammoth,monster,titanic,enormous,easy
+bumper,giant,titanic,monster,enormous,medium
+lock,guarantee,cinch,ice,"ensure, as a victory",hard
+passion,relish,zest,gusto,enthusiasm,easy
+buff,lover,fan,nut,enthusiast,hard
+call,appeal,bid,petition,entreaty,easy
+gate,door,hatch,portal,entryway,easy
+outfit,furnish,provision,stock,equip,easy
+stuff,gear,kit,tackle,equipment,easy
+fair,even,just,equal,equitable,hard
+waver,hedge,yo-yo,see-saw,equivocate,hard
+period,age,time,day,era,hard
+stunt,exploit,caper,antic,escapade,easy
+really,pretty,mighty,very,especially,easy
+launch,institute,found,start,establish,medium
+pioneers,launches,institutes,begins,establishes,medium
+wind,gas,stinker,toot,euphemisms for flatulence,medium
+sofa,roe,pars,mink,european capitals minus second-to-last letter,very_hard
+poland,denmark,greece,portugal,european countries,easy
+shake,dodge,shake,duck,evade,medium
+lose,skirt,dodge,escape,evade,medium
+grade,grade,judge,rate,evaluate,easy
+score,rate,review,rank,evaluate,easy
+hop,rave,formal,ball,event with dancing,medium
+common,routine,regular,standard,everyday,medium
+hammy,dramatic,camp,overdone,"exaggerated, as a performance",medium
+check,vet,review,screen,"examine, as an applicant",hard
+fine,quality,sterling,prime,excellent,medium
+neato,nifty,aces,keen,"excellent, in old slang",medium
+singular,unique,special,remarkable,exceptional,easy
+extract,quote,clip,passage,excerpt,medium
+too,extra,over,beyond,excessively,medium
+pump,hype,fire,amp,"excite, with “up”",very_hard
+bridge,crunch,dip,squat,exercises,easy
+effort,work,labor,sweat,exertion,medium
+pace,sweat,fidget,blush,exhibit nervousness,medium
+kick,buzz,rush,thrill,exhilaration,medium
+went,departed,left,split,exited,easy
+journey,odyssey,quest,voyage,expedition,easy
+rate,price,cost,charge,expenditure,easy
+blank,forget,flake,space,experience a memory lapse,very_hard
+pilot,trial,exploratory,preliminary,experimental,medium
+thunder,roar,boom,crash,explosive sound,easy
+air,state,voice,speak,express,hard
+imply,couch,suggest,intimate,express indirectly,hard
+inanimate,blank,wooden,flat,expressionless,easy
+erm,um,uh,well,expressions of hesitation,very_hard
+outside,face,front,surface,exterior,medium
+mastodon,trilobite,dodo,mammoth,extinct animals,easy
+awful,super,very,quite,extremely,medium
+real,bloody,way,awful,extremely,very_hard
+pupil,iris,lens,retina,eye parts,easy
+fairy tale,fantasy,invention,fiction,fabrication,easy
+corduroy,linen,tweed,denim,fabrics,easy
+sham,bluff,show,front,facade,medium
+nose,cheek,eye,mouth,facial features,easy
+mustache,beard,stubble,goatee,facial hair,easy
+miss,skip,cut,ditch,fail to attend,medium
+lose,blow,miss,waste,"fail to take advantage of, as an opportunity",very_hard
+bomb,dud,lemon,flop,failure,medium
+turkeys,flops,busts,misses,failures,medium
+wolf,princess,witch,giant,fairy tale figures,easy
+buckle,give,collapse,cave,fall in under pressure,medium
+forge,fabricate,fake,fix,falsify,easy
+poppy,mum,grammy,dada,familial nicknames,hard
+cuz,mummy,grammy,pop,familial nicknames,medium
+dada,sisi,brow,moma,family member nickname plus a letter,very_hard
+marx,warner,wright,jonas,famous brothers,medium
+page,king,berry,waters,famous guitarists,hard
+star,personality,figure,name,famous person,easy
+if,harlem,daddy,howl,famous poems,very_hard
+lorde,bishop,pope,burns,famous poets,hard
+bubbles,king kong,george,koko,famous primates,very_hard
+punch,triumph,lamb chop,oscar,famous puppets,hard
+bridge troll,riddler,mad hatter,sphinx,famous riddle-givers,very_hard
+mona lisa,joker,cheshire cat,comedy mask,famous smiles,medium
+rodeo,vine,sunset,mulholland,famous streets in los angeles,medium
+free,that,pants,feast,fancy ___,very_hard
+fancy,invention,figment,fiction,fantasy,easy
+troll,giant,pixie,dragon,fantasy creatures,easy
+sty,stable,pen,coop,farm fixtures,medium
+rake,plow,sickle,hoe,farm tools,easy
+market,almanac,insurance,tan,farmers’ things,very_hard
+line,brand,label,collection,fashion designer's output,easy
+glamour,w,elle,allure,fashion magazines,medium
+hip,in,hot,chic,fashionable,medium
+outback,subway,checkers,sonic,fast food chains,hard
+mermaid,king,colonel,clown,fast food mascots,very_hard
+food,forward,fashion,friends,fast ___,very_hard
+rapids,current,whirlpool,cataract,fast-moving water,easy
+cascade,wave,current,rapid,fast-moving water,hard
+snap,clip,hook,buckle,fasteners,medium
+button,snap,buckle,zip,fastening verbs,easy
+cat,tuesday,chance,lip,fat ___,very_hard
+artificial,imitation,fake,mock,faux,easy
+door,car,goat,host,featured in the monty hall problem,very_hard
+bounty,saloon,duel,cowboy,featured in westerns,medium
+eloise,plaza,pug,turtle,featured in “eloise”,very_hard
+giant,jack,cow,beans,featured in “jack and the beanstalk”,hard
+amber,dinosaur,mosquito,paleontologist,featured in “jurassic park”,hard
+queen,bashful,mirror,apple,featured in “snow white”,hard
+strap,hole,loop,buckle,features of a belt,medium
+radio,air conditioner,cup holder,shifter,features of a car's center console,medium
+bow,wings,diaper,arrow,features of a cartoon cupid,very_hard
+mogul,lift,lodge,slope,features of a ski resort,medium
+blubber,fluke,melon,flipper,features of a toothed whale,hard
+robe,blindfold,scales,sword,features of justice personified,very_hard
+peg,neck,bridge,string,features of stringed instruments,medium
+capitol,pool,obelisk,mall,features of the national mall in d.c.,hard
+button,fly,rivet,pocket,features on a pair of jeans,easy
+rummage,fish,fumble,root,feel around (for),hard
+bitter,salty,upset,sore,feeling some type of way,easy
+cow,hen,doe,mare,female animals,easy
+jenny,queen,nanny,vixen,female animals,hard
+hen,doe,cow,ewe,female animals,medium
+glove,jacket,mask,foil,fencing equipment,hard
+masks,foils,jackets,gloves,fencing gear,very_hard
+port,stout,cider,sake,fermented alcoholic beverages,medium
+speculative,literary,young adult,historical,fiction categories,medium
+romance,fantasy,mystery,horror,fiction genres,medium
+ronald,joker,homey,pennywise,fictional clowns,hard
+robot,big,toad,peanut,fictional misters,very_hard
+porky,napoleon,piglet,babe,fictional pigs,very_hard
+luffy,silver,sparrow,hook,fictional pirates,hard
+sparrow,jones,silver,hook,fictional pirates,very_hard
+powers,hunt,archer,smart,fictional spies,hard
+bond,ryan,peel,hunt,fictional spies,hard
+fawn,elephant,mouse,marionette,figures in classic disney animated films,very_hard
+atlas,echo,paris,nike,figures in greek myth,hard
+pan,helen,atlas,hermes,figures in greek myth,hard
+donkey,dragon,ogre,princess,figures in “shrek”,hard
+thread,strand,string,fiber,filament,easy
+mid,tiff,zip,doc,file extensions,hard
+gif,zip,tiff,pdf,file extensions,medium
+save,print,new,open,file menu options,medium
+stuff,jam,cram,pack,fill to excess,hard
+well,like,um,literally,filler words,medium
+makeup,props,wardrobe,hair,film departments,hard
+action,lights,camera,cut,film set directives,easy
+dolly,lens,tripod,boom,filmmaking equipment,hard
+apr,ira,cfo,sec,financial abbreviations,hard
+capital,equity,interest,stock,financial terms,hard
+lather,froth,foam,head,fine bubbles,hard
+strings,condition,catch,asterisk,fine print,easy
+cream,best,select,elite,finest,easy
+little,ring,middle,pointer,fingers,medium
+through,complete,done,over,finished,easy
+through,done,over,up,"finished, as time",medium
+pottery,ceramics,ware,china,fired objects,easy
+dressing,tape,bandage,scissors,first aid kit items,hard
+speech,assembly,press,petition,first amendment freedoms,very_hard
+introduction,premiere,debut,launch,first appearance,easy
+laurel,fry,abbott,key,first in a comedy duo,very_hard
+cab,duke,count,dizzy,first names in jazz,very_hard
+yogi,lou,babe,mickey,first names of yankees legends,very_hard
+casino,tomorrow,quantum,diamonds,first word in bond movie titles,very_hard
+stairway,baba,hotel,bohemian,first words in '70s rock song titles,very_hard
+notorious,foxy,gucci,killer,first words in rappers’ names,very_hard
+nova,northwest,british,prince,first words of canadian provinces/territories,very_hard
+boardwalk,curb,silicon,game,first words of hbo shows,very_hard
+nations,lady,aid,responder,first ___,easy
+sole,mullet,tang,fluke,fish,easy
+char,pike,sole,tetra,fish,hard
+fluke,skate,bass,pike,fish,hard
+tang,perch,fluke,skate,fish,hard
+char,perch,pike,skate,fish,medium
+perch,eel,shark,sole,fish,medium
+smelt,carp,flounder,catfish,fish that are verbs,hard
+tackle,lure,reel,rod,fishing gear,hard
+sinker,hook,fly,line,fishing gear,medium
+fly,chum,sinker,bait,fishing terms,hard
+puncture,crack,leak,hole,fissure,easy
+health,form,condition,shape,fitness,medium
+right,fair,proper,just,fitting,easy
+stitch,patch,darn,mend,fix a hole in clothing,easy
+shock,rock,surprise,floor,flabbergast,easy
+shake,rock,floor,shock,flabbergast,medium
+tasting,platter,flight,sampler,flavor assortment,hard
+elastic,plastic,supple,limber,flexible,medium
+kiwi,ostrich,penguin,emu,flightless birds,hard
+jerk,startle,bolt,jump,flinch,medium
+laminate,tile,carpet,wood,flooring options,easy
+lemon,turkey,bust,miss,flop,medium
+stalk,bud,petal,leaf,flower parts,medium
+daisy,tulip,rose,violet,flowers,easy
+jasmine,petunia,daisy,poppy,flowers,medium
+cloud,dandelion,sheep,cotton ball,fluffy white things,easy
+faze,throw,rattle,ruffle,fluster,easy
+stew,sweat,tizzy,lather,flustered state,easy
+fire extinguisher,shaving cream,sea,beer,foamy things,medium
+trash,desktop,pictures,music,folders on a mac,medium
+chicken little,tom thumb,thumbelina,jack,folktale characters,hard
+tail,trail,track,shadow,follow,medium
+wind,snake,weave,curve,follow a meandering course,medium
+track,monitor,survey,watch,follow attentively,easy
+typewriter,gothic,roman,sans,font-modifying words,hard
+verdana,impact,arial,georgia,fonts,hard
+papyrus,courier,impact,times,fonts,very_hard
+chow,grub,fare,eats,food,easy
+cheesesteak,wings,broil,sprouts,food named after cities,hard
+cheese,corn,schmaltz,sap,food products associated with sentimentality,medium
+melon,noodle,nut,bean,food slang for head,hard
+🧀,🥓,🍞,🥬,food slang for money,easy
+processor,fight,chain,pyramid,food ___,very_hard
+salad,scramble,hash,stew,food-related jumbles,easy
+turnover,tart,pasty,pie,foods with crusts,easy
+madness,nonsense,absurdity,folly,foolishness,easy
+arch,sole,toe,ball,foot parts,easy
+cleats,pads,jersey,helmet,football gear,medium
+guard,quarterback,center,safety,football positions,easy
+sneaker,boot,pump,loafer,footwear,easy
+sneak,slip,wade,loaf,footwear minus “er” sound,very_hard
+locker,ball,hills,print,foot___,very_hard
+everlasting,eternal,forever,permanent,for all time,easy
+proscribed,verboten,taboo,off-limits,forbidden,medium
+eject,boot,bounce,remove,force to leave,medium
+bronco,mustang,pinto,fiesta,ford models,hard
+initial,original,primary,first,foremost,easy
+principal,supreme,premier,chief,foremost,easy
+top,prime,head,lead,foremost,hard
+main,supreme,prime,paramount,foremost,medium
+nugget,coin,bar,leaf,formats of gold,medium
+cube,powder,syrup,grain,forms of sugar,very_hard
+open,direct,frank,straight,forthright,hard
+marsala,port,sherry,vermouth,fortified wines,medium
+courage,spirit,heart,backbone,fortitude,easy
+spirit,will,resolve,grit,fortitude,medium
+poker,flue,log,grate,found around a fireplace,medium
+tea bag,tetherball,yo-yo,pendulum,found at the end of a string/cord,medium
+counter,sink,mixer,range,found in a kitchen,medium
+caramel,popcorn,prize,peanuts,found in cracker jacks,hard
+keel,hatch,bridge,deck,found on a ship,hard
+pot,pan,kettle,griddle,found on a stove top,easy
+staff,clef,note,rest,found on sheet music,easy
+rest,staff,note,accidental,found on sheet music,hard
+hound,hole,trot,glove,fox___,very_hard
+sausage,banger,link,brat,frankfurter,easy
+con,fake,quack,cheat,fraudster,medium
+pain,pamplemousse,vinaigrette,cornichon,french food words,hard
+pain,adieu,temps,belle,french words,very_hard
+kiss,bulldog,fry,horn,french ___,very_hard
+ring,stick,wing,tender,"fried appetizer, informally",very_hard
+bud,pal,chum,mate,friend,easy
+date,kiwi,orange,lemon,fruit,easy
+crisp,crumble,cobbler,tart,fruit desserts,easy
+pair,lyme,bury,mellon,fruit homophones,very_hard
+plumb,pair,leachy,current,fruit homophones,very_hard
+apricot,grape,lime,fig,fruits,easy
+dote,lumon,poach,ample,fruits with their second letters changed,very_hard
+house,circle,monty,moon,full ___,very_hard
+blast,ball,kick,ball,fun time,medium
+blast,thrill,kick,riot,fun time,medium
+purse,pool,pot,kitty,fund,easy
+staple,essential,principal,key,fundamental,medium
+function,ball,benefit,gala,fundraising event,easy
+laugh,joker,card,clown,funny person,easy
+riot,character,laugh,joker,funny person,easy
+card,clown,cutup,joker,funny person,hard
+business,girl,pages,bone,funny ___,very_hard
+equip,ready,outfit,prepare,furnish,medium
+wardrobe,chest,console,vanity,furniture,hard
+forecast,outlook,prospect,chance,future likelihood,easy
+remote,vague,faint,dim,"fuzzy, as a memory",medium
+beer,pizza,dip,wings,game day fare,medium
+bingo,roulette,lottery,war,games of chance,hard
+tag,bingo,uno,marco polo,games where you say the game’s name,very_hard
+seed,weed,water,plant,gardening nouns/verbs,easy
+bread,garlic,butter,parsley,garlic bread ingredients,easy
+diesel,regular,premium,plus,gas pump options,hard
+dirt,secrets,intelligence,information,gathered by spies,very_hard
+deck,porch,yard,stoop,gathering spot outside a residence,easy
+radiant,baguette,princess,emerald,gemstone cuts,very_hard
+light,mellow,mild,soft,gentle,easy
+volumetric,angular,areal,linear,geometry adjectives,very_hard
+kinder,die,wurst,angst,german words,medium
+mend,knit,recover,heal,"get better, as a broken bone",easy
+fire,psych,amp,hype,"get excited, with ""up""",easy
+squat,duck,stoop,crouch,get low,medium
+flush,glow,burn,blush,get red in the face,easy
+shrink,contract,reduce,lessen,get smaller,easy
+spooning,snuggling,cuddling,hugging,getting cozy,easy
+card,wrapping,box,bow,gift-giving accessories,easy
+idea,message,point,drift,gist,hard
+substance,meat,thrust,core,gist,medium
+dub,call,name,label,give a title to,easy
+coast,float,coast,breeze,glide,easy
+drift,float,skate,cruise,glide,easy
+touch,hint,trace,suggestion,glimmer,easy
+peep,glance,look,gander,glimpse,easy
+dazzle,pomp,flash,ritz,glitziness,hard
+sol,real,dollar,won,global currencies,hard
+pound,pound,real,yen,global currencies,hard
+yuan,won,pound,sterling,global currencies,hard
+sour,spoil,turn,rot,go bad,medium
+see,woo,date,court,go out with,medium
+challenge,confront,oppose,face,go up against,medium
+figure,rogue,figure,commando,go ___,very_hard
+fish,steady,bananas,bananas,go ___,very_hard
+push,egg,urge,spur,"goad, with ""on""",easy
+legend,icon,diva,queen,goddess,easy
+mine,rush,bond,leaf,gold ___,very_hard
+parachute,girls,fleece,rule,golden ___,very_hard
+wood,iron,wedge,putter,golf clubs,medium
+fairway,rough,green,bunker,golf course parts,easy
+driver,eagle,stroke,hole,golf terms,medium
+raise,promotion,bonus,equity,good things to get at work,easy
+load,cargo,haul,freight,goods to be transported,easy
+dirt,talk,dish,buzz,gossip,easy
+dishing,whispering,buzzing,spilling,gossiping,medium
+hold,rivet,engross,absorb,grab one’s attention,easy
+syringe,ruler,protractor,beaker,graduated instruments,medium
+barley,spelt,oat,rye,grains,easy
+present,future,past,perfect,grammar tense terms,easy
+plain,meadow,prairie,savanna,grassland,medium
+park,lawn,green,yard,grassy area,easy
+field,green,lawn,grounds,grassy area,medium
+skim,stroke,kiss,brush,graze,medium
+witchcraft,summertime,autumn leaves,unforgettable,great american songbook songs,hard
+load,drove,score,host,great many,medium
+white,dane,lake,seal,great ___,very_hard
+pi,mu,xi,nu,greek letters,hard
+beta,iota,delta,chi,greek letters,medium
+hercule,aja,her,are,greek mythological figures minus a letter,very_hard
+kilo,meta,hyper,neo,greek prefixes,medium
+chimichurri,relish,salsa verde,pesto,green condiments,medium
+beret,goblin,thumb,salad,green ___,medium
+hug,high five,wave,shake,greeting gestures,hard
+gas,wood,electric,charcoal,grill fuel sources,medium
+produce,frozen,snack,dairy,grocery store aisles,hard
+original,different,new,novel,groundbreaking,medium
+board,panel,cabinet,council,group of advisors,medium
+compound,development,block,complex,group of buildings,very_hard
+brood,clutch,litter,hatch,group of offspring,hard
+side,wing,division,faction,group within a group,hard
+camp,camp,wing,party,group within a group,hard
+fingers,commandments,bowling pins,decade,groups of ten,easy
+usher,pilot,shepherd,steer,guide,medium
+bridge,neck,fret,body,guitar parts,very_hard
+slide,strum,bend,pick,guitar playing techniques,hard
+trident,orbit,extra,ice breakers,gum brands,hard
+cinnamon,menthol,wintergreen,bubblegum,gum flavors,easy
+curl,plank,press,lunge,gym exercises,hard
+bars,vault,beam,rings,gymnastics apparatus,easy
+rings,floor,horse,vault,gymnastics apparatus,hard
+roundoff,aerial,arabesque,split,gymnastics moves,easy
+tuck,split,straddle,pike,gymnastics positions,medium
+grapefruit,marble,pea,baseball,hail size comparisons,hard
+gel,wax,spray,mousse,hair products,easy
+dryer,chair,mirror,sink,hair salon fixtures,hard
+cut,trim,color,blowout,hair salon offerings,easy
+dryer,iron,comb,brush,hair tools,medium
+buzz,pixie,bowl,crew,"haircuts, with “cut”",easy
+shag,bob,crop,fade,hairstyles,hard
+bob,shag,pixie,crop,hairstyles,medium
+tombstone,pumpkin,bat,cobweb,halloween decorations,easy
+decorations,pumpkin,candy,costume,halloween purchases,easy
+spider,bat,pumpkin,witch,halloween symbols,easy
+staunch,stem,check,curb,halt,hard
+digit,piggy,mitt,dog,hand- and foot-related slang,very_hard
+settle,pay,take care of,foot,"handle, as a bill",medium
+emperor,duckling,princess,mermaid,hans christian anderson figures,medium
+kiss,countdown,ball,fireworks,happy new year!,very_hard
+returns,days,medium,meal,happy ___,very_hard
+hour,camper,trails,ending,happy ___,very_hard
+sock,lick,strike,blow,hard hit,medium
+light,faint,pale,dim,hard to make out,medium
+candy,copy,knocks,seltzer,hard ___,very_hard
+quiet,slow,sleepy,calm,hardly bustling,easy
+nail,rivet,screw,bolt,hardware fasteners,medium
+beret,fez,fedora,bowler,hats,easy
+intend,aim,plan,mean,have in mind,medium
+succession,entourage,insecure,euphoria,hbo shows,hard
+state,lettuce,steam,hair,head of ___,very_hard
+rumbling,speculation,whispers,talk,hearsay,easy
+sweet,tender,moving,touching,heartwarming,easy
+oven,forge,kiln,furnace,heat sources,medium
+regard,mind,follow,observe,"heed, as rules",medium
+dna,spring,corkscrew,fusilli,helical things,very_hard
+direct,guide,lead,steer,helm,medium
+plan,host,throw,cater,help put on a party,hard
+kindness,favor,solid,service,helpful deed,hard
+coat,crest,shield,arms,heraldry terms,hard
+mace,sage,dill,anise,herbs and spices,easy
+bond,wick,ocean,jones,heroes of action movie franchises,hard
+bass,does,dove,bass,heteronyms,hard
+wind,coordinate,axes,desert,heteronyms,hard
+bug,tap,mike,wire,hidden listening devices,medium
+block,shield,cover,screen,hide from view,medium
+peak,crest,summit,vertex,highest point,easy
+expert,hotshot,ace,crackerjack,highly skilled,easy
+inhibit,curb,hamper,check,hinder,medium
+slam,bang,pound,hammer,hit hard,easy
+one week,too close,closing time,iris,hit songs of 1998,hard
+roof,jackpot,road,hay,hit the ___,very_hard
+rebecca,rope,notorious,birds,hitchcock movies,medium
+treasure,value,esteem,prize,hold dear,medium
+pipe,hose,straw,tube,hollow cylinders,medium
+buy,yew,bye,tue,homophones,easy
+ewe,you,bi,too,homophones,easy
+two,to,u,by,homophones,easy
+holi,wholly,holy,holey,homophones,hard
+new,wee,nu,u,homophones,very_hard
+yew,wii,knew,oui,homophones,very_hard
+peek,gnu,peak,ewe,homophones,very_hard
+pique,we,you,peke,homophones,very_hard
+straight,see,creak,bae,homophones of bodies of water,very_hard
+naval,i,hare,mussel,homophones of body features,very_hard
+sew,fore,butt,oar,homophones of coordinating conjunctions,very_hard
+quarts,choral,opel,purl,homophones of gemstones,very_hard
+eave,able,noaa,cane,homophones of genesis figures,very_hard
+pie,row,moo,new,homophones of greek letters,hard
+wrap,indy,mettle,seoul,homophones of music genres,very_hard
+greece,katz,hare,maim,homophones of musicals,very_hard
+bawl,soul,tow,heal,homophones of parts of the foot,very_hard
+doe,lute,bred,cache,homophones of slang for money,very_hard
+pedal,trayed,hock,cell,"homophones of synonyms for ""vend""",very_hard
+fowl,vial,offal,mien,homophones of synonyms for “despicable”,very_hard
+steel,knick,rabe,lute,homophones of synonyms for “nab”,very_hard
+om,jewel,carrot,hurts,homophones of units of measure,very_hard
+civic,passport,pilot,accord,hondas,hard
+steaming,livid,fuming,boiling,hopping mad,easy
+carpenter,aster,craven,wan,horror directors,hard
+purge,saw,ring,scream,horror franchises,easy
+🪚,😱,👽,🧛,horror movies,hard
+pearl,nope,scream,smile,horror movies from 2022,hard
+birds,ring,fog,omen,"horror movies, with “the”",hard
+exorcist,shining,birds,haunting,"horror movies, with “the”",medium
+radish,play,power,shoe,horse___,very_hard
+fly,shoe,feathers,power,horse___,very_hard
+tea,cocoa,coffee,chai,hot drinks,easy
+jet,heater,pump,filter,hot tub components,very_hard
+potato,water bottle,rod,dog,hot ___,very_hard
+parking,breakfast,wi-fi,pool,hotel amenities,hard
+babe,fox,ten,snack,hottie,hard
+cottage,ranch,prairie,craftsman,house styles,very_hard
+rate,speed,clip,pace,how fast something is going,easy
+henry,jennifer,kate,rock,hudsons,hard
+sling,pitch,chuck,pelt,hurl,easy
+sting,smart,ache,burn,hurt,easy
+mum,private,secret,quiet,hush-hush,easy
+you,lucy,rock 'n roll,new york,i love ___,very_hard
+cone,shake,cup,split,ice cream parlor orders,medium
+float,split,sundae,sundae,ice cream treats,easy
+float,shake,split,shake,ice cream treats,easy
+cube,cream,machine,storm,ice ___,very_hard
+polo player,laurel,crocodile,swoosh,icon embroidered on a polo shirt,hard
+flack,franklin,knight,baker,iconic soul singers,hard
+speech bubble,music notes,envelope,compass,icons on an iphone,very_hard
+light,burn,torch,kindle,ignite,easy
+sort,variety,kind,type,ilk,hard
+type,kind,sort,like,ilk,medium
+bowler,apple,cloud,pipe,imagery in magritte paintings,very_hard
+guzzle,pound down,swill,knock back,imbibe,medium
+mime,mirror,ape,parrot,imitate,very_hard
+fake,dupe,dummy,copy,imitation,medium
+inspire,spur,motivate,drive,impel,medium
+bushel,peck,stone,ton,imperial units,medium
+major,key,principal,critical,important,easy
+fine,assess,levy,charge,"impose, as a penalty",easy
+levy,charge,assess,fine,"impose, as a penalty",hard
+quack,charlatan,sham,fraud,impostor,easy
+stirring,christmas,mouse,house,"in ""a visit from st. nicholas""",medium
+testy,surly,cross,short,in a bad mood,easy
+current,happening,fresh,chic,in fashion,easy
+original,unused,mint,new,in pristine condition,easy
+aware,savvy,wise,hip,in the know,medium
+romeo,tango,alfa,bravo,in the nato alphabet,hard
+uniform,echo,kilo,victor,in the nato alphabet,very_hard
+golf,delta,bravo,lima,in the nato phonetic alphabet,medium
+only,simply,just,merely,in the slightest,medium
+might,wish,may,tonight,"in “star light, star bright”",very_hard
+initial,first,premier,maiden,inaugural,medium
+episode,affair,matter,event,incident,medium
+and,plus,also,with,including,medium
+mount,swell,grow,build,increase,easy
+balloon,mount,mushroom,wax,increase,medium
+wax,mount,swell,grow,"increase, in a way",medium
+hike,crank,raise,jack,"increase, with ""up""",medium
+flew,rose,thrust,shot,"increased, with “up”",medium
+coarse,blue,bawdy,risque,indecent,hard
+mean,spell,suggest,signify,indicate,medium
+nod,prompt,signal,cue,indication,easy
+sign,hint,flag,sign,indication,medium
+trace,tell,evidence,giveaway,indication,medium
+warning,sign,message,omen,indication of things to come,easy
+word,cue,prompt,signal,indication to proceed,hard
+being,ego,self,character,individuality,medium
+bell,diesel,singer,watt,industrial revolution inventors,very_hard
+juice,pull,sway,weight,influence,easy
+sway,sway,weight,pull,influence,medium
+clout,weight,clout,pull,influence,medium
+player,bio,stat,team,info on a baseball card,easy
+medium,year,artist,title,info on a museum placard,hard
+iron,protein,sodium,fat,info on a nutrition label,easy
+label,artist,album,track,info on a record,hard
+leak,rat,canary,source,informant,easy
+intel,data,news,info,information,medium
+diagram,map,graph,chart,information displays,easy
+orange,bitters,sugar,rye,ingredients in an old fashioned,hard
+sugar,boba,tea,milk,ingredients in bubble tea,hard
+eggs,flour,butter,sugar,ingredients in classic pound cake,easy
+stock,beans,vegetables,pasta,ingredients in minestrone,hard
+puff,pull,drag,draw,inhalation,medium
+soul,heart,essence,spirit,inherent nature,easy
+beatle,flee,nat,aunt,insect homophones,very_hard
+ant,beetle,termite,mantis,insects,very_hard
+racks,bag,tiles,board,inside a scrabble box,very_hard
+scoop,word,skinny,dope,inside info,medium
+skinny,dirt,scoop,dish,inside info,very_hard
+original,fresh,novel,creative,inspired,easy
+outlet,sconce,baseboard,switch,installed on a wall,medium
+coach,guide,train,direct,instruct,easy
+symbol,liar,loot,base,instrument homophones,very_hard
+recorder,jug,whistle,pipe,instruments you blow into,hard
+low,short,wanting,shy,insufficient,very_hard
+zing,knock,slight,burn,insult,easy
+barb,diss,dig,jab,insult,medium
+jab,slight,dig,burn,insult,medium
+air,vibe,halo,aura,intangible quality,easy
+sleeper,asset,mole,agent,intelligence operative,easy
+bright,quick,sharp,clever,intelligent,easy
+quick,smart,sharp,bright,intelligent,medium
+wow,man,boy,goodness,interjections,easy
+probe,examine,question,grill,interrogate,medium
+spell,stretch,while,period,interval of time,hard
+private,secret,personal,inner,intimate and undisclosed,medium
+rattle,daunt,bully,cow,intimidate,hard
+willing,game,eager,down,into it,easy
+pluck,pluck,nerve,grit,intrepidity,easy
+grit,resolve,heart,fortitude,intrepidity,easy
+desire,drive,resolve,will,intrinsic motivators,easy
+outpouring,tidal wave,torrent,avalanche,inundation,easy
+ad-lib,make up,improv,freestyle,invent as you go,easy
+hold,trade,short,hedge,investment verbs,hard
+bond,stock,option,cd,investments,easy
+sink,toothbrush,drill,x-ray,involved in a dentist visit,hard
+clock,mail,maps,notes,iphone apps,medium
+exclamation points,thumbs up,heart,question mark,iphone message tapback responses,hard
+rose,will,may,drew,irregular verbs,hard
+bug,steam,nettle,ruffle,irritate,medium
+japan,malta,cuba,palau,island countries,hard
+parmesan,venetian,neapolitan,bolognese,italian demonyms,hard
+record,coin,stamp,comic,item in a collection,hard
+sock,earbud,ski,bookend,item sold in pairs,hard
+sheet,towel,pillowcase,washcloth,items in a linen closet,easy
+hotel,token,house,deed,items in a monopoly box,hard
+thread,button,scissors,needle,items in a sewing kit,easy
+key ring,figurine,postcard,magnet,items in a souvenir shop,medium
+domino,marble,jack,stick,items in classic kids’ games,very_hard
+pot,rabbit,ass,knife,jack ___,very_hard
+frost,black,sparrow,ma,jacks,hard
+monk,parker,holiday,hancock,jazz legends,very_hard
+pendant,brooch,bangle,anklet,jewelry,very_hard
+signs,her,gladiator,joker,joaquin phoenix movies,hard
+legend,candy,major,carpenter,johns,very_hard
+bond,combine,wed,fuse,join,medium
+hip,wrist,shoulder,knee,joints,hard
+razz,tease,rib,kid,joke around with,easy
+leap,spring,bound,vault,jump into the air,very_hard
+cricket,frog,hare,kangaroo,jumping animals,easy
+metamorphosis,castle,judgment,trial,"kafka works, with ""the""",hard
+silo,cloister,separate,seclude,keep apart,medium
+insist,linger,harp,dwell,"keep going on about, with “on”",hard
+clap,bob,snap,tap,keep rhythm with music,hard
+follow,track,watch,monitor,keep tabs on,easy
+recipe,ticket,secret,formula,"key to success, so to speak",very_hard
+tab,option,return,shift,keyboard keys,hard
+paste,quit,print,save,keyboard shortcut commands,easy
+champ,tiger,sport,buddy,kiddo,easy
+method,character,stage,film,kinds of actors,hard
+pharaoh,fire,carpenter,army,kinds of ants,hard
+egg,everything,poppy,plain,kinds of bagels,medium
+kidney,navy,mung,pinto,kinds of beans,easy
+sun,brown,polar,black,kinds of bears,hard
+sleigh,bunk,murphy,canopy,kinds of beds,hard
+river,flower,nail,oyster,kinds of beds,very_hard
+platinum,strawberry,honey,dirty,kinds of blond,hard
+navy,tiffany,baby,sky,kinds of blue,hard
+ankle,go-go,cowboy,thigh-high,kinds of boots,hard
+friendship,charm,id,tennis,kinds of bracelets,hard
+demi,push-up,sports,wireless,kinds of bras,hard
+crypto,tech,pharma,finance,kinds of bros,hard
+marble,crumb,pound,birthday,kinds of cake,hard
+telephoto,macro,zoom,fisheye,kinds of camera lenses,hard
+baseball,set,magic,tarot,kinds of cards,very_hard
+bust,statue,relief,torso,kinds of carvings,easy
+bubble,pie,bar,line,kinds of charts,hard
+jack,blue,swiss,goat,kinds of cheeses,easy
+camel,duffle,trench,pea,kinds of coats,medium
+beauty,staring,talent,popularity,kinds of contests,hard
+sugar,fortune,oatmeal,rainbow,kinds of cookies,very_hard
+peanut,olive,corn,palm,kinds of cooking oil,hard
+umbilical,spinal,bungee,extension,kinds of cords,hard
+ritz,goldfish,ritz,animal,kinds of crackers,hard
+animal,club,goldfish,oyster,kinds of crackers,hard
+modern,tap,swing,salsa,kinds of dance,hard
+disk,card,drive,cloud,kinds of digital storage,hard
+hoop,chandelier,stud,drop,kinds of earrings,very_hard
+bar,physical,final,oral,kinds of exams,medium
+fan,historical,science,pulp,kinds of fiction,hard
+iron,wood,driver,wedge,kinds of golf clubs,medium
+thank you,congratulations,get well,birthday,kinds of greeting cards,medium
+snapback,pillbox,beret,derby,kinds of hats,medium
+kitten,stiletto,cuban,wedge,kinds of heels,hard
+percussion,string,brass,wind,kinds of instruments,easy
+flare,mom,skinny,boyfriend,kinds of jeans,easy
+charm,ring,chain,bangle,kinds of jewelry,easy
+practical,dad,inside,knock-knock,kinds of jokes,medium
+butter,butcher,butterfly,bowie,kinds of knives,very_hard
+sign,programming,body,spoken,kinds of language,hard
+leaf,butter,iceberg,romaine,kinds of lettuce,medium
+liner,balm,gloss,stain,kinds of lip makeup,medium
+laundry,short,to-do,bucket,kinds of lists,very_hard
+carry-on,hard-shell,roller,duffel,kinds of luggage,hard
+sewing,enigma,vending,pinball,kinds of machines,medium
+venison,beef,pork,poultry,kinds of meat,hard
+oyster,trumpet,morel,button,kinds of mushrooms,hard
+flat,natural,whole,quarter,kinds of notes,hard
+whole,perfect,odd,prime,kinds of numbers,medium
+cargo,stirrup,hammer,capri,kinds of pants,hard
+capri,jogger,jean,slack,"kinds of pants minus ""s""",medium
+construction,tissue,graph,wax,kinds of paper,hard
+dinner,cocktail,surprise,birthday,kinds of parties,medium
+macaroni,emperor,king,chinstrap,kinds of penguins,hard
+electronic,player,grand,upright,kinds of pianos,easy
+dill,kosher,sweet,sour,kinds of pickles,medium
+veggie,plain,hawaiian,supreme,kinds of pizza,medium
+vine,shrub,herb,tree,kinds of plants,easy
+snowball,water balloon,pillow,food,kinds of play fights,medium
+omaha,stud,strip,draw,kinds of poker,hard
+blooper,demo,highlight,sizzle,kinds of reels,hard
+slate,limestone,marble,flint,kinds of rocks,medium
+greek,chef,garden,wedge,kinds of salad,hard
+green,wedge,greek,caesar,kinds of salads,medium
+oxford,polo,flannel,tee,kinds of shirts,easy
+pump,slide,mule,flat,kinds of shoes,medium
+boxer,bike,cargo,bermuda,kinds of shorts,medium
+poodle,pencil,mini,wrap,kinds of skirts,hard
+rattle,coral,king,garter,kinds of snakes,hard
+adder,moccasin,boa,mamba,kinds of snakes,medium
+dress,crew,compression,ankle,kinds of socks,medium
+toilet,tissue,crepe,rolling,kinds of soft/lightweight paper,very_hard
+folk,siren,love,swan,kinds of songs,hard
+chateaubriand,porterhouse,flatiron,tomahawk,kinds of steaks,medium
+gaffer,electrical,duct,packing,kinds of tape,hard
+clay,carpet,hard,grass,kinds of tennis courts,very_hard
+roma,cherry,grape,plum,kinds of tomatoes,medium
+monster,garbage,dump,pickup,kinds of trucks,hard
+hipster,brief,boxer,thong,kinds of underwear,easy
+bikini,g-string,thong,hipster,kinds of underwear,medium
+still,spring,mineral,tap,kinds of water,medium
+right,blue,gray,fin,kinds of whales,hard
+crescent,socket,monkey,allen,kinds of wrenches,very_hard
+cake,kong,tut,cobra,king ___,very_hard
+x,smooch,smack,peck,kiss,very_hard
+ladle,grater,peeler,whisk,kitchen utensils,easy
+trifle,trinket,thingamajig,tchotchke,knickknack,medium
+copy,replica,bootleg,fake,knockoff,easy
+ding-dong,yahoo,dodo,yo-yo,knucklehead,easy
+praise,glory,credit,props,kudos,easy
+dropper,beaker,goggles,microscope,lab equipment,easy
+shy,low,short,light,lacking,medium
+bird,gaga,macbeth,luck,lady ___,very_hard
+canyon,mountain,valley,plateau,land formations,medium
+atoll,bar,island,key,land surrounded by water,medium
+bluff,basin,cape,plain,landforms,hard
+cape,gorge,ridge,crater,landforms,medium
+wall street,brooklyn bridge,city hall,bowling green,landmarks in downtown nyc,hard
+fantasy,dream,never never,la-la,lands of the imagination,medium
+check,tie,finish,bask,language homophones,very_hard
+speed,resolution,storage,ram,laptop specs,hard
+ton,mass,slew,sea,large amount,easy
+bundle,pile,fortune,mint,large amount of money,easy
+vessel,craft,ship,barge,large boat,easy
+flock,crowd,host,sea,large group,medium
+luxor,excalibur,encore,aria,las vegas casino hotels,hard
+street,rainbow,kangaroo,neighborhood,last words in long-running children’s show titles,very_hard
+from,sea,to,shining,last words in “america the beautiful”,very_hard
+butterfly,seville,flute,bess,last words of famous opera titles,hard
+supper,laugh,resort,straw,last ___,very_hard
+mamba,meringue,tangy,simba,latin dances with a vowel changed,very_hard
+pro,ab,sub,sine,latin prepositions,very_hard
+vox,quid,ergo,caveat,latin words,hard
+lol,rofl,haha,dead,"laughter, in a text",easy
+gush,flatter,praise,fawn,lay it on thick,easy
+ferry,mercury,nicks,plant,lead singers of ’70s rock bands,very_hard
+moderate,anchor,host,present,"lead, as a tv program",medium
+king,gore,carter,tutu,leaders who received the nobel peace prize,hard
+maroon,desert,strand,ditch,leave high and dry,medium
+dip,bounce,jet,split,leave quickly,medium
+blue,liberal,progressive,left,"left-leaning, politically",easy
+ankle,knee,thigh,shin,leg parts,easy
+suits,goliath,damages,matlock,legal dramas,hard
+trial,inquiry,hearing,proceeding,legal session,hard
+lawsuit,action,claim,complaint,legal terms,medium
+gable,dean,garland,temple,legends of classic hollywood,hard
+leader,speaker,chair,whip,legislative roles,hard
+short,jean,tight,pant,"legwear, in the singular",very_hard
+loose,lax,slack,easy,lenient,easy
+que,elle,are,queue,letter homophones,hard
+queue,sea,why,🫖,letter homophones,very_hard
+🐑,are,🐝,👁️,letter homophones,very_hard
+sincerely,love,best,cheers,letter sign-offs,easy
+gee,bee,jay,ex,letter spellings,hard
+tissue,atom,cell,organ,levels of biological organization,hard
+relations,fling,thing,affair,liaison,easy
+tan,camel,fawn,khaki,light brown shades,medium
+bulb,rail,year,beer,light ___,very_hard
+exit,applause,walk,recording,light-up signs,very_hard
+rod,strike,bug,bolt,lightning ___,very_hard
+baby,wayne,jon,kim,lil ___ rappers,very_hard
+program,bill,schedule,slate,lineup,easy
+teddy,garter,slip,hose,lingerie,hard
+slip,garter,thong,teddy,lingerie,medium
+oil,coolant,brake fluid,fuel,liquids you put into cars,easy
+liter,fifth,pint,handle,liquor bottle sizes,very_hard
+roster,slate,ticket,ballot,list of candidates,easy
+charge,sue,move,serve,litigation verbs,hard
+touch,drop,dab,splash,little bit,easy
+splash,sprinkle,drop,spot,little bit of a beverage,medium
+drop,pinch,dash,splash,"little bit, in a recipe",hard
+legend,proof,large,room,living ___,very_hard
+chameleon,monitor,gecko,iguana,lizards,medium
+dive,haunt,establishment,joint,local watering hole,easy
+coach,mustang,godiva,polo,logos with horses,very_hard
+sub,grinder,hero,hoagie,long sandwiches,easy
+pin,lance,spit,skewer,"long, sharp objects",medium
+staff,rod,pole,stick,"long, skinny objects",medium
+alpaca,afghan,yak,angora,long-haired animals,easy
+bow,legs,horn,fellow,long___,very_hard
+guard,watch,mind,tend,look after,medium
+speed,tweet,bug,pork,looney tunes characters minus a letter,very_hard
+duck,pig,martian,bunny,looney tunes figures,hard
+hoop,ring,circle,band,loop,easy
+bug,flip,wig,freak,"lose it, with ""out""",hard
+dear,peach,doll,angel,lovely person,medium
+kind,sweet,warm,tender,loving,easy
+scoop,info,dish,dope,lowdown,medium
+foot,bottom,foundation,base,lowest part,easy
+foundation,foot,bottom,base,lowest point,medium
+sense,mind,marbles,wits,lucidity,hard
+moon,rainbow,clover,horseshoe,lucky charms marshmallows,hard
+duck,charm,strike,break,lucky ___,very_hard
+great,legend,icon,lion,luminary,medium
+melt,wrap,club,hero,lunch orders,easy
+grand,lavish,opulent,deluxe,luxurious,medium
+satin,silk,chiffon,velvet,luxurious fabrics,easy
+old,signs,split,glass,m. night shyamalan movies,hard
+met,tiger,twin,cub,m.l.b. team member,hard
+ray,national,red,angel,m.l.b. team member,hard
+yanks,jays,nats,cards,"m.l.b. teams, for short",hard
+shift,control,command,option,mac keyboard keys,hard
+fury,mad,road,max,mad max fury road,very_hard
+hoof,claw,horn,nail,made of keratin,easy
+dash,hyphen,minus,underscore,made with horizontal lines,hard
+cherish,holiday,music,frozen,madonna songs,hard
+wired,people,us,fortune,magazines,hard
+rolling stone,time,star,billboard,magazines,hard
+essence,time,vogue,people,magazines,hard
+o,ok,o,us,magazines,medium
+fortune,mad,nature,w,magazines,medium
+abracadabra,please,thank you,presto,magic words,very_hard
+kingdom,marker,mushroom,carpet,magic ___,very_hard
+noble,great,grand,lofty,magnanimous,medium
+bamboo,dragon,wind,season,mahjong tiles,hard
+music,downloads,documents,desktop,main folders in a computer,medium
+backbone,anchor,pillar,cornerstone,mainstay,hard
+botch,spoil,blow,butcher,make a hash of,easy
+tie,square,draw,even,"make equal, as a score",easy
+fulfill,honor,keep,uphold,"make good on, as a promise",easy
+suit,tickle,please,delight,make happy,easy
+tickle,tickle,charm,please,make happy,hard
+delight,please,amuse,delight,make happy,hard
+grate,mince,slice,cube,make into smaller pieces while cooking,medium
+present,exhibit,display,show,make public,medium
+clip,trim,cut,pare,make shorter,easy
+highlighter,blush,powder,foundation,makeup,easy
+buck,billy,ram,buck,male animals,hard
+jack,jack,bull,tom,male animals,hard
+bull,boar,jack,buck,male animals,very_hard
+trojan horse,virus,worm,backdoor,malicious software,medium
+fever,fad,bug,craze,mania,hard
+clip,file,polish,buff,manicure steps,very_hard
+shop,mill,plant,factory,manufacturing locations,easy
+destination,starting point,route,stops,map app options,medium
+compass,key,inset,scale,map features,medium
+ding,scratch,chip,nick,mar,hard
+honey,hero,someday,fantasy,mariah carey number one hits,very_hard
+gull,puffin,pelican,booby,marine birds,hard
+star,coral,jelly,sponge,"marine invertebrates, familiarly",hard
+seal,otter,manatee,dolphin,marine mammals,easy
+cross,check,tick,strike,mark as completed,hard
+like,favorite,bookmark,save,mark online for later,easy
+koala,wombat,kangaroo,wallaby,marsupials,easy
+twist,gin,dry,dry,martini specifications,hard
+perfect,dirty,shaken,wet,martini specifications,hard
+dirty,dry,up,twist,martini specifications,very_hard
+giant,monster,super,jumbo,massive,easy
+china,linen,crystal,silver,materials associated with fancy dining,easy
+max,log,tan,mod,math abbreviations,very_hard
+good shepherd,rainmaker,martian,departed,"matt damon movies, with ""the""",hard
+queen,full,king,king,mattress sizes,medium
+twin,full,twin,queen,mattress sizes,medium
+pole,flower,day,fly,may___,very_hard
+tool,medium,vehicle,mechanism,means,easy
+organ,medium,instrument,vehicle,means,medium
+plane,train,car,boat,means of transportation,easy
+crime,temperature,angle,education,measured in degrees,very_hard
+yard,sack,reception,attempt,measured in football stats,very_hard
+scale,ruler,compass,watch,measuring instruments,medium
+poke,pry,nose around,snoop,meddle,easy
+publicity,coverage,exposure,press,media attention,medium
+intern,attending,resident,fellow,medical roles,medium
+spray,tablet,capsule,syrup,medicine formats,hard
+cream,patch,tablet,cream,medicine formats,hard
+club,spear,sword,mace,medieval weapons,very_hard
+average,fair,so-so,ok,meh,easy
+stitch,rocky,scratchy,chip,member of a cartoon duo,hard
+banshee,heartbreaker,pip,wailer,member of a classic backing band,very_hard
+wing,maverick,cowboy,star,member of a dallas pro sports team,hard
+bangle,go-go,supreme,chick,member of a girl group,hard
+animal,bacteria,fungus,plant,member of a kingdom in taxonomy,easy
+sea,dwarf,wonder,sin,member of a septet,very_hard
+celtic,packer,yankee,canadien,member of a team with the most championships in their respective sports,easy
+monster,minion,car,incredible,member of a titular group in an animation franchise,hard
+kink,animal,supreme,door,member of a ’60s band,very_hard
+sin,wonder,sister,sea,members of a septet,very_hard
+stooge,amigo,king,tenor,members of a trio,very_hard
+glee,mirth,festivity,cheer,merriment,easy
+thatch,mop,shock,tangle,mess of hair,medium
+mane,tangle,mop,mat,mess of hair,medium
+spoil,fluff,blow,bumble,mess up,medium
+scrape,scratch,score,scar,mess up the surface of,medium
+tin,lead,mercury,gold,metal elements,easy
+iron,copper,gold,zinc,metal elements,medium
+silver,nickel,lead,tin,metal elements,medium
+bombshell,twist,wrench,curveball,metaphor for something unexpected,medium
+whirlwind,circus,roller coaster,soap opera,metaphors for a dramatic and chaotic event,medium
+picnic,breeze,pie,abc,metaphors for easy things,hard
+hornet’s nest,can of worms,minefield,pandora’s box,metaphors for potentially volatile situations,easy
+means,channel,vehicle,medium,method,medium
+micro,mega,kilo,pico,metric prefixes,medium
+spirit,grit,resolve,fight,mettle,medium
+teams,edge,office,windows,microsoft products,hard
+word,edge,bing,surface,microsoft products,very_hard
+fudge,shoot,frick,shoot,mild oaths,medium
+darn,heck,fie,frick,mild oaths,medium
+fiddlesticks,sugar,fudge,fudge,mild oaths,medium
+sphere,circle,scene,world,milieu,easy
+fatigue,drab,camo,khaki,military clothing descriptors,medium
+bug,cold,cough,chill,minor ailments,medium
+hash,medley,jumble,stew,mishmash,easy
+soften,dampen,temper,cushion,mitigate,medium
+ray,royal,met,angel,mlb player,hard
+can,will,must,might,modal verbs,hard
+yardstick,benchmark,gauge,standard,model for reference,easy
+podcast,smartwatch,crypto,vape,modern inventions,very_hard
+train,car,boat,plane,modes of transportation,easy
+baby,toy,mini,pocket,modifiers meaning “small”,hard
+rum,lime,soda,mint,mojito ingredients,hard
+cool,temper,moderate,settle,mollify,medium
+pamper,humor,indulge,baby,mollycoddle,easy
+jail,boardwalk,chance,go,monopoly squares,easy
+purr,buzz,drone,hum,monotonous sounds,easy
+gas,cable,electric,water,monthly bills,easy
+gas,internet,rent,phone,monthly expenses,medium
+goose,earth,may i,superior,mother ___,very_hard
+bus,car,motorcycle,truck,motor vehicles,medium
+fuji,hood,olympus,whitney,mount ___,medium
+hover,scroll,click,drag,mouse actions,easy
+bolt,barrel,hurtle,tear,move at breakneck speed,easy
+sway,swing,rock,wave,move back and forth,medium
+progress,advance,push,march,move forward,medium
+glide,sail,coast,breeze,move in an effortless way,hard
+flap,wave,sway,blow,move in the wind,medium
+dash,bolt,fly,dart,move quickly,easy
+barrel,bolt,zip,zip,move quickly,medium
+race,fly,dart,dash,move quickly,medium
+steal,slip,tiptoe,creep,move stealthily,medium
+fly,soar,glide,float,move through the air,easy
+push,drive,prompt,propel,move to action,easy
+groove,bop,sway,bounce,move to the music,easy
+fly,race,blaze,tear,move with speed,medium
+picture,flick,feature,film,movie,easy
+tilt,zoom,pan,dolly,movie camera verbs,hard
+romance,musical,western,horror,movie genres,easy
+alien,wicked,gladiator,venom,movie series with 2024 releases,hard
+cast,plot,genre,title,movie summary info,easy
+munich,chicago,rio,philadelphia,movie title cities,easy
+elf,saw,her,big,movies,hard
+ghost,casper,let me in,twilight,movies featuring supernatural romance,hard
+commando,brazil,clue,witness,movies from 1985,very_hard
+apollo,samurai,fantastic,candles,movies minus numbers,very_hard
+epic,film series,feature,short,movies of various lengths,hard
+mother,them,airplane,oklahoma,movies with “!”,very_hard
+goodfella,jaw,car,swinger,movies with “s” removed,hard
+peanut,bean,fox,clean,mr. ___,very_hard
+jackass,cribs,state,catfish,mtv shows,very_hard
+drove,pack,sea,host,multitude,hard
+town,city,county,village,municipalities,easy
+scooter,gonzo,beaker,animal,muppets,hard
+mist,fog,haze,cloud,murky condition,easy
+squad,shammy,spec,strap,muscle nicknames plus “s”,very_hard
+tri,quad,pec,lat,"muscles, informally",easy
+tri,pec,quad,ab,"muscles, informally",medium
+jacked,built,ripped,swole,muscular,medium
+pop,metal,emo,funk,music genres,easy
+country,jazz,rock,blues,music genres,easy
+pop,folk,punk,rap,music genres,easy
+dub,pop,emo,trap,music genres,hard
+blues,soul,funk,country,music genres,medium
+rocky,skat,bluest,pope,music genres plus a letter,very_hard
+stop,rewind,shuffle,skip,music player buttons,easy
+rolling stone,pitchfork,billboard,billboard,music publications,hard
+spin,pitchfork,spin,mojo,music publications,hard
+theremin,harp,bass,timpani,musical instruments,easy
+bassoon,tambourine,trombone,recorder,musical instruments,easy
+organ,harp,horn,triangle,musical instruments,hard
+organ,bass,triangle,harp,musical instruments,medium
+horn,recorder,horn,fiddle,musical instruments,medium
+la,ti,fa,do,musical notes,medium
+wind,rhythm,string,brass,musical sections,medium
+hair,rent,grease,company,musicals,hard
+carousel,chicago,cabaret,cats,musicals beginning with “c”,medium
+fannie,scats,chair,brent,musicals plus starting letter,very_hard
+horseshoe,handlebar,pencil,walrus,mustaches,very_hard
+bird,jordan,james,curry,n.b.a. greats,very_hard
+sun,net,spur,buck,n.b.a. player,hard
+clipper,rocket,pacer,spur,n.b.a. team player,hard
+spurs,bucks,hornets,bulls,n.b.a. teams,hard
+horseshoe,lightning bolt,buffalo,fleur-de-lis,n.f.l. team logos,very_hard
+cowboy,jet,raven,ram,n.f.l. team member,hard
+flyer,duck,senator,star,n.h.l. team member,hard
+stars,kraken,flames,wild,n.h.l. teams,hard
+mole rat,gun,eye,truth,naked ___,very_hard
+mic,curt,kneel,dug,name homophones,very_hard
+matte,hairy,wane,peat,name homophones,very_hard
+rev,prof,ms,gen,name prefixes,medium
+brand,game,drop,names,name ___,very_hard
+theater,greek/roman god,spacecraft,fictional boxer,"named ""apollo""",very_hard
+frankincense,jackpot,nickname,markdown,names ending in “k” plus word,very_hard
+jeopardy,pink,airplane,yahoo,"names featuring ""!""",very_hard
+emmy,edie,cece,katie,names that sound like two letters,very_hard
+viking,voyager,galileo,pioneer,nasa spacecraft,hard
+anthem,motto,seal,flag,national symbols,hard
+foxtrot,victor,hotel,yankee,nato phonetic alphabet,hard
+faculty,flair,talent,instinct,natural ability,hard
+savanna,cliff,brook,dale,natural features,medium
+lightning,fire,volcano,sun,natural producers of heat,very_hard
+kobe,bird,curry,magic,"nba legends, familiarly",hard
+sun,thunder,king,magic,nba players,medium
+bucks,nets,jazz,heat,nba teams,medium
+scoop,boat,v,crew,necklines,medium
+ascot,tie,scarf,bolo,neckwear,easy
+drop cloth,roller,paint,tape,needs for painting a room,medium
+dice,scorecard,pencil,cup,needs for playing yahtzee,medium
+envelope,name,stamp,address,needs for sending a letter,medium
+rubber bands,basin,dye,shirt,needs for tie-dyeing a shirt,medium
+jitter,butterfly,willy,nerve,"nervousness, in the singular",hard
+though,however,still,yet,nevertheless,easy
+gooden,strawberry,piazza,seaver,new york mets legends,hard
+net,met,ranger,jet,new york sports team members,hard
+wire,flash,bulletin,report,news announcement,easy
+lede,dateline,photo,caption,news article features,hard
+copy,sports,city,culture,newspaper desks,hard
+columnist,photographer,reporter,editor,newspaper jobs,easy
+globe,mirror,post,sun,newspaper names,hard
+chronicle,register,herald,sun,newspaper names,medium
+arts,business,comics,sports,newspaper sections,easy
+business,national,opinion,style,newspaper sections,medium
+post,globe,sun,journal,newspapers,hard
+heart,nucleus,hub,center,nexus,medium
+packer,raven,cowboy,bronco,nfl players,easy
+commander,bill,bear,brown,nfl players,very_hard
+moniker,designation,handle,sobriquet,nickname,medium
+drink,deep,briny,blue,"nicknames for the sea, with “the”",very_hard
+sue,josh,chuck,rob,nicknames that are verbs,very_hard
+bill,tom,pat,bob,nicknames that have other meanings,very_hard
+club,lounge,bar,disco,nightspots,easy
+owl,moth,wolf,bat,nocturnal animals,medium
+row,racket,clatter,ruckus,noisy disturbance,medium
+plastic,credit,charge,card,non-cash way to pay,hard
+baloney,bull,rubbish,bunk,nonsense,easy
+baloney,tripe,bull,bunk,nonsense,hard
+bunk,crock,baloney,tripe,nonsense,medium
+mean,par,average,standard,norm,easy
+suck,stink,bite,blow,not be good,medium
+but,besides,save,except,not including,medium
+gone,mia,elsewhere,absent,not present,easy
+uneven,rugged,rough,bumpy,"not smooth, as terrain",easy
+buggy,spotty,erratic,glitchy,not working reliably,easy
+special,pilot,finale,premiere,notable tv episodes,very_hard
+ion,ship,ness,dom,noun suffixes,hard
+liberty,life,happiness,pursuit,nouns from a famous line in the declaration of independence,medium
+plan,canal,panama,man,nouns in a famous palindrome,hard
+handful,pest,pain,bother,nuisance,medium
+tow,eon,ether,net,number anagrams,very_hard
+won,ate,too,for,number homophones,very_hard
+451,2001,"20,000",22,numbers in book titles,very_hard
+sour,sight,sen,sine,numbers with first letters replaced by “s”,very_hard
+audio,games,news,cooking,nyt offerings,medium
+holder,rest,base,stand,object used for support,hard
+aegis,pandora’s box,apple of discord,golden fleece,objects from greek myth,medium
+point,line,solid,plane,"objects in 0-, 1-, 2- and 3-dimensional space",medium
+line,plane,point,solid,"objects in 0-, 1-, 2- and 3-dimensional space",very_hard
+washboard,saw,spoons,jug,objects played as instruments,hard
+baseball glove,can opener,golf club,guitar,objects that may be right- or left-handed,very_hard
+chip,phone,wave,scope,objects with the prefix “micro-”,very_hard
+stop,block,clog,jam,obstruct,medium
+bag,snag,land,secure,obtain,hard
+win,get,score,land,obtain,hard
+clear,pronounced,marked,striking,obvious,hard
+prayer,proposal,dubbing,apology,occasions when one might kneel,hard
+smith,miller,mason,fisher,occupational surnames,medium
+drift,current,wave,tide,ocean phenomena,medium
+big,popular,hot,in,of-the-moment,easy
+digression,tangent,detour,aside,off-topic remarks,easy
+vanilla,ivory,eggshell,cream,off-white shades,easy
+approval,consent,support,blessing,official sanctioning,easy
+maxim,chestnut,saw,adage,old saying,easy
+numbers,judges,job,daniel,old testament books,hard
+stuffy,traditional,straight,square,old-fashioned,hard
+wall street,nixon,platoon,jfk,oliver stone movies,hard
+breaking,surfing,taekwondo,trampoline,olympic events since 2000,hard
+trampoline,hockey,breaking,skeleton,olympic sports,hard
+box,plate,base,mound,on a baseball field,very_hard
+level,flat,flush,even,on the same plane,hard
+pawn,puppet,instrument,tool,one being manipulated,medium
+buck,smacker,single,clam,one dollar,medium
+aviator,flier,ace,pilot,one flying an airplane,medium
+month,juror,donut,rose,one in a dozen,medium
+egg,month,juror,rose,one in a dozen,very_hard
+donut,month,juror,inch,one in a group of twelve,hard
+volunteer,guinea pig,participant,subject,one in a research study,medium
+sister,deadly sin,continent,wonder,one in a septet,medium
+agent,plant,spy,mole,one involved in espionage,hard
+train,chain,string,series,one thing after another,easy
+hot dog,peacock,ham,showboat,one who likes showing off,hard
+principal,headliner,star,lead,one with top billing,easy
+gusher,ocher,kenya,pelvis,one-named singer plus starting letter,very_hard
+mother,president,saint patrick,saint valentine,ones celebrated with holidays,medium
+boxer,monk,judge,wizard,ones wearing robes,hard
+connoisseur,critic,expert,snob,ones with discerning tastes,hard
+devil,elf,batman,vulcan,ones with pointy ears,hard
+former,prior,past,late,onetime,medium
+character,makeup,nature,fiber,one’s constitution,medium
+influencer,ambassador,model,streamer,online personality,very_hard
+thud,plop,splash,bang,onomatopoeia,very_hard
+birth,start,dawn,creation,onset,easy
+juice,fire,zip,energy,oomph,hard
+court,yard,square,plaza,open space,easy
+working,active,functional,running,operating,easy
+break,time,shot,chance,opportunity,medium
+shot,turn,chance,opening,opportunity,medium
+trim,tidy,clean,neat,orderly,easy
+vanilla,plain,standard,normal,ordinary,easy
+tongue,tripe,heart,gizzard,organ meats,medium
+hearth,lunge,skink,colony,organ plus a letter,very_hard
+party,team,group,club,organization,easy
+tree,chain,pyramid,ladder,"organizational structures, metaphorically",very_hard
+kidney,lung,heart,liver,organs,medium
+n.f.l.,nasa,paramount,subaru,orgs with stars in their logos,hard
+genesis,seed,germ,source,origin,easy
+root,cradle,font,source,origin,hard
+thimble,boot,iron,top hat,original monopoly tokens,hard
+ruffle,trim,frill,fringe,ornamental border,medium
+bridges,phoenix,washington,irons,oscar-winning actors,very_hard
+garish,bright,flashy,loud,"ostentatious, as an outfit",easy
+mate,complement,match,partner,other half,medium
+better,top,eclipse,surpass,outdo,easy
+festival,tailgate,picnic,block party,outdoor events,medium
+frank,vocal,loud,direct,outspoken,easy
+timer,broil,bake,light,oven buttons,hard
+corn,cheese,pap,mush,overly sentimental work,hard
+bore,held,possessed,had,owned,easy
+squirrel,store,stash,stow,pack (away) for future use,easy
+dense,thick,tight,compact,packed,medium
+contact,login,about,home,pages on a website,hard
+pearl,matte,gloss,eggshell,paint finishes,hard
+whistler,munch,bacon,close,painters,hard
+palette,easel,canvas,brush,painting accessories,easy
+ski poles,knitting needles,chopsticks,claves,pairs of rods,medium
+bib,eye,pop,gag,palindromes,hard
+abba,kayak,nun,stats,palindromes,medium
+kayak,otto,hannah,level,palindromes,very_hard
+natan,eve,racecar,mom,palindromes,very_hard
+refer,tenet,level,pep,palindromes featuring “e”,medium
+tree,sunday,reader,beach,palm ___,very_hard
+sheet,page,leaf,folio,paper in a book,medium
+clip,tiger,trail,towel,paper ___,very_hard
+classic,model,textbook,definitive,paradigmatic,hard
+bench,tree,statue,pigeon,park staples,hard
+spin,angle,slant,bias,partiality,easy
+box,fence,dive,row,participate in summer olympic events,medium
+shred,crumb,morsel,grain,particle,medium
+backboard,net,rim,pole,parts of a basketball hoop,hard
+trailer,axles,hitch,tractor,parts of a big rig,hard
+saddle,pedal,chain,wheel,parts of a bike,medium
+spine,cover,page,jacket,parts of a book,easy
+spine,jacket,page,cover,parts of a book,hard
+spine,leaves,cover,jacket,parts of a book,medium
+tire,trunk,hood,bumper,parts of a car,easy
+belt,wheel,mirror,horn,parts of a car,medium
+wheel,shock,tank,dash,"parts of a car, informally",hard
+beret,badge,sash,skirt,parts of a classic girl scout uniform,hard
+library,cafeteria,dorm,quad,parts of a college campus,easy
+insurance,vacation,salary,bonus,parts of a compensation package,easy
+goatee,pitchfork,tail,horns,parts of a devil costume,hard
+hinge,frame,handle,lock,parts of a door,very_hard
+touchdown,takeoff,taxi,cruise,parts of a flight,medium
+sole,arch,ball,heel,parts of a foot,easy
+crag,ledge,cliff,ridge,parts of a mountain,hard
+speaker,turntable,amp,preamp,parts of a record player setup,easy
+delta,bank,mouth,bed,parts of a river,easy
+shoulder,divider,lane,median,parts of a road,hard
+deck,anchor,bridge,aft,parts of a ship,hard
+bow,mast,deck,fore,parts of a ship,hard
+sole,heel,upper,tongue,parts of a shoe,easy
+bridge,chorus,hook,refrain,parts of a song,easy
+fork,plate,napkin,glass,parts of a table setting,easy
+chain,flapper,float,handle,parts of a toilet tank,hard
+pulp,root,enamel,crown,parts of a tooth,hard
+bracket,round,bye,seed,parts of a tournament setup,medium
+root,trunk,leaf,branch,parts of a tree,easy
+strap,hand,dial,crown,parts of a watch,medium
+banner,menu,header,sidebar,parts of a website,medium
+hub,spoke,rim,tire,parts of a wheel,easy
+robe,staff,hat,beard,parts of a wizard costume,medium
+nose,engine,wing,cabin,parts of an airplane,hard
+hangar,runway,terminal,tarmac,parts of an airport,easy
+halo,robe,wings,harp,parts of an angel costume,medium
+pickup,fret,peg,string,parts of an electric guitar,hard
+whip,fedora,satchel,bomber,parts of an indiana jones costume,hard
+rind,stem,seed,core,parts of fruit you might not eat,hard
+drum,hammer,canal,anvil,parts of the ear,medium
+iris,cone,lens,pupil,parts of the eye,medium
+dud,drip,bore,drag,party pooper,easy
+bar,torch,time,buck,pass the ___,very_hard
+extreme,intense,deep,fierce,"passionate, as a feeling",easy
+ribbon,elbow,wheel,ear,pasta shapes,hard
+bowtie,spiral,shell,elbow,pasta shapes,medium
+bowtie,wheel,elbow,tube,pasta shapes,very_hard
+honeycomb,checkers,stripes,camo,patterns,hard
+paisley,stripes,plaid,houndstooth,patterns,medium
+pony,ante,settle,cough,"pay, with “up”",hard
+masterpiece,nova,nature,frontline,pbs shows,hard
+coat,pod,green,soup,pea ___,very_hard
+swell,dandy,fine,ducky,peachy,easy
+nifty,super,neat,swell,peachy keen,easy
+off,weird,curious,funny,peculiar,easy
+levy,butler,bloom,guthrie,people whose first names are u.s. cities,very_hard
+catch,clock,register,notice,perceive,easy
+observe,catch,notice,see,perceive,medium
+rattle,drum,triangle,bell,percussion instruments,easy
+punch,poke,pierce,bore,perforate,medium
+tank,flail,flounder,flop,perform poorly,medium
+ace,nail,rock,crush,perform well on,hard
+stand-up,singer,dancer,actor,performing artists,easy
+age,day,time,era,period,hard
+as,k,be,i,periodic table symbols,hard
+fe,he,i,ni,periodic table symbols,very_hard
+edge,border,fringe,skirt,periphery,easy
+hold,stay,last,stand,persist,easy
+chair,director,chief,head,person in charge,easy
+nail file,brush,tweezers,mirror,personal grooming items,easy
+effect,good,belonging,possession,personal property minus “s”,very_hard
+angle,bent,lens,point of view,perspective,easy
+nag,hound,bug,badger,pester,easy
+ride,badger,bug,harry,pester,hard
+nags,hounds,bugs,badgers,pesters,easy
+pan,rabbit,piper,parker,peter ___,very_hard
+campaign,press,appeal,lobby,petition (for),hard
+melting,condensation,vaporization,freezing,phase transitions for liquids,medium
+rustle,marks,lock,pane,philosopher homophones,very_hard
+service,signal,reception,bars,phone connectivity,medium
+stress,rhythm,intonation,loudness,phonetic elements of speech,very_hard
+snap,pic,shot,still,photo,easy
+eyedropper,eraser,magic wand,lasso,photoshop tools,hard
+catch,see,spot,note,pick up on,medium
+cooler,utensils,basket,blanket,picnic accessories,medium
+icon,symbol,character,glyph,pictograph,medium
+hanger,hammer,level,nail,picture hanging needs,hard
+olive branch,arrows,eagle,shield,pictured on the u.s. great seal,medium
+breast,wing,tender,drumstick,pieces of chicken,easy
+chair,table,bed,couch,pieces of furniture,easy
+puck,ball,stone,birdie,pieces of olympic sports equipment,hard
+brace,support,prop,post,pillar,medium
+steer,direct,guide,lead,pilot,medium
+flipper,plunger,ball,bumper,pinball machine components,hard
+filter,tamper,pipe cleaner,lighter,pipe-smoking accessories,hard
+zest,kick,punch,zing,piquancy,easy
+zip,bite,tang,kick,piquancy,hard
+brave,coco,up,cars,pixar movies,hard
+racecar,grumpy old man,talking doll,clownfish,pixar protagonists,hard
+port,jack,outlet,socket,place to plug something in,medium
+vault,chest,coffer,safe,place to store valuables,medium
+put,laid,sat,placed,placed down,hard
+temple,shrine,reliquary,altar,places for worship,easy
+champagne,nice,tours,dijon,places in france,hard
+nice,angers,reunion,champagne,places in france,very_hard
+wall street,chinatown,dumbo,manhattan,places in new york city,easy
+gulf,chevron,shell,7-eleven,places that sell gas,hard
+wallet,atm,tip jar,cash register,places to find paper money,easy
+red carpet,american flag,uber rating,galaxy,places to find stars,hard
+web,net,snare,tangle,places to get trapped,easy
+rocker,swing,hammock,cradle,places to lie/sit that move,hard
+outlet,market,mall,outlet,places to shop,easy
+store,bazaar,market,fair,places to shop,easy
+land,world,city,town,places used in retail suffixes,medium
+gym,courtroom,park,dugout,places with benches,very_hard
+bowling alley,highway,supermarket,swimming pool,places with lanes,medium
+genus,cars,darth,bluto,planets/dwarf planet with first letter changed,very_hard
+sprout,bud,bloom,shoot,plant growths,medium
+anise,fennel,licorice,tarragon,plants with similar flavors,medium
+trick,fool,prank,punk,play a joke on,medium
+groove,rock,shred,jam,play music with passion,medium
+solo,jam,shred,noodle,play some electric guitar,medium
+date,doh,dirty,dead,play ___,very_hard
+kid,rib,tease,josh,playfully bother,easy
+kid,tease,rib,needle,playfully poke fun at,easy
+swings,slide,teeter-totter,monkey bars,playground equipment,easy
+swing,sandbox,slide,seesaw,playground fixtures,easy
+tag,hide,dodge,hop,playground verbs,medium
+spade,heart,diamond,club,playing card suits,easy
+jack,kings,ace,queens,playing cards,easy
+king,jacks,aces,queen,playing cards,easy
+scent,fragrance,bouquet,aroma,pleasant smells,easy
+snake,pipe,wrench,plunger,plumbing equipment,medium
+sack,raid,rob,loot,plunder,easy
+booty,loot,swag,spoils,plunder,very_hard
+sheep,squid,deer,shrimp,plural animals identical to their singular forms,hard
+dice,mice,lice,oxen,plural words that are very different from their singular forms,very_hard
+up first,radiolab,wtf,serial,podcasts,hard
+meter,verse,line,rhyme,poetry terms,hard
+position,perspective,lens,angle,point of view,medium
+call,check,raise,fold,poker actions,hard
+fold,call,check,bet,poker actions,medium
+bones,elementary,kojak,monk,police procedurals,hard
+relations,congress,commerce,intimacy,polite terms for sex,medium
+noodle,muse,reflect,deliberate,ponder,hard
+grande,mars,styles,swift,pop megastars,easy
+mar,key,style,spear,pop singers minus “s”,very_hard
+kettle,stovetop,microwave,popper,popcorn-making methods,hard
+share,piece,take,cut,portion of profit,hard
+for,pro,aye,yea,positions in favor,easy
+boot,tow,ticket,points,possible results of a traffic violation,hard
+stall,punt,hold,table,postpone,very_hard
+sticker,belly,hole,luck,pot___,very_hard
+wing,breast,tender,thigh,poultry cuts,easy
+tender,wing,breast,thigh,poultry cuts,medium
+outage,short,surge,spike,power issues,medium
+ranger,nap,plant,trip,power ___,very_hard
+feather,mushroom,flower,star,power-ups in super mario world,very_hard
+toilet paper,moon,egg,streak,prank verbs,very_hard
+jabber,chat,gab,blather,prattle on,medium
+cusp,eve,brink,verge,precipice,easy
+mess,fix,pickle,jam,predicament,easy
+fix,hole,spot,corner,predicament,hard
+binds,jams,spots,pickles,predicaments,hard
+forecast,divine,read,call,predict,hard
+hyper,over,super,extra,prefix meaning “very”,easy
+pro,sub,super,retro,prefixes,hard
+demo,auto,bureau,pluto,prefixes with -cracy,very_hard
+cures,smokes,salts,cans,"preserves, as meat",medium
+run,direct,lead,chair,preside over,medium
+chester,harry,calvin,grover,presidential first names,hard
+lincoln,ford,grant,wilson,presidents,easy
+imagine,think,figure,suspect,presume,easy
+affect,charade,front,airs,pretense,medium
+good,penny,please,woman,pretty ___,very_hard
+poke,stick,jab,pierce,prick,easy
+first,chief,principal,main,primary,medium
+gibbon,bonobo,gorilla,baboon,primates,medium
+bulletin,announcement,notice,poster,printed notification,easy
+team,number,college,position,pro athlete data,hard
+undertaker,hitman,rock,snake,"pro wrestling icons, with “the”",hard
+caravan,parade,train,fleet,procession,easy
+reserve,secure,book,charter,procure in advance,medium
+cone,pollen,acorn,sap,produced by trees,easy
+line,trade,field,business,profession,hard
+ruby,java,basic,python,programming languages,hard
+drag,inch,creep,crawl,progress slowly,easy
+deny,forbid,ban,block,prohibit,medium
+deny,bar,refuse,block,"prohibit, as entry",easy
+cage,bacon,ford,cruise,prolific actors,hard
+sell,market,pitch,hype,promote,easy
+here,wee,theme,use,pronoun plus “e”,very_hard
+i,you,they,me,pronouns,medium
+us,we,it,them,pronouns,medium
+hop,leap,jump,spring,propel into the air,easy
+jazzercise,paralympics,pokémon,wikipedia,proper noun portmanteaux,hard
+john malkovich,las vegas,private ryan,amy,proper nouns after gerunds in '90s movie titles,very_hard
+yankees,kate,birdie,dolly,proper nouns in broadway musical titles that are spoken phrases,hard
+donut,pacifier,skateboard,saxophone,props for characters on “the simpsons”,hard
+pad,buffer,shield,cushion,protective barrier,medium
+skin,shell,scales,bark,protective coverings in nature,medium
+milk,guts,beans,tea,proverbial things that are spilled,very_hard
+hornets’ nest,can,tires,habit,proverbial things to kick,hard
+explain,expand,specify,elaborate,provide more details,medium
+character,image,reputation,name,public standing,medium
+exposure,press,attention,coverage,publicity,easy
+copy,words,writing,text,published lines,medium
+yank,jerk,wrench,tug,pull,medium
+yank,tear,wrench,rip,pull using force,easy
+sock,slug,blow,belt,punch,easy
+pound,sock,pop,slug,punch,medium
+hyphen,period,dash,colon,punctuation marks,medium
+slash,colon,comma,period,punctuation marks,medium
+crate,collar,bowl,bed,puppy purchases,medium
+bottle,mobile,crib,rattle,purchases for a baby,medium
+rain,prose,haze,heart,purple ___,very_hard
+dog,tail,shadow,track,pursue,hard
+chase,tail,track,follow,pursue,hard
+trail,stalk,hunt,track,pursue,medium
+hunt,chase,quest,search,pursuit,easy
+shoulder,barge,jostle,muscle,push through a crowd,very_hard
+hits,taps,clicks,presses,"pushes, as a button",medium
+give,pronounce,present,deliver,"put forward, as an announcement",medium
+bet,chance,gamble,risk,put on the line,easy
+crack,slight,dig,barb,putdown,easy
+wet,cold,windy,gray,qualities of a rainy day,easy
+stringy,dry,chewy,tough,qualities of overcooked meat,easy
+lift,bounce,volume,body,qualities of thick hair,hard
+count,total,number,amount,quantity,easy
+some,several,many,few,quantity words,hard
+tiff,scrap,row,fight,quarrel,medium
+bed,mary,bee,mother,queen ___,very_hard
+swim,dip,splash,dive,quick jump in the pool,medium
+look,gander,glance,glimpse,quick peek,easy
+blast,rave,bash,blowout,quite the party,easy
+chatterbox,blabbermouth,prattler,windbag,quite the talker,easy
+gross,king,stern,glass,radio hall of fame members,very_hard
+copy,out,roger,over,radio lingo,hard
+roger,negative,over,copy,radio lingo,medium
+channel,band,frequency,station,radio tuning options,medium
+forest,coat,maker,bow,rain___,very_hard
+grime,bounce,drill,crunk,rap subgenres,hard
+q-tip,ice cube,common,future,rappers,hard
+tip,pain,40,cole,rappers minus first letter,very_hard
+pac,savage,chainz,cent,rappers minus numbers,very_hard
+rough,gruff,husky,hoarse,raspy,easy
+percentage,thumbs,stars,a-f,ratings systems,hard
+basis,foundation,reason,grounds,rationale,easy
+message,ping,text,contact,reach out to,medium
+96,mow,noon,sis,reads the same rotated 180°,very_hard
+estate,madrid,world,deal,real ___,very_hard
+catfish,chopped,survivor,alone,reality shows,medium
+domain,field,sphere,area,realm of expertise,easy
+bounce,ricochet,carom,bank,rebound,medium
+columbia,virgin,capitol,island,record labels,hard
+shoebox,brick,fish tank,microwave,rectangular prisms,hard
+glass,metal,plastic,paper,recycling categories,medium
+bull,carpet,meat,cross,red ___,very_hard
+velvet,herring,delicious,tape,red ___,very_hard
+elegance,grace,style,taste,refined sensibility,easy
+gleam,glitter,sparkle,flash,reflect light,easy
+buy,trust,believe,accept,regard as true,easy
+about,toward,on,concerning,regarding,hard
+limit,check,curb,contain,regulate,hard
+parrot,echo,repeat,quote,reiterate,medium
+insurance,escrow,appraisal,mortgage,related to buying a home,hard
+acoustic,auditory,heard,sonic,related to sound/hearing,medium
+conductor,car,track,station,related to trains,medium
+mother,cousin,nephew,aunt,relatives,easy
+hang,loaf,chill,lounge,relax,easy
+lounge,loaf,chill,veg,relax,medium
+pastor,lama,cardinal,monk,religious figures,easy
+power,menu,volume,channel,remote control buttons,easy
+menu,back,select,home,remote control buttons,hard
+stop,home,mute,volume,remote control functions,hard
+country,woods,bush,sticks,remote rural area,medium
+thread,wax,pluck,laser,"remove, as body hair",easy
+wipe,flick,sweep,brush,"remove, as crumbs",hard
+pares,shells,shucks,peels,removes the covering of,hard
+work,upgrades,construction,repairs,renovations,medium
+there,hear,tut,knock,repeated words in expressions,medium
+copy,extra,spare,backup,replacement,easy
+backup,substitute,cover,sub,replacement,medium
+relief,alternate,cover,backup,replacement,medium
+lyre,big bear,centaur,hunter,represented by constellations,medium
+intro class,devil,james bond,cannabis,represented by three-digit numbers,very_hard
+standing,face,image,regard,reputation,hard
+bank,save,stash,store,reserve for later,easy
+stay,live,dwell,inhabit,reside,easy
+mat,band,dumbbell,bench,resistance training equipment,medium
+right,correct,bingo,yes,response to a correct answer,medium
+starter,dessert,side,main,restaurant courses,medium
+dishwasher,cook,host,server,restaurant jobs,medium
+booth,counter,table,bar,restaurant seating options,hard
+tap,sparkling,bottled,still,restaurant water options,easy
+chef,server,host,bartender,restaurant workers,easy
+check,curb,limit,stem,restrain,hard
+check,block,stop,dam,restrict,easy
+check,curb,limit,cap,restrict,hard
+fruit,product,return,yield,result,easy
+product,sum,difference,quotient,results of some arithmetic,hard
+ditch,pit,hole,trench,results of some digging,medium
+best boy,idea,stables,kroner,retail chains with a letter changed,very_hard
+lime,pickle,mortar,jenny,rhyme with u.s. coins,very_hard
+karen,aaron,darren,sharon,rhymes,easy
+fryer,fire,choir,liar,rhymes,hard
+hurdle,confections,grands,swelling sea,rhymes for new york times games,very_hard
+widen,vixen,pagan,smarter,rhymes of u.s. president names,very_hard
+hubbub,nitwit,backpack,ragtag,rhyming compound words,very_hard
+downtown,backpack,cookbook,bigwig,rhyming compound words,very_hard
+be kind rewind,fright night,e.t.,kill bill,rhyming titles,medium
+clear,drain,empty,flush,rid of contents,medium
+stiff,rob,hose,fleece,rip off,easy
+torn,cleft,split,rent,ripped,medium
+spicy,blue,adult,suggestive,risqué,hard
+avenue,drag,drive,artery,road,medium
+alley,lane,drive,street,road names,easy
+anvil,coyote,boulder,tnt,road runner cartoon staples,medium
+casino,heat,taxi driver,joker,robert de niro films,hard
+healthy,strong,fit,sound,robust,easy
+heart,queen,madonna,prince,rock & roll hall of fame inductees,hard
+glam,metal,goth,punk,rock genres,hard
+arena,garage,alternative,classic,rock music subgenres,medium
+paper,shoot,scissors,rock,rock paper scissors,hard
+star,candy,bottom,garden,rock ___,very_hard
+picture,rocky,show,horror,rocky horror picture show,easy
+rat,hamster,vole,gerbil,rodents,medium
+rocky,itchy,pinky,chip,rodents who are first in a cartoon duo,very_hard
+stick,bat,club,staff,rods,easy
+crochet hook,crowbar,crook,candy cane,rods that curve at one end,very_hard
+v,l,m,d,roman numerals,hard
+connection,spark,feelings,vibe,romantic beginnings,hard
+yours,always,kisses,love,romantic letter sign-offs,medium
+lover,steady,sweetheart,flame,romantic partner,easy
+attraction,sparks,chemistry,fireworks,romantic rapport,easy
+thing,pair,couple,item,romantic twosome,medium
+spark,fireworks,connection,chemistry,romantic vibe,hard
+study,den,kitchen,bedroom,rooms in a house,easy
+study,lounge,library,hall,rooms in the game clue,easy
+handset,cradle,dial,cord,rotary phone parts,medium
+crank,turn,wind,reel,rotate,medium
+even,odd,black,red,roulette bets,medium
+red,even,odd,black,roulette options,very_hard
+pancake,record,coaster,frisbee,round flat things,easy
+funding,golf,applause,drinks,round of ___,very_hard
+globe,ball,orb,sphere,round three-dimensional objects,easy
+prince,baron,king,earl,royal and noble titles,medium
+we,flush,family,jelly,royal ___,very_hard
+grate,gnash,grind,scrape,rub together,easy
+urgent,void,approved,paid,rubber stamp words,hard
+soul,cement,band,duckie,rubber ___,very_hard
+point,stare,whisper,snicker,rude things to do,hard
+interrupt,point,stare,litter,rude things to do,medium
+desert,jilt,ignore,ghost,rudely break off contact,hard
+root,dig,sift,comb,rummage,easy
+race,dash,sprint,bolt,run quickly,hard
+pedestrian,banal,everyday,humdrum,run-of-the-mill,medium
+blew,burst,split,broke,ruptured,easy
+draft,puff,blow,gust,rush of wind,easy
+gust,blow,blast,gale,rush of wind,medium
+tar,salty dog,swab,skipper,sailor,medium
+ruffle,combo,goldfish,taki,salty snack unit,hard
+praise,applaud,hail,honor,salute,easy
+haven,retreat,port,shelter,sanctuary,easy
+melt,sub,club,cuban,sandwiches,medium
+stone,paper,castle,piper,sand___,very_hard
+dasher,comet,vixen,cupid,santa’s reindeer,medium
+cheek,mouth,attitude,lip,sassiness,easy
+cute,smart,wise,fresh,sassy,easy
+lampoon,cracked,onion,mad,"satirical publications, familiarly",hard
+pay,clear,square,settle,"satisfy, as debts",medium
+plum,soy,xo,oyster,sauces in chinese cuisine,hard
+racket,fast one,hustle,con,scam,medium
+aroma,note,nose,bouquet,scents of wine,medium
+trick,ploy,con,sting,scheme,medium
+plot,hustle,racket,ruse,scheme,medium
+snoot,snout,beak,honker,schnozz,medium
+lab,library,gym,auditorium,school facilities,easy
+fish,hard knocks,thought,rock,school of ___,very_hard
+lunch,recess,homeroom,class,school periods,easy
+pen,ruler,tape,scissors,school supplies,easy
+dune,alien,avatar,tron,sci-fi franchises,very_hard
+abyss,fly,thing,matrix,"sci-fi movies, with “the”",very_hard
+bunch,ruffle,pucker,gather,"scrunch, as fabric",medium
+tank,snorkel,fins,mask,scuba gear,easy
+squid,ray,crab,sponge,sea creatures,easy
+change,cucumber,lion,legs,sea ___,very_hard
+harp,monk,hooded,harbor,seals,very_hard
+baltic,philippine,red,black,seas,hard
+private,remote,hidden,secret,secluded,easy
+clyde,cher,teller,hardy,second in a famous real-life duo,hard
+gamble,noble,young,johnson,second names in companies with ampersands,very_hard
+peaks,velvet,highway,drive,second words in david lynch titles,hard
+masque,cask,fall,pit,"second words in poe stories, after ""the""",hard
+dogs,fiction,unchained,brown,second words in tarantino movies,very_hard
+mia,gimme,queen,trouper,second words in titles of abba hits,very_hard
+russian,mule,mary,breeze,second words of vodka cocktails,very_hard
+bell,darling,hook,pan,second words of “peter pan” characters,very_hard
+coming,nature,fiddle,guess,second ___,medium
+fiddle,guess,nature,wind,second ___,very_hard
+code,sauce,agent,santa,secret ___,very_hard
+latex,gum,sap,resin,secreted by trees,medium
+division,wing,division,tier,section,easy
+branch,rank,class,limb,section,easy
+stage,chapter,phase,period,section of one’s life,medium
+request,book,reserve,order,secure in advance,medium
+register,scanner,conveyor belt,scale,seen at a grocery checkout counter,medium
+jumbotron,skybox,scoreboard,astroturf,seen at a sports stadium,easy
+cake,altar,bouquet,ring,seen at a wedding,medium
+cone,little spoon,cup,scoop,seen at an ice cream shop,medium
+trapeze,ring,clown,tent,seen at the circus,easy
+jelly bean,egg,bunny,peep,seen during easter,hard
+pitchfork,bale,horse,trough,seen in a barn,medium
+counter,range,sink,fridge,seen in a kitchen,easy
+hamper,washer,iron,dryer,seen in a laundry room,easy
+mirror,scale,locker,bench,seen in a locker room,medium
+photo,visa,name,stamp,seen in a passport,very_hard
+clay,kiln,wheel,glaze,seen in a pottery studio,medium
+cast,director,title,studio,seen in opening credits,hard
+mushroom,puddle,earthworm,mud,seen in the aftermath of a rainstorm,very_hard
+princess,parrot,genie,monkey,seen in “aladdin”,hard
+prince,slipper,ball,pumpkin,seen in “cinderella”,hard
+ladder,barrel,hammer,gorilla,seen in “donkey kong”,very_hard
+rubble,bone,dinosaur,club,seen in “the flintstones”,very_hard
+twins,hedge maze,typewriter,axe,seen in “the shining”,very_hard
+chicken,tractor,farmer,barn,seen on a farm,medium
+club,hole,cart,tee,seen on a golf course,hard
+candlestick,placemat,plate,pitcher,seen on a table at a dinner party,medium
+eagle,washington,seal,pyramid,seen on a u.s. dollar bill,hard
+torch,shield,eagle,monticello,seen on backs of u.s. coins,very_hard
+rose,card,heart,chocolate,seen on valentine’s day,hard
+bin,metal detector,carry-on,x-ray,seen while going through airport security,hard
+cycle,phase,stage,round,segment of a process,easy
+mark,check,x,tick,"select, as a box on a form",hard
+touch,smell,taste,sight,senses,easy
+part,fork,split,divide,separate,hard
+series,streak,run,string,sequence,easy
+chain,string,train,series,sequence,medium
+zodiac,psycho,monster,seven,serial killer movies,hard
+thread,chain,conversation,chat,series of messages,medium
+solid,tangible,firm,concrete,"set, as plans",medium
+med,off,lo,hi,settings on an appliance knob,very_hard
+happy,bashful,grumpy,doc,seven dwarfs,easy
+sleep,grump,dope,do,seven dwarfs minus last letter,very_hard
+jet,sable,raven,ebony,shades of black,hard
+raven,charcoal,jet,onyx,shades of black,hard
+powder,baby,ice,sky,shades of blue,easy
+royal,powder,baby,midnight,shades of blue,medium
+olive,forest,kelly,emerald,shades of green,hard
+lime,pea,hunter,olive,shades of green,medium
+bottle,forest,mint,kelly,shades of green,medium
+maroon,ruby,rose,brick,shades of red,easy
+ruby,brick,cherry,cherry,shades of red,easy
+gold,canary,mustard,lemon,shades of yellow,easy
+viola,juliet,duncan,puck,shakespeare characters,hard
+wilt,art,anon,thou,shakespearean words,very_hard
+nerve,gall,cheek,brass,shameless boldness,easy
+circle,horseshoe,triangle,pitchfork,shapes of capital greek letters,very_hard
+collective,mutual,joint,common,shared,easy
+tack,pin,brad,nail,sharp fasteners,hard
+spine,barb,needle,bristle,sharp protrusion,easy
+bite,spice,edge,punch,sharp quality,hard
+hairpin,dogleg,zag,switchback,sharp turns,medium
+resolution,detail,definition,clarity,"sharpness, as of an image",medium
+steer,direct,lead,guide,shepherd,medium
+stern,port,starboard,bow,ship directions,medium
+button,pocket,cuff,collar,shirt features,medium
+tee,crop,polo,tank,shirts,easy
+wave,value,jock,horror,shock ___,very_hard
+lace,heel,sole,tongue,shoe parts,easy
+sole,eyelet,lace,tongue,shoe parts,hard
+wedge,slide,clog,slide,shoes,hard
+pump,mule,mary jane,flat,shoes,hard
+jiff,flash,bit,sec,short period of time,easy
+print,find,copy,save,shortcut commands,hard
+strut,posture,peacock,grandstand,show off,easy
+redden,pant,cramp,sweat,show signs of physical exertion,hard
+usher,guide,lead,direct,show the way,easy
+er,scrubs,ratched,house,shows set in hospitals,hard
+education,occupation,spouse,born,sidebar info on a person’s wikipedia page,hard
+goose,hobbes,watson,robin,sidekicks,hard
+grate,gutter,manhole,curb,sidewalk sights,easy
+whistle,hail,wave,flag,"signal down, as a taxi",medium
+weight,gravity,import,substance,significance,medium
+major,serious,important,big,significant,easy
+mean,convey,express,spell,signify,easy
+hush,peace,still,calm,silence,easy
+would,calf,colonel,chalk,"silent ""l""",hard
+depot,poirot,apostle,mortgage,"silent ""t""",medium
+gnaw,gnat,gnome,gnocchi,silent “g”,hard
+doorknob,topknot,knife,unknown,silent “k”,hard
+salmon,colonel,walk,yolk,silent “l”,very_hard
+witch,castle,listen,hustle,silent “t”,very_hard
+wreath,sword,wrap,playwright,silent “w”,medium
+wrist,two,wrong,answer,silent “w”,very_hard
+yahoo,goof,goose,dodo,silly person,medium
+screen,fox,spoon,lining,silver ___,very_hard
+baggie,barge,pisa,comer,simpson family members with first letter changed,very_hard
+wonder,king,keys,legend,singer-songwriter pianists,very_hard
+gorilla,beetle,monkey,bird,single animal in a creatively spelled band name,very_hard
+lap,cycle,turn,revolution,single rotation,hard
+moose,buffalo,deer,fish,single/plural animals,hard
+friend,countryman,roman,ear,singular noun in a famous “julius caesar” line,hard
+pant,goggle,tong,boxer,singular of things seen in pairs,very_hard
+partridge,cleaver,tanner,bunker,sitcom families,very_hard
+blossom,community,coach,full house,sitcoms,very_hard
+placed,put,set,left,situated,hard
+tidy,healthy,handsome,respectable,"sizable, as an amount",hard
+thumb,leaf,flip,riffle,"skim through, as pages",hard
+combination,dry,oily,normal,skin types,hard
+subterfuge,chicanery,legerdemain,deceit,skulduggery,hard
+dive,scraper,rocket,lark,sky___,very_hard
+weed,grass,herb,mary jane,slang for cannabis,very_hard
+outfit,threads,getup,duds,slang for clothes,hard
+rocket fuel,java,brew,mud,slang for coffee,easy
+mud,brew,joe,java,slang for coffee,medium
+bud,chum,mate,pal,slang for friend,easy
+coconut,crown,skull,dome,slang for head,easy
+crown,noodle,dome,melon,slang for head,medium
+digs,crib,joint,pad,slang for home,hard
+paper,change,dough,green,slang for money,hard
+cheddar,stacks,paper,scratch,slang for money,hard
+kisser,trap,chops,yap,slang for mouth,medium
+glossy,zine,rag,mag,slang for printed matter,hard
+can,john,can,throne,slang for toilet,hard
+head,john,head,throne,slang for toilet,hard
+zip,jack,love,squat,slang for zero,hard
+nothing,jack,nada,squat,slang for zero,medium
+suit,copper,hack,shrink,slangy names for professions,hard
+point,tip,prong,tine,slender projections,easy
+jim,pickings,shady,fit,slim ___,very_hard
+earthworm,salamander,eel,slug,slimy animals,easy
+cherry,7,bar,bell,slot machine symbols,hard
+loris,snail,tortoise,sloth,slow animals,hard
+dab,dollop,drop,dash,small amount,medium
+bite,sample,taste,mouthful,small amount of food to try,easy
+scratch,mark,nick,chip,small imperfection,hard
+ding,dent,nick,scratch,small imperfection,medium
+blender,toaster,microwave,rice cooker,small kitchen appliances,easy
+doll,miniature,model,figure,small likeness,medium
+nook,recess,cranny,niche,small opening,medium
+pom-pom,pearl,mothball,pea,small spherical things,medium
+glen,dell,hollow,valley,small wooded area,hard
+fry,world,wonder,talk,small ___,very_hard
+rinky-dink,mickey mouse,two-bit,trivial,small-time,easy
+shred,trace,lick,ounce,smallest amount,medium
+clock,calendar,camera,calculator,smartphone features beginning with “c”,easy
+dash,pinch,touch,bit,smidgen,easy
+file,buff,grind,sand,smooth using friction,medium
+hoho,yodel,devil dog,ding dong,snack cakes,hard
+python,viper,mamba,boa,snakes,easy
+puma,nike,adidas,reebok,sneaker brands,easy
+vans,jordan,converse,puma,sneaker brands,hard
+impression,sense,hunch,feeling,sneaking suspicion,medium
+rostrum,beak,proboscis,muzzle,snouts,very_hard
+bash,blowout,party,shindig,social gathering,easy
+function,party,event,reception,social gathering,medium
+like,share,subscribe,follow,social media actions,easy
+in,tube,gram,book,social media app endings,very_hard
+sprite,squirt,mug,crush,soda brands,medium
+sundae,malt,float,shake,soda fountain orders,easy
+light,radiation,flare,corona,solar emanations,very_hard
+individual,party,person,character,somebody,hard
+party,individual,character,person,somebody,medium
+breeze,picnic,snap,cinch,something easy to do,medium
+pin,code,key,password,something entered for access,hard
+gem,beauty,marvel,peach,something exemplary,hard
+benefit,fruit,reward,return,something gained from hard work,easy
+drag,yawn,snooze,bore,something tiresome,easy
+track,cut,single,number,song,hard
+satisfaction,i ran,montero,istanbul,song titles with parentheses,very_hard
+edelweiss,cabaret,mamma mia,memory,songs from musicals,hard
+alejandro,lola,stan,michelle,songs that are names,very_hard
+carmela,meadow,tony,junior,sopranos,easy
+hex,charm,magic,spell,sorcerer’s output,easy
+raw,sensitive,tender,delicate,sore to the touch,easy
+home,brain,heart,courage,sought after in “the wizard of oz”,hard
+snarl,bark,howl,bay,sound like a dog,easy
+wave,asleep,barrier,bite,sound ___,very_hard
+chime,tock,cuckoo,tick,sounds a cuckoo clock makes,hard
+har-har,hoot,yuk,whoop,sounds of laughter,hard
+peal,rumble,roll,clap,sounds of thunder,medium
+tap,well,spring,rain,sources of drinking water,easy
+sunshine,citrus,leafy greens,supplements,sources of vitamins,easy
+bar,cadet,heater,station,space ___,very_hard
+railroad,chance,avenue,utility,spaces on a monopoly board,medium
+sus,me,yo,ella,spanish pronouns/possessives,hard
+como,rojo,soy,poco,spanish words,very_hard
+ella,loco,mayo,gusto,spanish words,very_hard
+diamond,gold,glitter,sequin,sparkling things,easy
+spare,light,thin,short,sparse/lacking,easy
+limited,collectible,exclusive,rare,special edition adjectives,medium
+dry,neat,virgin,straight,specifications for a bartender,hard
+measure,count,weight,volume,specs on consumer packaging,hard
+bump,chess,dial,demon,speed ___,very_hard
+beginner,genius,amazing,solid,spelling bee ranks,hard
+mazing,goo,genus,slid,spelling bee ranks minus a letter,very_hard
+sleep,stay,crash,bunk,spend the night (at),medium
+haunt,visit,frequent,patronize,spend time at,hard
+bubble,tapioca,pearl,boba,spheres in milk tea,medium
+jawbreaker,meatball,orange,mozzarella,spherical foods,medium
+marble,globe,bubble,pearl,spherical things,very_hard
+scary,ginger,baby,posh,spice girls,very_hard
+anise,mace,clove,pepper,spices,easy
+dill,nutmeg,nutmeg,sage,spices,easy
+coriander,clove,cardamom,cumin,spices beginning with “c”,easy
+hedgehog,cactus,mace,pineapple,spiky things,medium
+snail,galaxy,sunflower,cyclone,spirals in nature,hard
+cannonball,jackknife,backflip,bellyflop,splashy ways to enter a pool,easy
+capital,brilliant,grand,fine,splendid,hard
+speech,language,tongue,dialect,spoken communication,easy
+talk,address,lecture,speech,spoken presentation,easy
+fencing,sumo,squash,cricket,sports,easy
+polo,golf,judo,polo,sports,easy
+cricket,golf,squash,polo,sports,medium
+viper,mustang,diablo,spider,sports cars,hard
+spread,favorite,parlay,under,sports gambling terms,hard
+coach,gm,scout,player,sports professionals,medium
+court,dome,rink,bowl,sports venues,medium
+arena,diamond,field,field,sports venues,medium
+sheet,formula,cell,sort,spreadsheet terms,hard
+onion,fling,chicken,equinox,spring ___,very_hard
+scatter,dust,shower,pepper,sprinkle,easy
+plant,asset,agent,mole,spy,hard
+fritter,fiddle,throw,trifle,"squander, with “away”",very_hard
+one,dance,root,meal,square ___,very_hard
+dead,smack,right,exactly,squarely,medium
+coliseum,bowl,dome,arena,stadiums,easy
+meet,brave,face,confront,"stand up to, as a challenge",medium
+spark,catalyst,springboard,launchpad,starting point,medium
+octopussy,beetlejuice,foxy brown,dogma,starting with animals,very_hard
+lunar,pufnstuf,cranium,cronut,starting with bird homophones,very_hard
+draconian,library,leonardo,hydrant,starting with constellations,very_hard
+bernie,rigatoni,romeo,parish,starting with european capitals,very_hard
+triangle,tetracycline,monorail,dioxide,starting with greek numerical prefixes,hard
+newton,adderall,monitorship,toady,starting with herpetofauna,very_hard
+juniper,freshwater,sophocles,seneca,starting with high school/college abbreviations,very_hard
+helonium,haiku,yeoman,haystack,starting with homophones of greetings,very_hard
+eye contact,pea soup,tea leaves,sea change,starting with letter homophones,very_hard
+calcium,triglyceride,biopic,chemise,"starting with math and science classes, for short",very_hard
+leadership,tinder,ironic,goldilocks,starting with metals,very_hard
+carbon,shipshape,busboy,trainee,starting with methods of transportation,very_hard
+glad-hand,happy meal,sunny-side up,merry-go-round,starting with optimistic words,very_hard
+wallet,soulmate,coconut,updo,starting with pixar movies,very_hard
+histamine,mystery,ouroboros,herring,starting with possessive determiners,very_hard
+hershey,minefield,histamine,itsy,starting with possessive pronouns,very_hard
+kisscam,creamsicle,journeyman,rushmore,starting with rock bands,very_hard
+mnemonic,knee,gnome,psyche,starting with silent letters,very_hard
+wolf eel,scarf ring,bolt cutter,chow mein,"starting with synonyms for ""eat""",very_hard
+shoo-in,scattergories,go-getter,leavening,"starting with synonyms for ""scram!""",very_hard
+loofah,johnson,candle,toiletries,starting with synonyms for lavatory,very_hard
+mockingbird,kidney,ribbon,razzmatazz,starting with synonyms for “tease”,very_hard
+scimitar,simmer,cymbal,symphony,starting with the same sound,hard
+doctoring,missing,lording,siring,starting with titles,very_hard
+kaleidoscope,peacock,beethoven,cornucopia,starting with vegetables,very_hard
+flywheel,rushmore,dashboard,dartmouth,starting with ways to move quickly,very_hard
+rollerblade,android,rattlesnake,shakespeare,"starting with “shake, rattle and roll”",very_hard
+ken,bots,came,tan,starts of african countries,very_hard
+fiddler,merrily,jersey,kinky,starts of broadway musicals,hard
+motor,app,sam,goo,starts of cell phone makers,very_hard
+haze,pec,mac,cash,starts of culinary nuts,very_hard
+sara,luxe,wars,cope,starts of european capitals,very_hard
+germ,luxe,malt,port,starts of european countries,very_hard
+bet,the,lamb,delt,starts of greek letters,very_hard
+were,vamp,mum,frank,starts of monsters,very_hard
+zit,penn,fett,torte,starts of pasta names,very_hard
+ear,mar,sat,mer,starts of planet names,very_hard
+butter,free,breast,back,starts of swimming strokes,very_hard
+rap,don,leo,mic,starts of teenage mutant ninja turtles,very_hard
+nick,quart,pen,dim,starts of u.s. coins,very_hard
+cart,washing,bide,nix,starts of u.s. presidents,very_hard
+wash,kent,mass,mary,starts of u.s. states,very_hard
+aqua,capri,gem,sag,starts of zodiac signs,very_hard
+board,struck,gate,fish,star___,very_hard
+ma,me,ok,la,state abbreviations,easy
+ma,hi,co,pa,state abbreviations,easy
+in,ma,ok,oh,state abbreviations,medium
+status,deal,situation,story,state of affairs,medium
+spoke,voiced,said,told,stated,easy
+bliss,cloud nine,paradise,heaven,states of elation,easy
+solid,plasma,liquid,plasma,states of matter,easy
+solid,liquid,solid,gas,states of matter,easy
+plasma,liquid,gas,gas,states of matter,easy
+tablet,crown,torch,robe,statue of liberty features,hard
+ranking,standing,position,station,status,medium
+skirt,t-bone,hanger,filet,steak cuts,easy
+pocket,swipe,nick,nick,steal,easy
+pinch,pocket,pinch,palm,steal,easy
+swipe,palm,pocket,lift,steal,medium
+guide,guide,direct,shepherd,steer,easy
+direct,lead,drive,pilot,steer,easy
+lead,guide,shepherd,direct,steer,medium
+bind,spot,pickle,scrape,sticky situation,very_hard
+note,rice,fingers,wicket,sticky ___,very_hard
+cream,whip,whisk,beat,stir vigorously,easy
+solid,solid,squat,stout,stocky,easy
+thick,husky,squat,thick,stocky,easy
+high,lit,blazed,baked,stoned,medium
+rat,fink,canary,snitch,stool pigeon,easy
+plateau,settle,level,flatten,stop changing,hard
+drop,shake,break,kick,"stop, as a habit",medium
+trunk,case,crate,chest,storage containers,easy
+cyclone,squall,tornado,blizzard,storms,hard
+peacock,prime,netflix,hulu,streaming services,easy
+court,way,alley,lane,street suffixes,hard
+lane,alley,court,drive,street suffixes,medium
+elm,sesame,fear,jump,streets on screen,very_hard
+downing,main,wall,fleet,streets with symbolic importance,very_hard
+test,tax,try,strain,"stretch, as one’s patience",easy
+pepper,sprinkle,scatter,litter,strew,medium
+tough,stern,rigid,firm,strict,easy
+hit,knock,bop,tap,strike,medium
+pose,chord,deal,match,strike a ___,very_hard
+cheese,theory,bikini,bean,string ___,very_hard
+clownfish,tiger,zebra,honeybee,striped animals,medium
+rugby shirt,ibm logo,barcode,zebra,stripy things,hard
+funk,musk,tang,odor,strong smell,easy
+wharf,dock,lighthouse,boardwalk,structures by the shore,easy
+scruff,whiskers,shadow,fuzz,stubble,hard
+firm,sound,solid,stable,sturdy,medium
+sour,bitter,bock,stout,styles of beer,medium
+cash,brown,mercury,dylan,subjects of acclaimed musical biopics,medium
+solid,filling,square,hearty,"substantial, as a meal",hard
+tube,underground,subway,metro,subterranean transit,easy
+fit,apt,proper,right,suitable,medium
+digest,digest,outline,brief,summary,hard
+brief,abstract,rundown,abstract,summary,hard
+review,outline,brief,digest,summary,medium
+tee,shorts,sunglasses,hat,summer gear,medium
+cherry,sprinkles,fudge,nuts,sundae toppings,easy
+wayfarer,aviator,wraparound,cat eye,sunglasses,hard
+princess,mushroom,dinosaur,plumber,super mario-related,hard
+pac,glue,mario world,power,super ___,hard
+glue,tuesday,8,bowl,super ___,very_hard
+shallow,external,surface,cosmetic,superficial,hard
+banner,stark,prince,wayne,superhero last names,very_hard
+storm,black widow,flash,blade,superheroes,hard
+macaroni,glitter,glue,paper,supplies for macaroni art,hard
+well,store,reserve,mine,supply,medium
+root,clap,cheer,whistle,support audibly,medium
+exponent,cheerleader,advocate,champion,supporter,medium
+best,top,beat,better,surpass,hard
+manage,get by,hack it,make do,survive,easy
+fish,massage,chef,meatball,swedish ___,very_hard
+sixteen,tooth,talk,potato,sweet ___,very_hard
+gulp,belt,shot,slug,swig,hard
+shaft,hustle,hose,fleece,swindle,easy
+crook,quack,cheat,shark,swindler,very_hard
+baton,wand,staff,scepter,symbolic rods,easy
+percent,at,pound,dollar,symbols above numbers on a keyboard,hard
+caret,star,brace,hash,symbols on a keyboard,very_hard
+bullet,checkbox,hyphen,arrow,symbols used in making lists,hard
+incensed,livid,irate,furious,synonyms for angry,easy
+spat,row,tiff,quarrel,synonyms for argument,very_hard
+rib,needle,tease,poke,synonyms for bother,hard
+moan,grouse,carp,gripe,synonyms for complain,very_hard
+chow,scarf,wolf,gobble,synonyms for eat,medium
+fiction,tale,fib,lie,synonyms for falsehood,hard
+parrot,echo,mimic,copy,synonyms for imitate,medium
+kooky,daffy,quirky,wacky,synonyms for offbeat,medium
+but,rum,ars,boot,synonyms for rear end minus last letter,very_hard
+low,blue,glum,down,synonyms for sad,hard
+peddle,move,hawk,vend,synonyms for sell,hard
+storm,bone,rex,shirt,t-___,very_hard
+table,ball,net,paddle,table tennis needs,hard
+bowl,dish,saucer,plate,tableware,easy
+cilantro,salsa,lime,onion,taco toppings,easy
+trip,slip,spill,fall,take a tumble,easy
+exploit,leverage,milk,use,take advantage of,easy
+net,make,earn,clear,"take home, as income",easy
+object,mind,protest,disapprove,take issue,hard
+question,dispute,challenge,contest,take issue with,hard
+bear,assume,handle,shoulder,"take on, as a responsibility",easy
+indict,charge,sue,file,take to court,easy
+handles,tackles,does,addresses,takes on,medium
+flair,faculty,gift,genius,talent,medium
+solid,real,concrete,material,tangible,medium
+mark,chump,sucker,fool,target of a scheme,hard
+devil,magician,star,lovers,"tarot cards, with ""the""",hard
+lovers,tower,fool,magician,"tarot cards, with “the”",very_hard
+cups,pentacles,wands,swords,tarot minor arcana suits,hard
+lesson,exercise,assignment,drill,tasks for a student,easy
+sing,squeal,snitch,rat,tattle,medium
+raspberry,jeer,hiss,boo,taunts,easy
+family,order,domain,class,taxonomy ranks,very_hard
+coach,school,guide,train,teach,easy
+bunch,crew,pack,group,team,hard
+rag,rib,needle,bait,tease,medium
+meta,alphabet,apple,amazon,tech companies,easy
+intuit,amazon,apple,oracle,tech companies,hard
+method,approach,school,philosophy,technique,easy
+medicine,commute,vision,prompter,tele___,very_hard
+account,story,description,chronicle,telling of events,easy
+guide,model,blueprint,mold,template,easy
+match,game,tournament,set,tennis competition units,medium
+all,love,deuce,ad,tennis scoring terms,hard
+sitting,session,meeting,period,term,medium
+vinyl,lp,wax,platter,terms for records,medium
+love,pumpkin,sugar,angel,terms of endearment,easy
+treasure,darling,pumpkin,love,terms of endearment,easy
+boo,sugar,honey,sweetie,terms of endearment,medium
+soil,land,ground,earth,terra firma,medium
+animal print,houndstooth,polka dot,herringbone,textile patterns,easy
+gravy,stuffing,turkey,pie,thanksgiving food,hard
+tramp,prince,rascals,mermaid,the little ___,very_hard
+balcony,stage,box,orchestra,theater sections,very_hard
+feynman,einstein,hawking,oppenheimer,theoretical physicists,easy
+car,bugler,africa,unicorn,they have a horn,hard
+tests,super,computer,piano,they have keys,hard
+walls,musicians,pitchers,cornfield,they have literal/idiomatic ears,very_hard
+aquarium,geometry,tampa bay,sun,they have rays,very_hard
+football,eddy,tornado,tasmanian devil,they move in a spiral,medium
+lion,crowd,katy perry,engine,they roar,hard
+pinwheel,flag,wind chime,vane,they're blowin' in the wind,easy
+tape,toilet paper,ribbon,foil,they're on a roll!,medium
+rob,pinch,swipe,steal,thieve,medium
+skin,coat,layer,film,thin covering,medium
+film,sheet,coat,leaf,thin layer,medium
+mix,sample,spin,scratch,things a dj does,medium
+frisbee,bone,ball,bone,things a dog can fetch,easy
+ball,frisbee,stick,stick,things a dog can fetch,easy
+ring,torch,beanbag,club,things a juggler juggles,hard
+rattle,shed,slither,hiss,things a rattlesnake does,medium
+crawl,coo,babble,nurse,things babies do,medium
+pollinate,buzz,dance,sting,things bees do,hard
+grouch,o,statuette,baloney,things called “oscar”,very_hard
+shed,knead,purr,scratch,things cats do,medium
+abecedarium,computer keyboard,scrabble,ouija board,things featuring letters a through z,very_hard
+comets,dress coat,coin toss,sonic the hedgehog,things featuring tails,very_hard
+balloon animal,water wings,bouncy castle,whoopee cushion,things filled with air,medium
+strap,lens,body,flash,things in a camera kit,hard
+robe,washcloth,slippers,towel,things in a spa locker room,hard
+coat rack,console,runner,bench,things in an entryway,hard
+genie,message,ship,lightning,things in bottles,very_hard
+mittens,kettles,raindrops,whiskers,things in “my favorite things”,very_hard
+xylophone,whac-a-mole,croquet,carpentry,things involving mallets,medium
+sunset,kaleidoscope,peacock,rainbow,things known for being colorful things,hard
+fortune teller,fan,airplane,crane,things made by folding paper,hard
+organism,honeycomb,solar panel,spreadsheet,things made of cells,hard
+tire,eraser,galosh,balloon,things made of rubber,medium
+crayon,candle,honeycomb,seal,things made of wax,medium
+pillow,boa,headdress,shuttlecock,things made with feathers,medium
+corn dog,lollipop,ball-in-cup,cotton swab,things on sticks,hard
+clip,file,bite,paint,things people do to fingernails,medium
+maraca,hands,snowglobe,polaroid,things people shake,very_hard
+tea,aura,palm,tarot,things read in divination,very_hard
+bill,letter,catalog,card,things received in the mail,hard
+slots,chips,dice,cards,things seen at a casino,hard
+gnome,shed,sprinkler,grill,things seen in a yard,easy
+cookies,cache,history,data,things stored by a web browser,medium
+bottle,graduate,mushroom,salary,things that are capped,very_hard
+shadow,doubt,movie,vote,things that are cast,very_hard
+corset,hourglass,diabolo,wasp,things that are cinched in the middle,hard
+baby,blow,package,speech,things that are delivered,very_hard
+zodiac,clock,year,foot,things that are divided into twelve segments,very_hard
+caterpillar,peach,fleece,pipe cleaner,things that are fuzzy,easy
+basketball,floatie,balloon,tire,things that are inflated,medium
+hoagie,baton,torpedo,cigar,things that are long and cylindrical,very_hard
+lotion,incense,soap,candle,things that are often scented,medium
+goldfish,basketball,carrot,pumpkin,things that are orange,easy
+flamingo,calamine lotion,bubble gum,carnation,things that are pink,medium
+barbie dreamhouse,flamingo,eraser,cherry blossom,things that are pink,medium
+eggplant,eggplant,lavender,grimace,things that are purple,very_hard
+barney the dinosaur,people eater,amethyst,swing state,things that are purple,very_hard
+devil,stop sign,rose,strawberry,things that are red,easy
+maraschino cherry,fire engine,mars,clown nose,things that are red,easy
+ruby,poppy,brick,fire truck,things that are red,hard
+cardinal,beet,cherry,stop sign,things that are red,hard
+elmo,rose,ketchup,cardinal,things that are red,medium
+eel,banana peel,grease,ice,things that are slippery,hard
+snow,polar bear,baby powder,milk,things that are white,easy
+mustard,lemon,minion,canary,things that are yellow,easy
+school bus,banana,sunflower,canary,things that are yellow,medium
+gum,glue,tape,stick,things that are “sticky”,very_hard
+table,book,tree,salad,things that can have leaves,very_hard
+faucet,nose,candidate,mascara,things that can run,very_hard
+nose,mascara,stockings,dye,"things that can run, annoyingly",hard
+union,inspiration,cobra,lightning,things that can strike,very_hard
+film,thread,wire,tape,things that come on spools,hard
+tide,sun,elevator,yo-yo,things that go up and down,very_hard
+aurora,radium,glowstick,firefly,things that luminesce,medium
+pepper,smoke,pollen,dust,things that make you sneeze,hard
+wasp,insult,nettle,jellyfish,things that might sting,hard
+skunk,cheese,garbage,feet,things that might stink,hard
+waffle iron,clam,laptop,compact,things that open like a clam,very_hard
+cap,seal,plug,cover,things that prevent leaks,easy
+bell,alarm,intercom,phone,things that ring,medium
+carousel,barber pole,ceiling fan,lazy susan,things that rotate about a vertical axis,hard
+top,globe,carousel,record,things that spin,hard
+vacuum,vampire,straw,leech,things that suck,very_hard
+pendulum,saloon doors,golfer,swing,things that swing,very_hard
+instagram,coffee maker,cigarette,air purifier,things that use filters,hard
+bird,kettle,train,referee,things that whistle,very_hard
+dandelion,eyelash,candle,dice,things to blow on for wishes/luck,very_hard
+hotel,flight,car,tour,things to book for a vacation,easy
+remote,tongue,heels,mouse,things to click,very_hard
+tree,mountain,ladder,rope,things to climb,hard
+smile,window,egg,knuckles,things to crack,hard
+circulate,mingle,network,converse,things to do at a work event,medium
+cut,shuffle,fan,deal,things to do with a deck of cards,hard
+bill,check,tab,invoice,things to pay,easy
+fight,bone,afro,lock,things to pick,hard
+hem,pleat,seam,dart,things to sew,easy
+page view,hit,visit,click,things tracked by web analytics,hard
+saddle,wallet,moccasins,football,things traditionally made of leather,hard
+glove,tee,ball,driver,things used in golf,medium
+lego set,pick-up sticks,jigsaw puzzle,lite-brite,things with a lot of pieces,hard
+insect,satellite dish,radio tower,teletubby,things with antenna/e,hard
+drill,comedian,bridle,byte,things with bits,very_hard
+solar panel,spreadsheet,organism,honeycomb,things with cells,very_hard
+reactor,apple,planet,computer,things with cores,very_hard
+potato,hurricane,face,needle,things with eye(s),very_hard
+biped,furniture,poem,yardstick,things with feet,very_hard
+sponge,bowling ball,golf course,colander,things with holes,very_hard
+inner tube,bagel,hula hoop,washer,things with holes in the middle,hard
+squid,tattoo machine,printer,pen,things with ink,hard
+florida,locksmith,cryptography,piano,things with keys,very_hard
+checkers,nhl,deck of cards,monarchy,things with kings,very_hard
+plywood,cake,earth,onion,things with layers,hard
+henhouse,earth,photoshop,onion,things with layers,very_hard
+tree,book,table,tea,things with leaves,very_hard
+chain,golf course,sausage,website,things with links,very_hard
+guitar,giraffe,lamp,bottle,things with necks,hard
+turntable,sewing kit,compass,pine tree,things with needle/s,medium
+tree,wedding,saturn,circus,things with rings,very_hard
+turtle,hard taco,snail,clam,things with shells,medium
+egg,egg,nut,m&m,things with shells,medium
+schedule,atm,spatula,casino,things with slots,very_hard
+book,skeleton,cactus,hedgehog,things with spines,very_hard
+ladybug,dalmatian,die,domino,things with spots,hard
+fountain,whale,teapot,gutter,things with spouts,very_hard
+mattress,mousetrap,trampoline,clock,things with spring/s,very_hard
+candy cane,referee,tiger,crosswalk,things with stripes,very_hard
+keyboard,browser,soda can,folder,things with tabs,hard
+comb,zipper,saw,gear,things with teeth,hard
+trees,swimmers,elephants,cars,things with trunks,very_hard
+wagon,rollerblade,skateboard,dolly,things with wheels,medium
+bird,angel,pegasus,airplane,things with wings,hard
+hospital,fly,airplane,fairy,things with wings,medium
+lavalier,boutonnière,lapel pin,awareness ribbon,things worn on lapels,easy
+ikea furniture,lego set,puzzle,model,things you assemble,hard
+bubble,raspberry,fuse,kiss,things you can blow,very_hard
+wiis,televisions,drones,garage doors,things you can control with remotes,very_hard
+egg,code,whip,joke,things you can crack,hard
+bold,underline,highlight,strikethrough,things you can do to text,medium
+pick,thumb,hold,blow,things you can do to your nose,very_hard
+spike,punt,snap,pass,things you can do with a football,medium
+flutter,wink,bat,blink,things you can do with your eyelids,medium
+smack,curl,pucker,purse,things you can do with your lips,very_hard
+picture,card,bath,curtain,things you can draw,hard
+table,image,text box,chart,things you can insert in a document,medium
+column,cell,sheet,row,things you can insert into a spreadsheet,hard
+nose,apple,card,banjo,things you can pick,hard
+medicine,law,self-care,witchcraft,things you can practice,very_hard
+iron,fist,brakes,gas,things you can pump,very_hard
+bug bite,vinyl record,lottery ticket,your head,things you can scratch,hard
+record,mood,volleyball,table,things you can set,very_hard
+party,tantrum,curveball,wrench,"things you can throw, in metaphors",very_hard
+ring,knock,buzz,shout,things you do at someone's front door,hard
+doze,doodle,space,pass notes,things you might do during a boring class/meeting,hard
+snore,dream,drool,talk,things you might do in your sleep,medium
+hairspray,magic 8 ball,snowglobe,salad dressing,things you shake,medium
+affiliate,relate,associate,equate,think of together,easy
+party,rail,rock,eye,third ___,hard
+beat,pulse,pound,thump,throb,easy
+hurl,fling,chuck,cast,throw,medium
+pepper,scatter,strew,sprinkle,throw here and there,medium
+eject,toss,boot,bounce,throw out,easy
+dart,horseshoe,ring,axe,thrown in target games,hard
+stick,poke,prod,jab,thrust,easy
+concert,movie,play,game,ticketed events,medium
+floor,level,deck,story,tier,medium
+slope,cant,list,lean,tilt to one side,hard
+soon,then,later,now,time adverbs,hard
+leave,vacation,holiday,rest,time off,easy
+break,recess,leave,break,time off,easy
+decade,millennium,year,century,time periods,easy
+clock,sundial,watch,hourglass,timekeeping devices,easy
+tone,shade,color,hue,tint,easy
+tone,hue,shade,tinge,tint,easy
+small,minute,slight,wee,tiny,hard
+mite,tad,little,bit,"tiny amount, with “a”",medium
+hydrate,breathe,stretch,rest,tips for working out safely,easy
+pee-wee,indiana,ferris,heather,title characters in '80s movies,very_hard
+hedgehog,plumber,princess,gorilla,title figures in classic video games,very_hard
+willy,babe,beethoven,charlotte,title movie animals,very_hard
+quinn,house,howser,grey,title tv doctors,hard
+babe,bolt,dumbo,ted,titular animals of film,hard
+monk,tracy,magnum,shaft,titular fictional detectives,very_hard
+tollbooth,towboat,tomboy,toolbox,to-bo- compound words,medium
+stomach,swallow,stand,bear,tolerate,easy
+bear,stomach,swallow,bear,tolerate,medium
+stand,take,take,stand,tolerate,medium
+sully,big,splash,philadelphia,tom hanks movies,very_hard
+waits,petty,cruise,holland,toms,hard
+annie,company,cats,cabaret,tony winners for best musical,medium
+hawk,stark,montana,soprano,tony ___,very_hard
+file,saw,level,hammer,tools,easy
+banana,dog,hat,secret,top ___,very_hard
+issue,subject,matter,point,topic of discussion,easy
+fall,tumble,spill,wipeout,topple,easy
+cami,tank,tee,halter,tops,medium
+bagel,lifesaver,donut,cheerio,torus-shaped food,hard
+tire,wreath,lifesaver,bagel,torus-shaped things,medium
+graze,brush,skim,kiss,touch lightly,easy
+swipe,tap,scroll,pinch,touchscreen gestures,easy
+tap,pinch,swipe,spread,touchscreen gestures,hard
+semi,quarter,qualifier,final,tournament rounds,easy
+hammer,hurdle,pole,pole,track and field equipment,medium
+javelin,hurdle,hammer,baton,track and field equipment,medium
+trait,hallmark,stamp,feature,trademark,medium
+egg,bill,venom,fur,trademarks of a platypus,very_hard
+zoom,photoshop,google,uber,trademarks that have become verbs,easy
+yield,detour,slow,stop,traffic signs,hard
+receipt,statement,bill,invoice,transaction record,hard
+hand,send,pass,give,transfer,hard
+pass,give,deliver,hand,transfer,medium
+march,tramp,trek,hike,travel on foot,hard
+pamper,baby,spoil,mother,treat with excessive care,easy
+bark,root,branch,trunk,tree features,hard
+rings,bark,crown,roots,tree features,medium
+you,beach,pair,fur,tree homophones,very_hard
+walnut,almond,cashew,pecan,tree nuts,medium
+cedar,ash,poplar,oak,trees,easy
+ebony,ash,gum,cherry,trees,hard
+beech,pine,palm,elder,trees,medium
+pine,spruce,cedar,yew,trees,medium
+tough,complex,delicate,sticky,tricky,easy
+tan,cot,sin,sec,trig functions,very_hard
+hat trick,threepeat,trifecta,triple crown,trio of sports achievements,easy
+coconut,mango,pineapple,banana,tropical fruits,very_hard
+chayote,durian,bitter melon,soursop,tropical fruits/vegetables,hard
+shellac,rout,crush,cream,trounce,hard
+accept,believe,swallow,buy,trust as real,easy
+withdraw,retreat,leave,flee,turn tail,easy
+tables,corner,page,tide,turn the ___,very_hard
+munster,pickles,griffin,partridge,tv comedy families,hard
+color,brightness,contrast,tint,tv display settings,easy
+lasso,smart,rogers,mars,tv show title surnames,very_hard
+flipper,firefly,fleabag,fargo,tv shows,hard
+24,firefly,bones,weeds,tv shows,medium
+cheer,scrub,weed,friend,tv shows minus “s”,hard
+euphoria,cheers,glee,felicity,tv shows with happy-sounding names,hard
+nes,vhs,mtv,alf,tv-related abbreviations in the '80s,hard
+wind,spool,wrap,coil,twist around,medium
+stone,often,freight,canine,two letters + number,very_hard
+lecture,seminar,discussion,lab,types of academic courses,easy
+tote,messenger,clutch,satchel,types of bags,easy
+cinderella,david-and-goliath,rags-to-riches,underdog,types of come-from-behind stories,hard
+curly,waffle,shoestring,wedge,types of french fries,medium
+sheepshank,bowline,bend,hitch,types of knots,very_hard
+tempera,watercolor,oil,acrylic,types of paint,medium
+kidney,infinity,kiddie,olympic,types of pools,easy
+am,satellite,walkie-talkie,ham,types of radio,easy
+statement,command,question,exclamation,types of sentences,medium
+ice,slush,crust,powder,types of snow,medium
+tusk,fang,molar,canine,types of teeth,easy
+helena,irving,billings,buffalo,u.s. cities,hard
+mobile,buffalo,phoenix,phoenix,u.s. cities,hard
+quarter,penny,nickel,dime,u.s. coins,easy
+brown,smith,howard,duke,u.s. colleges/universities,hard
+colorado,arizona,utah,nevada,u.s. mountain states,easy
+dick,teddy,cal,abe,u.s. presidential nicknames,hard
+grant,adams,washington,ford,u.s. presidents,easy
+pa,or,hi,ma,u.s. state abbreviations,medium
+ark,ala,miss,ore,"u.s. state abbreviations, per ap style guide",very_hard
+frontier,american,spirit,united,u.s.-based airlines,hard
+stable,steady,even,level,unchanging,easy
+project,enterprise,endeavor,venture,undertaking,easy
+boxer,drawer,short,brief,underwear in the singular,very_hard
+dull,vanilla,boring,mundane,unexciting,medium
+constant,level,uniform,stable,unfluctuating,medium
+abandon,unrestraint,freedom,spontaneity,uninhibitedness,medium
+cal,in,gal,oz,unit abbreviations,hard
+roll,loaf,bun,baguette,unit of bread,easy
+letter,paragraph,sentence,word,unit of language,easy
+mole,lux,bar,bel,units,hard
+volt,hertz,mole,second,units,medium
+foot,verse,meter,line,units in poetry,medium
+six-pack,case,forty,growler,units of beer,hard
+foot,mile,yard,inch,units of length,easy
+fathom,foot,yard,league,units of length,hard
+mile,foot,league,yard,units of length,medium
+hertz,second,mole,newton,units of measure,hard
+ear,head,bulb,stalk,units of vegetables,very_hard
+pint,cup,gallon,quart,units of volume,easy
+quartz,bounce,galleon,pinot,units of volume plus letter,very_hard
+blanket,general,sweeping,broad,universal,hard
+brown,howard,rice,duke,universities,hard
+remote,slim,small,outside,"unlikely, as chances",hard
+awkward,stilted,wooden,stiff,"unnatural, as mannerisms",easy
+draw,wild,reverse,skip,uno cards,medium
+several,na,few,handful,unspecified quantities,easy
+easy,open,game,flexible,up for anything,hard
+willing,amenable,game,down,up for it,medium
+revise,amend,correct,fix,update for accuracy,easy
+pillar,post,pole,column,upright support,easy
+surge,spike,rise,boom,upswing,easy
+milk,comp,orgo,neti,url endings plus a letter,very_hard
+cube,dice,slice,julienne,use a kitchen knife,medium
+sew,darn,hem,seam,use a needle and thread,medium
+laser pointer,projector,clicker,slides,used during a presentation,easy
+water,cup,teabag,kettle,used for tea,medium
+log,tinder,match,kindling,used in building a fire,easy
+rollers,comb,dryer,hairspray,used in hair care,easy
+magnifying glass,flint,matches,lighter,used in starting a fire,medium
+exhaust,hose,pipe,duct,used in ventilation,hard
+sticks,snow,carrot,coal,used to build a snowman,hard
+sand,plow,salt,shovel,used to clear snow,hard
+carrot,scarf,coal,pipe,used to decorate a snowman,hard
+chock,tire,wrench,jack,used to fix a flat,medium
+water,pot,seed,soil,used to grow a houseplant,easy
+racket,mallet,bat,stick,used to hit a ball in sports,medium
+filter,water,grinder,beans,used to make coffee,medium
+cone,barrier,flare,flag,used to redirect traffic,hard
+stain,microscope,slide,specimen,used to view a biological sample,hard
+ladle,pot,spoon,bowl,used when serving soup,medium
+electric,gas,water,telephone,utilities,easy
+trash,cable,water,gas,utilities,medium
+seventh heaven,shangri-la,xanadu,paradise,utopia,easy
+peep,sound,word,noise,utterance,medium
+dell,dale,hollow,glen,valley,medium
+lost boys,twilight,blade,near dark,vampire movies,hard
+silver,garlic,cross,sun,vampire vulnerabilities,medium
+departure,break,change,alternative,variation from the norm,easy
+types,stripes,kinds,sorts,varieties,easy
+sort,style,type,kind,variety,medium
+charred,beat,pee,leak,vegetable homophones,very_hard
+spear,bulb,head,ear,vegetable units,hard
+spear,floret,stalk,clove,vegetable units,medium
+beet,onion,corn,carrot,vegetables,hard
+pepper,tomato,eggplant,cucumber,vegetables that are also fruits,easy
+hive,eek,ale,quash,vegetables with first letter removed,very_hard
+booth,stall,table,stand,vendor’s spot at a market,easy
+grand,august,regal,noble,venerable,medium
+could,might,can,may,verbs expressing possibility,easy
+code,hack,program,develop,verbs for a software engineer,very_hard
+powder,glaze,sprinkle,frost,verbs for finishing donuts,hard
+frost,beat,bake,preheat,verbs in a cake recipe,easy
+proof,rise,ferment,rest,verbs in breadmaking,hard
+fish,bird,mammal,reptile,vertebrates,medium
+key,vital,central,critical,very important,easy
+shred,hint,trace,touch,very small amount,easy
+crash,sonic,mario,link,video game characters,very_hard
+dreamcast,genesis,switch,wii,video game consoles,medium
+halo,metroid,madden,civilization,video game franchises,very_hard
+pep,beans,energy,zip,vigor,hard
+web,net,metaverse,cloud,virtual spaces,medium
+monitor,terminal,display,screen,visual interface,easy
+life,juice,energy,zip,vitality,easy
+doo-wop,a cappella,madrigal,barbershop,vocal music,easy
+craft,line,work,trade,vocation,hard
+bump,set,serve,spike,volleyball moves,medium
+way,whoa,wee,why,w + vowel sound,very_hard
+storm,liberty,sparks,sun,w.n.b.a. teams,hard
+wings,liberty,mercury,sky,w.n.b.a. teams,hard
+risk,gamble,stake,bet,wager,medium
+stride,tread,step,march,walk,hard
+lumber,plod,trudge,stomp,walk heavily,easy
+clock,belt,deck,slug,wallop,hard
+dwindle,peter,fade,taper,wane,easy
+delicate,bulky,spin,cotton,washing machine cycles/settings,medium
+line,pipe,channel,main,water and gas conduits,hard
+fountain,tap,spring,well,water sources,hard
+tug,barge,junk,sub,watercraft,hard
+paper,museum,seal,poetic,wax ___,very_hard
+fix,answer,solution,remedy,way of solving a problem,easy
+fly,bait,chum,lure,ways to attract fish,medium
+parens,asterisk,number,dagger,ways to denote a citation,very_hard
+thou,grand,m,k,"ways to express 1,000",hard
+trap,fish,forage,hunt,ways to gather food,medium
+shout,whistle,wave,snap,ways to get attention,hard
+hunt,fish,gather,farm,ways to get food,easy
+grille,bumper,spoiler,rim,ways to modify a car's exterior,hard
+bottle,can,draft,tap,ways to order a beer,medium
+train,study,practice,drill,ways to prepare,easy
+slice,shred,melt,crumble,ways to prepare cheese,very_hard
+poach,scramble,fry,boil,ways to prepare eggs,easy
+dry,ferment,can,freeze,ways to preserve food,medium
+can,pickle,cure,freeze,ways to preserve food,medium
+plaque,medal,certificate,trophy,ways to recognize achievement,medium
+tweeze,wax,thread,shave,ways to remove hair,medium
+base,bracket,stand,mount,ways to secure a tv,hard
+kneel,stand,salute,bow,ways to show respect,easy
+organize,canvass,campaign,stump,ways to support a candidate,easy
+crop,flip,scale,rotate,ways to transform an image,easy
+password,fingerprint,pin,face,ways to unlock a device,medium
+face,pin,fingerprint,password,ways to unlock a device,medium
+bun,twist,pony,braid,ways to wear your hair up,hard
+rope,wrench,candlestick,knife,weapons in the game clue,hard
+wrench,knife,candlestick,rope,weapons in the game clue,medium
+bore,tire,exhaust,drain,weary,very_hard
+dewpoint,beaufort scale,wind chill,heat index,weather terms,very_hard
+extensions,forward,back,refresh,web browser buttons,medium
+view,file,window,history,web browser menus,hard
+window,history,tab,bookmark,web browser-related,easy
+opera,chrome,edge,safari,web browsers,hard
+opera,chrome,edge,safari,web browsers,medium
+dinky,little,minute,slight,wee,hard
+heavy,middle,light,feather,weights in boxing,very_hard
+sheriff,cowboy,outlaw,drifter,western tropes,hard
+hail,rain,sleet,snow,wet weather,easy
+one hundred,see,cold,celsius,"what ""c"" might mean",very_hard
+clergy member,n.f.l. player,bird,m.l.b. player,"what ""cardinal"" might refer to",very_hard
+suit,gemstone,infield,rhombus,"what ""diamond"" can refer to",very_hard
+guzzle,feathers,sad,willing,"what ""down"" might mean",very_hard
+education,editor,edward,past tense,"what ""ed"" might indicate",very_hard
+yes,why,year,yellow,"what ""y"" might mean",very_hard
+quote,possessive,foot,contraction,what ' can indicate,very_hard
+glass,garnish,straw,coaster,what a drink is served with,hard
+pound,pump,race,throb,what a heart does when excited,medium
+spy,animal,birthmark,unit,what a mole can be,very_hard
+thing,place,person,idea,what a noun might be,medium
+baby,pet,plant,house,what a sitter might sit,hard
+contraction,possessive,foot,quotation,what an apostrophe might indicate,very_hard
+resistance,current,voltage,charge,what an electrometer measures,hard
+clock,beast,candelabra,teacup,what characters were transformed into in “beauty and the beast”,very_hard
+sing,dive,breach,spout,what humpback whales do,hard
+allergy,relief,onion,melodrama,what might bring tears to your eyes,hard
+victory,peace,scissors,two,what the outstretched index and middle fingers can represent,very_hard
+string lights,angel,candy cane,tinsel,what you might see on a christmas tree,easy
+area,one,excellent,athletic,what “a” might mean,very_hard
+defeat,assignment,tired,tempo,what “beat” may mean,very_hard
+william,banknote,invoice,beak,what “bill” might refer to,very_hard
+noble,democratic,erotic,sad,what “blue” might mean,hard
+alloy,suntan,third,sculpture,what “bronze” might mean,very_hard
+enthusiast,polish,muscular,nude,what “buff” might mean,very_hard
+nebula,eyeliner,marble,glasses,what “cat’s eye” can be used to describe,very_hard
+convention,drawback,swindle,criminal,what “con” might mean,hard
+hybrid,betray,angry,crucifix,what “cross” might mean,very_hard
+insults,likes,shovels,apartment,what “digs” might mean,very_hard
+democrat,dimensional,defense,drive,what “d” might stand for,very_hard
+car,director,president,actor,what “ford” might refer to,very_hard
+lush,ecological,fresh,envious,what “green” might mean,very_hard
+naive,nauseous,unwell,jealous,what “green” might mean,very_hard
+freudian concept,driver license,recognize,idaho,what “id” might refer to,easy
+inside,indiana,inch,trendy,what “in” might refer to,medium
+one,iota,myself,iodine,what “i” might mean,hard
+nfl player,black,airplane,hot tub nozzle,what “jet” might refer to,very_hard
+thousand,okay,potassium,kelvin,what “k” might mean,very_hard
+lanthanum,musical note,los angeles,louisiana,what “la” might refer to,hard
+progressive,port,departed,remaining,what “left” might mean,very_hard
+greenlight,oklahoma,british magazine,mediocre,what “ok” might refer to,very_hard
+oxygen,hug,zero,of,what “o” might mean,very_hard
+popular,burst,soda,mainstream,what “pop” might mean,very_hard
+burst,soda,father,dad,what “pop” might mean,very_hard
+bounce,coil,geyser,season,what “spring” might refer to,very_hard
+cattle,broth,merchandise,ancestry,what “stock” might mean,very_hard
+win,tungsten,watt,west,what “w” might stand for,hard
+ten,kiss,times,adult,what “x” might mean,very_hard
+remainder,difference,balance,rest,what’s leftover,easy
+when,harry,sally,met,when harry met sally,hard
+bye,please,bills,gimme,"when tripled, hit song titles",very_hard
+desert,beach,hourglass,playground,where you might find sand,medium
+limousine,movie set,toolbox,golf bag,where you might find “a driver”,very_hard
+who,rabbit,roger,framed,who framed roger rabbit,medium
+teen,adults only,mature,everyone,"who video games are for, per esrb ratings",hard
+sum,count,gross,total,whole amount,medium
+gaucho,palazzo,harem,culotte,wide-legged pant styles,easy
+slack,freedom,license,latitude,wiggle room,medium
+robin,venus,hank,tennessee,williamses,hard
+on board,game,down,in,willing to participate,medium
+borg,graf,king,sinner,wimbledon winners,very_hard
+wind,wine,wing,wink,win + letter,medium
+shutter,drape,shade,blind,window treatments in the singular,very_hard
+grape,winery,region,vintage,wine bottle info,easy
+chard,cab,bubbly,zin,wine nicknames,very_hard
+balanced,full,sweet,dry,wine tasting descriptors,hard
+carafe,bottle,decanter,glass,wine vessels,easy
+moth,gnat,wasp,fly,winged insects,easy
+prize,reward,purse,pot,winnings,easy
+kitty,purse,pot,prize,winnings,medium
+absent,minus,sans,wanting,without,medium
+summer,keys,swift,nicks,women singers,very_hard
+jan,deb,sue,kat,women’s nicknames,medium
+shield,lasso,sword,tiara,wonder woman’s costume,hard
+lighthouse,temple,gardens,pyramid,wonders of the world,hard
+pursue,court,romance,charm,woo,medium
+bassoon,flute,oboe,clarinet,woodwinds,easy
+oboe,clarinet,flute,saxophone,woodwinds,medium
+plane,chisel,rasp,saw,woodworking hand tools,hard
+dovetail,mortise,mitre,dado,woodworking joint terms,hard
+drills,saws,routers,files,woodworking tools,hard
+why,you,are,see,words abbreviated with letters,hard
+tuberculosis,touchdown,trademark,television,words abbreviated with “t” + letter,very_hard
+spy,beam,robot,ching,"words after ""i""",very_hard
+good riddance,sayonara,about time,finally,words after a welcome departure,hard
+degree,marvel,pac-man,paint,words after the letters “ms”,very_hard
+cycle,pod,dent,angle,words after the prefix “tri-”,very_hard
+tree,tray,wednesday,blond,words after “ash”,very_hard
+paste,that,cat,editor,words after “copy”,very_hard
+six,freeze,fake,cut,words after “deep”,very_hard
+candy,witness,contact,shadow,words after “eye”,very_hard
+goose,doodle,parachute,rod,words after “golden”,very_hard
+all out,kart,steady,between,words after “go”,very_hard
+hog,maze,trimmer,fund,words after “hedge”,very_hard
+hawk,litter,corner,cat,words after “kitty”,very_hard
+street,pop,mart,swiss,words after “k”,very_hard
+worries,biggie,sweat,hard feelings,words after “no” to mean “it’s all good”,medium
+pal,phone,check,dirt,words after “pay”,very_hard
+pain,rex,mobile,shirt,words after “t-”,hard
+files,ray,factor,games,words after “x”,very_hard
+dodge,hand,racquet,pickle,"words before ""ball"" in sports",medium
+primary,elementary,grammar,grade,"words before ""school""",hard
+foot,step,toad,bar,"words before ""stool""",very_hard
+pocket,wrist,digital,stop,"words before ""watch""",very_hard
+for,dear,to,attention,words before an addressee,hard
+fat,cyber,ash,black,words before days of the week,very_hard
+murphy,canopy,day,water,words before “bed”,very_hard
+tinker,liberty,bar,dinner,words before “bell”,very_hard
+rhinestone,midnight,drugstore,space,words before “cowboy” in film and music,very_hard
+solo,diva,world,butter,words before “cup”,very_hard
+ear,kettle,steel,snare,words before “drum”,very_hard
+ear,oil,kettle,oil,words before “drum”,very_hard
+chicken,lady,butter,sticky,words before “fingers”,very_hard
+sock,bunny,bar,hip,words before “hop”,very_hard
+chest,hazel,coco,pea,words before “nut”,hard
+brazil,butter,pine,dough,words before “nut”,very_hard
+mister,roy,ginger,jolly,words before “roger/s”,hard
+rest,powder,bath,throne,words before “room” to mean lavatory,very_hard
+love,radio,shake,caddy,words before “shack”,very_hard
+legend,hippo,handsome,lipid,words beginning with body parts,very_hard
+heyday,hijinks,yogurt,supper,words beginning with greetings,very_hard
+cellophane,harpoon,bassinet,organism,words beginning with instruments,very_hard
+ginkgo,tycoon,karaoke,emoji,words derived from japanese,hard
+foxglove,turncoat,windsock,gumshoe,words ending in clothing,very_hard
+freight,ozone,canine,often,words ending in numbers,very_hard
+tomato,vase,aunt,either,words famously pronounced different ways,very_hard
+dog,brat,frank,link,words for sausage,very_hard
+gross,score,pair,dozen,words for specific quantities,hard
+bee,sting,butterfly,float,words in a famous muhammad ali quote,medium
+conquered,came,i,saw,words in a famous quote by caesar,hard
+woodchuck,chuck,wood,could,words in a famous tongue twister,medium
+once,twice,sold,going,words in an auction-ending phrase,medium
+old man,bell,sun,farewell,words in hemingway titles,hard
+woodchuck,peppers,seashells,fuzzy,words in tongue twisters,very_hard
+tea,doe,sew,far,words in “do-re-mi”,very_hard
+biscuit,lincoln,corn,stained,words misspelled in nu metal band names,very_hard
+exit,welcome,open,push,words on a door,hard
+control,command,option,return,words on a mac keyboard,medium
+tip,tax,total,signature,words on a restaurant receipt,hard
+tax,parking,railroad,avenue,words on monopoly squares,very_hard
+reading,job,herb,nice,words pronounced differently as proper nouns,very_hard
+expose,pate,resume,rose,words pronounced differently with accent marks,very_hard
+sure,siobhan,sugar,sean,words pronounced “sh” without an “sh”,very_hard
+black,buttons,back,mack,words repeated in “miss mary mack”,very_hard
+radius,are,reverse,right,"words represented by the letter ""r""",very_hard
+excellent,bogus,dude,totally,words said frequently in the “bill and ted” movies,hard
+gotcha,boo,guess who,surprise,words said to an unsuspecting person,hard
+month,purple,silver,orange,words said to have no exact rhymes,hard
+popular,emotional,progressive,alternative,words shortened in rock genres,hard
+boob,eggshell,hello,giggle,words spelled with an upside-down calculator,very_hard
+mix,livid,dill,mild,words spelled with roman numerals,very_hard
+rocketry,rapture,soulmate,popcorn,words starting with music genres,very_hard
+séance,sacrum,seitan,seychelles,words starting with the “say” sound,hard
+funny,wish,herring,soup,words that go with “bone”,very_hard
+heating,air,conditioning,ventilation,words that make up the acronym “hvac”,hard
+pocket,stop,wrist,smart,words that modify “watch”,hard
+bite,fun,pocket,travel,"words that precede ""-size"" to mean small",very_hard
+bubblegum,k,euro,power,words that precede “pop” in music genres,very_hard
+🧠,🚂,🌧️,✈️,words that rhyme,medium
+worcestershire,colonel,wednesday,pharaoh,words that seem longer written than spoken,very_hard
+ease,jays,bees,use,words that sound like plural letters,hard
+ars,seize,owes,ease,words that sound like plural letters,very_hard
+geez,ayes,wise,tease,words that sound like plural letters,very_hard
+essay,decay,cutie,any,words that sound like two letters,very_hard
+seedy,arty,envy,excel,words that sound like two letters,very_hard
+geo,decay,easy,ziti,words that sounds like two letters,very_hard
+nymph,sphynx,rhythm,myrrh,words whose only vowel is “y”,hard
+id,were,shell,cant,words with apostrophes removed,very_hard
+droplet,starling,kitchenette,doggy,words with diminutive suffixes,very_hard
+trilogy,quadrant,uniform,bicycle,words with numerical prefixes,very_hard
+trilobite,trillion,trident,triangle,words with the prefix meaning “three”,hard
+baggage,giggle,eggnog,leggings,words with three g’s,medium
+lima,job,polish,mobile,words with two pronunciations,very_hard
+dragon,passion,jack,bread,words with “fruit”,very_hard
+mole,capitol,faith,foot,words with “hill”,very_hard
+phone,pad,pod,mac,words with “i”,hard
+teams,meet,zoom,slack,work communication platforms,hard
+saw,drill,grinder,router,workshop tools,hard
+rand,won,real,sterling,world currencies,hard
+pleather vest,earring,mesh shirt,necklace,worn by earring magic ken,hard
+wind,spiral,coil,twist,wrap around in a circle,hard
+gift,mummy,sprain,burrito,wrapped things,very_hard
+yank,wrench,tug,jerk,wrest,easy
+shar pei,prune,crepe paper,brain,wrinkly things,hard
+walnut,pug,brain,prune,wrinkly things,very_hard
+report,paper,essay,article,writing assignments,easy
+pine,yen,desire,long,yearn,easy
+ache,thirst,pine,pine,yearn,hard
+itch,burn,long,long,yearn,hard
+journalism,cab,pages,jacket,yellow ___,easy
+beige,khaki,tan,camel,yellow-brown shades,easy
+bolster,strap,mat,block,yoga accessories,hard
+bridge,cobra,wheel,cow,yoga backbends,hard
+mountain,cobra,triangle,warrior,yoga poses,hard
+chair,tree,mountain,lotus,yoga poses,hard
+tree,cow,cat,warrior,yoga poses,hard
+ding,right,correct,bingo,you got it!,medium
+lib,tau,gem,can,zodiac sign beginnings,very_hard
+bull,ram,crab,lion,zodiac symbols,hard
+bull,twins,crab,scales,zodiac symbols,medium
+goat,fish,scales,twins,zodiac symbols,very_hard
+cookie,apple,vendetta,effort,[letter] (is) for ___,hard
+pop-up,personal,attack,want,___ ad,very_hard
+half,again,so,neck,___ and ___,very_hard
+fire,adam,red,carpenter,___ ant,very_hard
+nepo,beanie,fur,santa,___ baby,very_hard
+doggy,go,mixed,swag,___ bag,very_hard
+gutter,foul,disco,crystal,___ ball,very_hard
+trial,speech,water,lead,___ balloon,very_hard
+wedding,boy,tribute,rubber,___ band,very_hard
+cricket,fruit,baseball,vampire,___ bat,very_hard
+bubble,bird,sponge,mud,___ bath,very_hard
+boo-boo,teddy,brown,honey,___ bear,very_hard
+spelling,honey,busy,queen,___ bee,very_hard
+early,sue,lady,big,___ bird,very_hard
+throw,wet,picnic,security,___ blanket,very_hard
+bad,beach,lost,beach,___ boys,very_hard
+beastie,hardy,pet shop,hardy,___ boys,very_hard
+marx,chemical,blues,blood,___ brothers,very_hard
+dust,honey,bad,bugs,___ bunny,very_hard
+nothing,good,warren,impossible,___ burger,very_hard
+hot,belly,snooze,panic,___ button,very_hard
+sponge,carrot,pound,coffee,___ cake,very_hard
+curtain,booty,close,cold,___ call,very_hard
+cotton,eye,rock,john,___ candy,very_hard
+bumper,clown,sports,getaway,___ car,very_hard
+cool,fat,jungle,copy,___ cat,very_hard
+house,alley,doja,lap,___ cat,very_hard
+supply,daisy,mountain,food,___ chain,very_hard
+high,lawn,first,folding,___ chair,very_hard
+chump,loose,climate,sea,___ change,very_hard
+cottage,cream,cream,cottage,___ cheese,very_hard
+string,goat,string,say,___ cheese,very_hard
+flower,only,problem,poster,___ child,very_hard
+poker,potato,blue,computer,___ chip,very_hard
+family,media,flea,flying,___ circus,very_hard
+magic,motor,windy,sin,___ city nicknames,very_hard
+pipe,dry,vacuum,bathroom,___ cleaner,very_hard
+video,hair,alligator,paper,___ clip,very_hard
+cuckoo,biological,alarm,grandfather,___ clock,very_hard
+secret,dress,health,zip,___ code,very_hard
+sketch,divine,black,prop,___ comedy,very_hard
+birth,remote,quality,cruise,___ control,very_hard
+food,tennis,supreme,kangaroo,___ court,very_hard
+spider,hermit,fiddler,horseshoe,___ crab,very_hard
+construction,paper,whooping,frasier,___ crane,very_hard
+dream,delivery,dinner,due,___ date,very_hard
+may,groundhog,earth,labor,___ day holidays,very_hard
+sweetheart,raw,big,plea,___ deal,very_hard
+demolition,soap box,kentucky,home run,___ derby,very_hard
+teapot,chrome,capitol,onion,___ dome,very_hard
+yankee,google,dipsy,cheese,___ doodle,very_hard
+fever,american,lucid,pipe,___ dream,very_hard
+jury,customs,heavy,civic,___ duty,very_hard
+domino,butterfly,placebo,butterfly,___ effect,very_hard
+halo,side,placebo,domino,___ effect,very_hard
+magic,naked,third,evil,___ eye,very_hard
+ballpark,go,stick,action,___ figure,very_hard
+jelly,star,cray,silver,___ fish that aren’t fish,very_hard
+finger,soul,fast,junk,___ food,very_hard
+connect,petit,fab,fantastic,___ four,very_hard
+mutual,hedge,slush,trust,___ fund,very_hard
+arcade,numbers,squid,blame,___ game,very_hard
+boy,by,saint,curious,___ george,very_hard
+shot,cocktail,old fashioned,collins,___ glass glassware,very_hard
+grey,golden,silly,mother,___ goose,very_hard
+air,rhythm,slide,electric,___ guitar,very_hard
+monty,bingo,study,city,___ hall,very_hard
+gift,charley,crazy,dark,___ horse,very_hard
+happy,eleventh,amateur,rush,___ hour,very_hard
+gingerbread,haunted,full,white,___ house,very_hard
+witch,job,egg,scavenger,___ hunt,very_hard
+waffle,steam,pump,tire,___ iron,very_hard
+enough,a rose,love,a deal,___ is ___ (is ___),very_hard
+sports,life,yellow,dust,___ jacket,very_hard
+pearl,traffic,paper,nba,___ jam,very_hard
+spike lee,hip,pizza,dovetail,___ joint,very_hard
+lion,prom,burger,california,___ king,very_hard
+rope,corporate,word,salmon,___ ladder,very_hard
+love,romance,sign,body,___ language,very_hard
+lemon,natural,harvard,criminal,___ law,very_hard
+ivy,premier,justice,little,___ league,very_hard
+love,cover,chain,scarlet,___ letter,very_hard
+wish,guest,bucket,top ten,___ list,very_hard
+chain,snail,electronic,junk,___ mail,very_hard
+super,bat,spider,iron,___ man superheroes,very_hard
+bull,meat,flea,stock,___ market,very_hard
+hail,virgin,proud,bloody,___ mary,very_hard
+sailor,harvest,blue,new,___ moon,very_hard
+silent,date,buddy,cult,___ movie,very_hard
+waste,nick,passage,sands,___ of time,very_hard
+post,oval,microsoft,box,___ office,very_hard
+comic,soap,rock,met,___ opera,very_hard
+maxi,lily,bachelor,mouse,___ pad,very_hard
+butcher,wax,scrap,toilet,___ paper,very_hard
+amusement,national,south,parallel,___ park,very_hard
+rough,soul,nicotine,cabbage,___ patch,very_hard
+black,dr,bell,ghost,___ pepper,very_hard
+humble,cutie,chess,whoopie,___ pie,very_hard
+bobby,hair,safety,push,___ pin,very_hard
+barbecue,snake,orchestra,tar,___ pit,very_hard
+fever,perfect,sales,elevator,___ pitch,very_hard
+match,selling,west,moot,___ point,very_hard
+sweet,hot,baked,couch,___ potato,very_hard
+booby,door,first,jury,___ prize,very_hard
+white,velveteen,roger,trix,___ rabbit,very_hard
+satellite,talk,pirate,ham,___ radio,very_hard
+pack,rug,gym,mall,___ rat,very_hard
+rocky,dirt,silk,high,___ road,very_hard
+abbey,high,silk,rocky,___ road,very_hard
+little,plymouth,the,classic,___ rock,hard
+california,honor,egg,drum,___ roll,very_hard
+sample,garage,clearance,bake,___ sale,very_hard
+great,navy,elephant,vacuum,___ seal,very_hard
+cheat,fitted,balance,cookie,___ sheet,very_hard
+sweat,ankle,crew,tube,___ socks,very_hard
+banana,7-10,lickety,stock,___ split,very_hard
+town,pocket,perfect,times,___ square,very_hard
+memory,selfie,fish,hockey,___ stick,very_hard
+comic,landing,bacon,sunset,___ strip,very_hard
+cough,simple,maple,corn,___ syrup,very_hard
+water,periodic,pool,coffee,___ table,very_hard
+dog,price,freeze,phone,___ tag,very_hard
+fairy,tall,fish,folk,___ tale,very_hard
+sweet,baby,pillow,small,___ talk,very_hard
+demo,red,scotch,ticker,___ tape,very_hard
+border,rat,boston,bull,___ terrier,very_hard
+eye,baby,wisdom,sweet,___ tooth,very_hard
+bear,sand,speed,tourist,___ trap,very_hard
+right,love,bermuda,acute,___ triangle,very_hard
+ego,guilt,head,power,___ trip,very_hard
+vacuum,fallopian,inner,test,___ tube,very_hard
+fat,taco,giving,super,___ tuesday,very_hard
+bottoms,lawyer,batter,chin,___ up,very_hard
+uncanny,silicon,hidden,death,___ valley,very_hard
+hamster,prayer,color,cheese,___ wheel,very_hard
+body,bubble,gift,shrink,___ wrap,very_hard
+gap,light,school,leap,___ year,very_hard
+twilight,comfort,time,buffer,___ zone,very_hard
+daddy,jackie,day,jell,___-o,very_hard
+boo,yo,pom,tom,___-___,very_hard
+fast,knuckle,curve,screw,___ball pitches,very_hard
+pickle,soft,dodge,kick,___ball recreational sports,very_hard
+elder,goose,caper,logan,___berry,very_hard
+goose,blue,straw,rasp,___berry,very_hard
+hover,key,dash,star,___board,very_hard
+mac,face,match,pocket,___book (that’s not a book),very_hard
+juke,chatter,soap,shadow,___box,very_hard
+pan,cup,short,cheese,___cake,very_hard
+night,mad,hub,knee,___cap,very_hard
+type,pod,broad,fore,___cast,very_hard
+capri,uni,a,pop,___corn,very_hard
+bull,watch,lap,under,___dog,very_hard
+sword,cat,blow,gold,___fish,very_hard
+sun,wild,wall,may,___flower,very_hard
+butter,fire,dragon,horse,___fly,very_hard
+fore,arrow,block,knuckle,___head,very_hard
+matter,bull,fog,shoe,___horn,very_hard
+rough,porter,power,wheel,___house (that aren’t houses),very_hard
+flap,lumber,apple,cracker,___jack,very_hard
+fin,ire,ice,green,___land,very_hard
+bogey,crafts,gentle,spokes,___man,very_hard
+bottle,break,turtle,goose,___neck,very_hard
+word,fore,horse,screen,___play,very_hard
+tad,flag,may,bean,___pole,very_hard
+liver,car,whirl,dead,___pool,very_hard
+chop,candle,yard,joy,___stick,very_hard
+fish,fiddle,chop,drum,___sticks,very_hard
+mile,key,birth,brim,___stone,very_hard
+yellow,lime,rhine,touch,___stone,very_hard
+heart,ham,shoe,draw,___string,very_hard
+cock,mock,pony,pig,___tail,very_hard
+holly,dog,sandal,drift,___wood,very_hard
+loan,cross,pass,buzz,___word,very_hard
+inch,earth,glow,book,___worm,very_hard
+king,carte,mode,plancha,à/a la ___,very_hard
+mercy,uncle,truce,stop,"“aah, enough!”",hard
+same,ditto,second,likewise,“agree!”,hard
+nice,cool,sweet,sick,“awesome!”,easy
+lieutenant,boys,santa,taste,“bad ___” movies,very_hard
+bane,joker,penguin,scarecrow,“batman” villains,hard
+intercoms,bees,caffeine,gossip,“buzzy” things,very_hard
+easy,enough,chill,relax,“calm down”,medium
+cell,contact,digits,number,“can i get your ___?” (phone info request),medium
+crunch,planet,kangaroo,obvious,“captains”,very_hard
+chen,clark,cowl,craven,“c” + bird,very_hard
+coat,crust,cake,cover,“c” words for “envelop”,medium
+hurry,stat,now,pronto,“don’t delay!”,easy
+sports,ticket,bike,cigarette,“e-” things,very_hard
+oil,extra,olive,virgin,“extra virgin olive oil”,hard
+scooter,commerce,signature,mail,“e” things,very_hard
+bird,willy,fallin’,solo,“free ___”,very_hard
+life,clue,room,grip,“get a ___!”,very_hard
+lord,heavens,mercy,goodness,“gracious me!”,medium
+impressive,well done,nice,props,“great job!”,hard
+ew,pu,ick,ugh,“gross!”,easy
+perhaps,what if,say,suppose,“here’s a thought ...”,medium
+enough,mercy,uncle,stop,“i give!”,medium
+lover,sinner,joker,smoker,“i’m a ___” (lyrics in “the joker”),very_hard
+tigers,bears,oh my,lions,"“lions and tigers and bears, oh my!”",easy
+meg,amy,jo,beth,“little women” sisters,hard
+beaucoup,mucho,molto,multi,“many” in different languages,medium
+apologies,pardon,sorry,oops,“my mistake!”,medium
+piece of cake,easy,sure thing,no sweat,“nothing to it!”,easy
+camera movement,satyr,cookware,bad review,“pan”,very_hard
+peppermint patty,charlie,woodstock,pigpen,“peanuts” characters,hard
+peter,nana,hook,wendy,“peter pan” characters,hard
+rats,shoot,darn,curses,“phooey!”,hard
+phish,philly,phew,phat,“ph” words that also work with “f”,hard
+cricket,puppet,woodcarver,whale,“pinocchio” figures,hard
+arrow,dog,finger,hint,“pointers”,very_hard
+shannon,fey,rudolph,strong,“s.n.l.” cast members,very_hard
+snuffy,cookie,count,oscar,“sesame street” characters,hard
+grouch,count,monster,bird,“sesame street” figures,hard
+enough,relax,easy,quiet,“settle down!”,easy
+leave,scram,get out,go,“skedaddle!”,easy
+wednesday,lurch,thing,fester,“the addams family” characters,hard
+scarecrow,lion,witch,wizard,“the wizard of oz” figures,medium
+creator,stallion,rapper,dude,“the(e) ___” rappers,very_hard
+buzz,hamm,rex,slinky,"“toy story” characters, familiarly",hard
+shell,well,ill,hell,“will” contractions without the apostrophe,hard
+ja,da,si,hai,“yes” in different languages,hard
+love,fantasy,treasure,shutter,“___ island”,very_hard
+dough,bough,cough,tough,”-ough” words that don’t rhyme,very_hard
+dot,point,period,tittle,•,easy
