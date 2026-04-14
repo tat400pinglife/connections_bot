@@ -1,4 +1,8 @@
 word1,word2,word3,word4,label,meta_category,original_category
+bookmark,cache,cookie,history,1,Noun/Concept Synonyms,things stored by a browser
+bell,gloves,ring,round,1,Noun/Concept Synonyms,boxing terms
+lean,list,pitch,tip,1,Action/Verb synonyms,tilt
+lance,mason,style,way,1,Fill-in-the-blank,"""Free ___"""
 curses,fudge,blast,crud,1,Idioms & Slang,"""aw, heck!"" "
 wet,blast,crud,curses,0,Idioms & Slang,Hard Distractor
 blast,fudge,blueprint,curses,0,Idioms & Slang,Random Distractor
