@@ -1,1 +1,4 @@
 *.safetensors
+/Freq_proj/dataset/frames
+/Freq_proj/Video Folder
+/Freq_proj/dataset/tensors
