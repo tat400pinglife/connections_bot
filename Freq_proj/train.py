@@ -1,6 +1,9 @@
 import warnings
 warnings.filterwarnings("ignore")
 
+import os
+import glob
+import gc
 import torch
 import torch.nn as nn
 import torch.optim as optim
@@ -10,40 +13,30 @@ from torchvision.models import resnet18, ResNet18_Weights
 from sklearn.model_selection import GroupShuffleSplit
 from tqdm import tqdm
 import matplotlib.pyplot as plt
-import os
+import torch._dynamo
+torch._dynamo.config.suppress_errors = True # Bypasses the missing cl.exe C++ compiler error
 
-# Hardware Optimizations
-# Enable cuDNN benchmark for static padded shapes
 torch.backends.cudnn.benchmark = True
-# Enable TensorFloat-32 matrix multiplications 
 torch.backends.cuda.matmul.allow_tf32 = True
 torch.backends.cudnn.allow_tf32 = True
 
-# The Precomputed Dataset Loader
-class PrecomputedFrequencyDataset(Dataset):
-    def __init__(self, dataframe, max_patches=60):
-        self.dataframe = dataframe
-        self.max_patches = max_patches
+class SelfContainedFrequencyDataset(Dataset):
+    def __init__(self, file_paths):
+        self.file_paths = file_paths
 
     def __len__(self):
-        return len(self.dataframe)
+        return len(self.file_paths)
 
     def __getitem__(self, idx):
-        tensor_path = self.dataframe.iloc[idx]['tensor_path']
-        label = self.dataframe.iloc[idx]['label']
-        spectra = torch.load(tensor_path) 
+        # Load the dictionary payload
+        payload = torch.load(self.file_paths[idx])
         
-        # Static shape padding
-        n_patches = spectra.shape[0]
-        if n_patches < self.max_patches:
-            padding = torch.zeros(self.max_patches - n_patches, 1, 256, 256)
-            spectra = torch.cat([spectra, padding], dim=0)
-        elif n_patches > self.max_patches:
-            spectra = spectra[:self.max_patches]
-            
+        # Extract the embedded tensor and cast back to float32 for stable DataLoader collation
+        spectra = payload['tensor'].float() 
+        label = payload['label']
+        
         return spectra, torch.tensor(label, dtype=torch.float32)
 
-# The Architecture
 class FastFrequencyModel(nn.Module):
     def __init__(self, pretrained=True):
         super().__init__()
@@ -67,59 +60,58 @@ class FastFrequencyModel(nn.Module):
         B, N, C, H, W = spectra.shape
         spectra = spectra.view(B * N, C, H, W) 
         
-        # Channel-last memory optimization works beautifully on GPUs with AMP
+        # Channel-last memory optimization
         spectra = spectra.to(memory_format=torch.channels_last)
         
         patch_logits = self.backbone(spectra) 
         patch_logits = patch_logits.view(B, N, 1) 
         frame_logit, _ = torch.max(patch_logits, dim=1) 
+        
         return frame_logit
 
-# Data Preparation
-def prepare_data(csv_path, batch_size=16): 
-    df = pd.read_csv(csv_path)
+def prepare_data(tensor_dir, batch_size=16):
+    all_files = glob.glob(os.path.join(tensor_dir, "*.pt"))
+    if not all_files:
+        raise ValueError(f"No .pt files found in {tensor_dir}. Check your extraction path.")
+    
+    # Extract video_ids to prevent data leakage across Train/Val
+    video_ids = [os.path.basename(f).split('_frame_')[0] for f in all_files]
+    df = pd.DataFrame({'file_path': all_files, 'video_id': video_ids})
+    
     gss = GroupShuffleSplit(n_splits=1, test_size=0.15, random_state=42)
     train_idx, val_idx = next(gss.split(df, groups=df['video_id']))
     
-    train_df = df.iloc[train_idx]
-    val_df = df.iloc[val_idx]
+    train_files = df.iloc[train_idx]['file_path'].tolist()
+    val_files = df.iloc[val_idx]['file_path'].tolist()
     
-    print(f"Dataset split: {len(train_df)} Train frames | {len(val_df)} Val frames")
+    print(f"Dataset split: {len(train_files)} Train frames | {len(val_files)} Val frames")
 
-    train_dataset = PrecomputedFrequencyDataset(train_df)
-    val_dataset = PrecomputedFrequencyDataset(val_df)
+    train_dataset = SelfContainedFrequencyDataset(train_files)
+    val_dataset = SelfContainedFrequencyDataset(val_files)
 
-    # Pin memory is for fast CPU -> GPU transfers
-    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=4, pin_memory=True, drop_last=True)
-    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=4, pin_memory=True, drop_last=True)
+    # RAM Fix: num_workers=0 and pin_memory=False stops background process bloat
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, num_workers=0, pin_memory=False, drop_last=True)
+    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False, num_workers=0, pin_memory=False, drop_last=True)
     
     return train_loader, val_loader
 
-# GPU Training Loop
 def train_model(model, train_loader, val_loader, epochs=30, learning_rate=1e-4, save_path="best_cuda_model.pth"):
-    device = torch.device("cuda")
-    print(f"\n[INIT] Training securely on: {torch.cuda.get_device_name(device)}")
-    
-    # Try to compile model (Linux server environment)
-    try:
-        print("[INIT] Compiling model for extra acceleration...")
-        model = torch.compile(model)
-    except Exception as e:
-        print(f"[INIT] torch.compile() skipped: {e}")
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    print(f"\n[INIT] Training securely on: {device}")
         
-    model = model.to(device, memory_format=torch.channels_last)
-    
+    model = model.to(device)
     criterion = nn.BCEWithLogitsLoss() 
     optimizer = optim.AdamW(model.parameters(), lr=learning_rate, weight_decay=1e-4)
     scheduler = optim.lr_scheduler.ReduceLROnPlateau(optimizer, 'min', patience=2, factor=0.5)
 
-    # Initialize the AMP Gradient Scaler
+    # Automatic Mixed Precision (AMP) Scaler for speed
     scaler = torch.cuda.amp.GradScaler()
 
     history = {'train_loss': [], 'val_loss': [], 'train_acc': [], 'val_acc': []}
     best_val_loss = float('inf')
 
     for epoch in range(epochs):
+        # Training 
         model.train()
         running_loss = 0.0
         correct_train = 0
@@ -131,13 +123,14 @@ def train_model(model, train_loader, val_loader, epochs=30, learning_rate=1e-4, 
             spectra = spectra.to(device, non_blocking=True)
             labels = labels.to(device, non_blocking=True).unsqueeze(1)
             
-            optimizer.zero_grad(set_to_none=True) # Slightly faster than standard zero_grad()
+            optimizer.zero_grad(set_to_none=True) 
             
-            # Automatic Mixed Precision (AMP) Block
+            # AMP Forward Pass (16-bit math)
             with torch.autocast(device_type='cuda', dtype=torch.float16):
                 frame_logits = model(spectra) 
                 loss = criterion(frame_logits, labels)
             
+            # AMP Backward Pass
             scaler.scale(loss).backward()
             scaler.step(optimizer)
             scaler.update()
@@ -151,6 +144,7 @@ def train_model(model, train_loader, val_loader, epochs=30, learning_rate=1e-4, 
             loop.set_description(f"Epoch [{epoch+1}/{epochs}]")
             loop.set_postfix(acc=correct_train/total_train)
 
+        # Validation
         model.eval()
         val_loss = 0.0
         correct_val = 0
@@ -171,6 +165,7 @@ def train_model(model, train_loader, val_loader, epochs=30, learning_rate=1e-4, 
                 correct_val += (preds == labels).sum().item()
                 total_val += labels.size(0)
                 
+        # Metrics/Save Checkpoint
         avg_train_loss = running_loss / total_train
         train_acc = correct_train / total_train
         avg_val_loss = val_loss / total_val
@@ -189,18 +184,21 @@ def train_model(model, train_loader, val_loader, epochs=30, learning_rate=1e-4, 
             print(f"[*] Val Loss improved from {best_val_loss:.4f} to {avg_val_loss:.4f}. Saving model...")
             best_val_loss = avg_val_loss
             
-            # Save the underlying weights, stripping the compiler wrapper if present
             save_model = model._orig_mod if hasattr(model, '_orig_mod') else model
             torch.save(save_model.state_dict(), save_path)
         else:
             print(f"[-] Val loss did not improve from {best_val_loss:.4f}.")
         
+        gc.collect()
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+            
         print("") 
         scheduler.step(avg_val_loss)
 
     return history
 
-def plot_metrics(history, output_path="training_metrics_cuda.png"):
+def plot_metrics(history, output_path="training_metrics.png"):
     print("Generating training metric graphs...")
     epochs = range(1, len(history['train_loss']) + 1)
     
@@ -224,12 +222,24 @@ def plot_metrics(history, output_path="training_metrics_cuda.png"):
     plt.tight_layout()
     plt.savefig(output_path, dpi=300)
     plt.close()
+    print(f"Metrics graph saved successfully to: {output_path}")
 
 if __name__ == "__main__":
-    CSV_PATH = "./dataset/tensor_labels.csv"
+    TENSOR_DIR = "./dataset/tensors"
     
-    train_dl, val_dl = prepare_data(CSV_PATH, batch_size=16) 
+    # If CUDA OutOfMemory error, change batch_size to 8 or 4
+    train_dl, val_dl = prepare_data(TENSOR_DIR, batch_size=16) 
+    
     model = FastFrequencyModel(pretrained=True)
     
-    training_history = train_model(model, train_dl, val_dl, epochs=30, save_path="model.pth")
+    # Start loop
+    training_history = train_model(
+        model=model, 
+        train_loader=train_dl, 
+        val_loader=val_dl, 
+        epochs=30, 
+        save_path="best_cuda_model.pth"
+    )
+    
+    # Output the final training graphs
     plot_metrics(training_history, output_path="training_metrics.png")
