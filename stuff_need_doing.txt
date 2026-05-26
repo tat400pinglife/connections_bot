@@ -1,3 +1,0 @@
-A new approach for the word model, I think its pretty mandatory to be using a word encoder for a bi-encoder model
-Computation time save can probably be found in the global partition, method to increase spead TBD
-
